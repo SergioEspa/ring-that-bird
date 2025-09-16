@@ -1,0 +1,49 @@
+:root {
+    --sidebar-width: 260px;
+    --sidebar-width-collapsed: 75px;
+    --bg-dark: #343a40;
+    --bg-primary: #008766;
+    --bg-secondary: #85bdb0;
+    --bg-tertiary: rgb(101, 143, 137);
+}
+
+#sidebar {
+    width: var(--sidebar-width);
+    transition: all 0.3s ease;
+}
+
+#sidebar.collapsed {
+    width: var(--sidebar-width-collapsed);
+}
+
+.sidebar-link {
+    transition: all 0.2s ease;
+}
+
+.sidebar-link:hover {
+    background-color: var(--bg-tertiary);
+}
+
+.sidebar-icon {
+    flex-shrink: 0;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+.bg-primary {
+    background-color: #008766 !important;
+}
+
+.bg-secondary {
+    background-color: #85bdb0 !important;
+}
+
+.bg-tertiary {
+    background-color: rgb(101, 143, 137) !important;
+}
+
+#main-content {
+    background: linear-gradient(135deg, #e8fdf5, #c1e7dc, #f9fafc);
+}
