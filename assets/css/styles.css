@@ -6,6 +6,7 @@
     --bg-secondary: #85bdb0;
     --bg-tertiary: rgba(36, 95, 81, 0.179);
     --secondary-color: #f2f291;
+    --bg-primary-bright: #00b386;
 }
 
 #sidebar {
@@ -79,4 +80,16 @@
 
 #sidebar.collapsed ~ #main-content {
     margin-left: var(--sidebar-width-collapsed);
+}
+
+/* Ensure button appears over map */
+#add-bird-btn {
+    z-index: 1000 !important;
+    border: none;
+    background-color: var(--bg-primary-bright);
+}
+
+#add-bird-btn:hover {
+    background-color: var(--bg-primary);
+    color: #fff !important;
 }

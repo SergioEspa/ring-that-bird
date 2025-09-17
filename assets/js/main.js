@@ -87,6 +87,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 if (page === 'map.html') {
                     initializeMap();
+
+                    const addBirdBtn = document.getElementById('add-bird-btn');
+                    addBirdBtn.addEventListener('click', function() {
+                        alert('Funcionalidad para añadir anillamiento próximamente.');
+                    });
                 }
             });
     }
