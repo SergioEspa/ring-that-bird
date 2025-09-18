@@ -1,0 +1,6382 @@
+[
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Branta bernicla",
+    "subespecie": "bernicla, hrota",
+    "species": "Brant Goose",
+    "especie": "Barnacla carinegra",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Branta ruficollis",
+    "subespecie": "",
+    "species": "Red-breasted Goose",
+    "especie": "Barnacla cuellirroja",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Branta leucopsis",
+    "subespecie": "",
+    "species": "Barnacle Goose",
+    "especie": "Barnacla cariblanca",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "D"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser caerulescens",
+    "subespecie": "atlanticus",
+    "species": "Snow Goose",
+    "especie": "Ánsar nival",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser anser",
+    "subespecie": "anser",
+    "species": "Greylag Goose",
+    "especie": "Ánsar común",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "A(i)"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser fabalis",
+    "subespecie": "fabalis",
+    "species": "Taiga Bean Goose",
+    "especie": "Ánsar campestre de la taiga",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser brachyrhynchus",
+    "subespecie": "",
+    "species": "Pink-footed Goose",
+    "especie": "Ánsar piquicorto",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser serrirostris",
+    "subespecie": "rossicus",
+    "species": "Tundra Bean Goose",
+    "especie": "Ánsar campestre de la tundra",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser albifrons",
+    "subespecie": "flavirostris, albifrons",
+    "species": "Greater White-fronted Goose",
+    "especie": "Ánsar careto",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Cygnus olor",
+    "subespecie": "",
+    "species": "Mute Swan",
+    "especie": "Cisne vulgar",
+    "PB": "A (i)",
+    "NA": "D",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Cygnus columbianus",
+    "subespecie": "bewickii",
+    "species": "Tundra Swan",
+    "especie": "Cisne chico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Cygnus cygnus",
+    "subespecie": "",
+    "species": "Whooper Swan",
+    "especie": "Cisne cantor",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Tadorna tadorna",
+    "subespecie": "",
+    "species": "Common Shelduck",
+    "especie": "Tarro blanco",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Tadorna ferruginea",
+    "subespecie": "",
+    "species": "Ruddy Shelduck",
+    "especie": "Tarro canelo",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Spatula querquedula",
+    "subespecie": "",
+    "species": "Garganey",
+    "especie": "Cerceta carretona",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Spatula discors",
+    "subespecie": "",
+    "species": "Blue-winged Teal",
+    "especie": "Cerceta aliazul",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Spatula clypeata",
+    "subespecie": "",
+    "species": "Northern Shoveler",
+    "especie": "Cuchara común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mareca strepera",
+    "subespecie": "strepera",
+    "species": "Gadwall",
+    "especie": "Ánade friso",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mareca penelope",
+    "subespecie": "",
+    "species": "Eurasian Wigeon",
+    "especie": "Silbón europeo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mareca americana",
+    "subespecie": "",
+    "species": "American Wigeon",
+    "especie": "Silbón americano",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anas platyrhynchos",
+    "subespecie": "platyrhynchos",
+    "species": "Mallard",
+    "especie": "Ánade azulón",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anas rubripes",
+    "subespecie": "",
+    "species": "American Black Duck",
+    "especie": "Ánade sombrío",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anas acuta",
+    "subespecie": "",
+    "species": "Northern Pintail",
+    "especie": "Ánade rabudo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anas crecca",
+    "subespecie": "",
+    "species": "Eurasian Teal",
+    "especie": "Cerceta común",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anas carolinensis",
+    "subespecie": "",
+    "species": "Green-winged Teal",
+    "especie": "Cerceta americana",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Marmaronetta angustirostris",
+    "subespecie": "",
+    "species": "Marbled Duck",
+    "especie": "Cerceta pardilla",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Netta rufina",
+    "subespecie": "",
+    "species": "Red-crested Pochard",
+    "especie": "Pato colorado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya ferina",
+    "subespecie": "",
+    "species": "Common Pochard",
+    "especie": "Porrón europeo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya nyroca",
+    "subespecie": "",
+    "species": "Ferruginous Duck",
+    "especie": "Porrón pardo",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya collaris",
+    "subespecie": "",
+    "species": "Ring-necked Duck",
+    "especie": "Porrón acollarado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya fuligula",
+    "subespecie": "",
+    "species": "Tufted Duck",
+    "especie": "Porrón moñudo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya marila",
+    "subespecie": "marila",
+    "species": "Greater Scaup",
+    "especie": "Porrón bastardo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aythya affinis",
+    "subespecie": "",
+    "species": "Lesser Scaup",
+    "especie": "Porrón bola",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Somateria spectabilis",
+    "subespecie": "",
+    "species": "King Eider",
+    "especie": "Éider real",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Somateria mollissima",
+    "subespecie": "mollissima",
+    "species": "Common Eider",
+    "especie": "Éider común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Melanitta perspicillata",
+    "subespecie": "",
+    "species": "Surf Scoter",
+    "especie": "Negrón careto",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Melanitta fusca",
+    "subespecie": "",
+    "species": "Velvet Scoter",
+    "especie": "Negrón especulado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Melanitta stejnegeri",
+    "subespecie": "",
+    "species": "Stejneger's Scoter",
+    "especie": "Negrón siberiano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Melanitta nigra",
+    "subespecie": "",
+    "species": "Common Scoter",
+    "especie": "Negrón común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Melanitta americana",
+    "subespecie": "",
+    "species": "Black Scoter",
+    "especie": "Negrón americano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Clangula hyemalis",
+    "subespecie": "",
+    "species": "Long-tailed Duck",
+    "especie": "Pato havelda",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Bucephala albeola",
+    "subespecie": "",
+    "species": "Bufflehead",
+    "especie": "Porrón albeola",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Bucephala clangula",
+    "subespecie": "clangula",
+    "species": "Common Goldeneye",
+    "especie": "Porrón osculado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Bucephala islandica",
+    "subespecie": "",
+    "species": "Barrow's Goldeneye",
+    "especie": "Porrón islándico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mergellus albellus",
+    "subespecie": "",
+    "species": "Smew",
+    "especie": "Serreta chica",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mergus merganser",
+    "subespecie": "merganser",
+    "species": "Common Merganser",
+    "especie": "Serreta grande",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mergus serrator",
+    "subespecie": "",
+    "species": "Red-breasted Merganser",
+    "especie": "Serreta mediana",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Oxyura leucocephala",
+    "subespecie": "",
+    "species": "White-headed Duck",
+    "especie": "Malvasía cabeciblanca",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Tetrastes bonasia",
+    "subespecie": "styriacus",
+    "species": "Hazel Grouse",
+    "especie": "Grévol común",
+    "PB": "B (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Lagopus muta",
+    "subespecie": "pyrenaica",
+    "species": "Rock Ptarmigan",
+    "especie": "Lagópodo alpino",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Tetrao urogallus",
+    "subespecie": "cantabricus, aquitanicus",
+    "species": "Western Capercaillie",
+    "especie": "Urogallo común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Perdix perdix",
+    "subespecie": "hispaniensis",
+    "species": "Grey Partridge",
+    "especie": "Perdiz pardilla",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Coturnix coturnix",
+    "subespecie": "coturnix, confisa",
+    "species": "Common Quail",
+    "especie": "Codorniz común",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Alectoris barbara",
+    "subespecie": "koenigi, barbara",
+    "species": "Barbary Partridge",
+    "especie": "Perdiz moruna",
+    "PB": "",
+    "NA": "A (i)",
+    "CA": "C"
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Alectoris rufa",
+    "subespecie": "hispanica, intercedens",
+    "species": "Red-legged Partridge",
+    "especie": "Perdiz roja",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "C"
+  },
+  {
+    "familia": "CAPRIMULGIDAE",
+    "sciName": "Chordeiles minor",
+    "subespecie": "ASD",
+    "species": "Common Nighthawk",
+    "especie": "Añapero yanqui",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CAPRIMULGIDAE",
+    "sciName": "Caprimulgus ruficollis",
+    "subespecie": "ruficollis",
+    "species": "Red-necked Nightjar",
+    "especie": "Chotacabras cuellirrojo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CAPRIMULGIDAE",
+    "sciName": "Caprimulgus europaeus",
+    "subespecie": "europaeus, meridionalis",
+    "species": "European Nightjar",
+    "especie": "Chotacabras europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CAPRIMULGIDAE",
+    "sciName": "Caprimulgus aegyptius",
+    "subespecie": "saharae",
+    "species": "Egyptian Nightjar",
+    "especie": "Chotacabras egipcio",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Chaetura pelagica",
+    "subespecie": "",
+    "species": "Chimney Swift",
+    "especie": "Vencejo de chimenea",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Tachymarptis melba",
+    "subespecie": "melba",
+    "species": "Alpine Swift",
+    "especie": "Vencejo real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Apus apus",
+    "subespecie": "apus",
+    "species": "Common Swift",
+    "especie": "Vencejo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Apus unicolor",
+    "subespecie": "",
+    "species": "Plain Swift",
+    "especie": "Vencejo unicolor",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Apus pallidus",
+    "subespecie": "brehmorum",
+    "species": "Pallid Swift",
+    "especie": "Vencejo pálido",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Apus affinis",
+    "subespecie": "galilejensis",
+    "species": "Little Swift",
+    "especie": "Vencejo moro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "APODIDAE",
+    "sciName": "Apus caffer",
+    "subespecie": "",
+    "species": "White-rumped Swift",
+    "especie": "Vencejo cafre",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "OTIDIDAE",
+    "sciName": "Otis tarda",
+    "subespecie": "tarda",
+    "species": "Great Bustard",
+    "especie": "Avutarda euroasiática",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "OTIDIDAE",
+    "sciName": "Chlamydotis undulata",
+    "subespecie": "fuertaventurae",
+    "species": "Houbara Bustard",
+    "especie": "Avutarda hubara africana",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "OTIDIDAE",
+    "sciName": "Tetrax tetrax",
+    "subespecie": "",
+    "species": "Little Bustard",
+    "especie": "Sisón común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CUCULIDAE",
+    "sciName": "Clamator glandarius",
+    "subespecie": "",
+    "species": "Great Spotted Cuckoo",
+    "especie": "Críalo europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CUCULIDAE",
+    "sciName": "Coccyzus americanus",
+    "subespecie": "",
+    "species": "Yellow-billed Cuckoo",
+    "especie": "Cuclillo piquigualdo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CUCULIDAE",
+    "sciName": "Cuculus canorus",
+    "subespecie": "canorus, bangsi",
+    "species": "Common Cuckoo",
+    "especie": "Cuco común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PTEROCLIDAE",
+    "sciName": "Syrrhaptes paradoxus",
+    "subespecie": "",
+    "species": "Pallas's Sandgrouse",
+    "especie": "Ganga de Pallas",
+    "PB": "B",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PTEROCLIDAE",
+    "sciName": "Pterocles alchata",
+    "subespecie": "alchata, caudacutus",
+    "species": "Pin-tailed Sandgrouse",
+    "especie": "Ganga ibérica",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PTEROCLIDAE",
+    "sciName": "Pterocles orientalis",
+    "subespecie": "orientalis",
+    "species": "Black-bellied Sandgrouse",
+    "especie": "Ganga ortega",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Columba livia",
+    "subespecie": "livia",
+    "species": "Rock Dove",
+    "especie": "Paloma bravía",
+    "PB": "A (i)",
+    "NA": "A (i)",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Columba oenas",
+    "subespecie": "oenas",
+    "species": "Stock Dove",
+    "especie": "Paloma zurita",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Columba palumbus",
+    "subespecie": "palumbus",
+    "species": "Common Wood Pigeon",
+    "especie": "Paloma torcaz",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Columba bollii",
+    "subespecie": "",
+    "species": "Bolle's Pigeon",
+    "especie": "Paloma turqué",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Columba junoniae",
+    "subespecie": "",
+    "species": "Laurel Pigeon",
+    "especie": "Paloma rabiche",
+    "PB": "",
+    "NA": "",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Streptopelia turtur",
+    "subespecie": "turtur, arenicola",
+    "species": "European Turtle Dove",
+    "especie": "Tórtola europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Streptopelia orientalis",
+    "subespecie": "meena",
+    "species": "Oriental Turtle Dove",
+    "especie": "Tórtola oriental",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Streptopelia decaocto",
+    "subespecie": "",
+    "species": "Eurasian Collared Dove",
+    "especie": "Tórtola turca",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Spilopelia senegalensis",
+    "subespecie": "phoenicophila",
+    "species": "Laughing Dove",
+    "especie": "Tórtola senegalesa",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Rallus aquaticus",
+    "subespecie": "aquaticus",
+    "species": "Water Rail",
+    "especie": "Rascón europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Crex egregia",
+    "subespecie": "",
+    "species": "African Crake",
+    "especie": "Guión africano",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Crex crex",
+    "subespecie": "",
+    "species": "Corn Crake",
+    "especie": "Guión de codornices",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Porzana carolina",
+    "subespecie": "",
+    "species": "Sora",
+    "especie": "Polluela sora",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Porzana porzana",
+    "subespecie": "",
+    "species": "Spotted Crake",
+    "especie": "Polluela pintoja",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Paragallinula angulata",
+    "subespecie": "",
+    "species": "Lesser Moorhen",
+    "especie": "Gallineta chica",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Gallinula chloropus",
+    "subespecie": "chloropus",
+    "species": "Common Moorhen",
+    "especie": "Gallineta común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Fulica atra",
+    "subespecie": "atra",
+    "species": "Eurasian Coot",
+    "especie": "Focha común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Fulica cristata",
+    "subespecie": "",
+    "species": "Red-knobbed Coot",
+    "especie": "Focha moruna",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "D"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Fulica americana",
+    "subespecie": "americana",
+    "species": "American Coot",
+    "especie": "Focha americana",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Porphyrio alleni",
+    "subespecie": "",
+    "species": "Allen's Gallinule",
+    "especie": "Calamoncillo africano",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Porphyrio martinicus",
+    "subespecie": "",
+    "species": "Purple Gallinule",
+    "especie": "Calamoncillo americano",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Porphyrio porphyrio",
+    "subespecie": "porphyrio, madagascariensis",
+    "species": "Western Swamphen",
+    "especie": "Calamón común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Zapornia pusilla",
+    "subespecie": "intermedia",
+    "species": "Baillon's Crake",
+    "especie": "Polluela chica",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Zapornia parva",
+    "subespecie": "",
+    "species": "Little Crake",
+    "especie": "Polluela bastarda",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "RALLIDAE",
+    "sciName": "Amaurornis marginalis",
+    "subespecie": "",
+    "species": "Striped Crake",
+    "especie": "Polluela culirroja",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "GRUIDAE",
+    "sciName": "Antigone canadensis",
+    "subespecie": "ASD",
+    "species": "Sandhill Crane",
+    "especie": "Grulla canadiense",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "GRUIDAE",
+    "sciName": "Grus virgo",
+    "subespecie": "",
+    "species": "Demoiselle Crane",
+    "especie": "Grulla damisela",
+    "PB": "B (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "GRUIDAE",
+    "sciName": "Grus grus",
+    "subespecie": "",
+    "species": "Common Crane",
+    "especie": "Grulla común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Tachybaptus ruficollis",
+    "subespecie": "ruficollis",
+    "species": "Little Grebe",
+    "especie": "Zampullín común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Podilymbus podiceps",
+    "subespecie": "¿podiceps?",
+    "species": "Pied-billed Grebe",
+    "especie": "Zampullín picogrueso",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Podiceps grisegena",
+    "subespecie": "grisegena",
+    "species": "Red-necked Grebe",
+    "especie": "Somormujo cuellirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Podiceps cristatus",
+    "subespecie": "cristatus",
+    "species": "Great Crested Grebe",
+    "especie": "Somormujo lavanco",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Podiceps auritus",
+    "subespecie": "auritus",
+    "species": "Horned Grebe",
+    "especie": "Zampullín cuellirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PODICIPEDIDAE",
+    "sciName": "Podiceps nigricollis",
+    "subespecie": "nigricollis",
+    "species": "Black-necked Grebe",
+    "especie": "Zampullín cuellinegro",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PHOENICOPTERIDAE",
+    "sciName": "Phoenicopterus roseus",
+    "subespecie": "",
+    "species": "Greater Flamingo",
+    "especie": "Flamenco común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHOENICOPTERIDAE",
+    "sciName": "Phoeniconaias minor",
+    "subespecie": "",
+    "species": "Lesser Flamingo",
+    "especie": "Flamenco enano",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "TURNICIDAE",
+    "sciName": "Turnix sylvaticus",
+    "subespecie": "sylvaticus",
+    "species": "Common Buttonquail",
+    "especie": "Torillo andaluz",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "BURHINIDAE",
+    "sciName": "Burhinus oedicnemus",
+    "subespecie": "oedicnemus, distinctus, insularum, saharae",
+    "species": "Eurasian Stone-curlew",
+    "especie": "Alcaraván común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HAEMATOPODIDAE",
+    "sciName": "Haematopus meadewaldoi †",
+    "subespecie": "",
+    "species": "Canary Islands Oystercatcher",
+    "especie": "Ostrero negro canario",
+    "PB": "",
+    "NA": "",
+    "CA": "B"
+  },
+  {
+    "familia": "HAEMATOPODIDAE",
+    "sciName": "Haematopus ostralegus",
+    "subespecie": "ostralegus",
+    "species": "Eurasian Oystercatcher",
+    "especie": "Ostrero euroasiático",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RECURVIROSTRIDAE",
+    "sciName": "Himantopus himantopus",
+    "subespecie": "",
+    "species": "Black-winged Stilt",
+    "especie": "Cigüeñuela común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "RECURVIROSTRIDAE",
+    "sciName": "Recurvirostra avosetta",
+    "subespecie": "",
+    "species": "Pied Avocet",
+    "especie": "Avoceta común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Vanellus vanellus",
+    "subespecie": "",
+    "species": "Northern Lapwing",
+    "especie": "Avefría europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Vanellus gregarius",
+    "subespecie": "",
+    "species": "Sociable Lapwing",
+    "especie": "Avefría sociable",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Vanellus leucurus",
+    "subespecie": "",
+    "species": "White-tailed Lapwing",
+    "especie": "Avefría coliblanca",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Pluvialis apricaria",
+    "subespecie": "",
+    "species": "European Golden Plover",
+    "especie": "Chorlito dorado europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Pluvialis fulva",
+    "subespecie": "",
+    "species": "Pacific Golden Plover",
+    "especie": "Chorlito dorado siberiano",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Pluvialis dominica",
+    "subespecie": "",
+    "species": "American Golden Plover",
+    "especie": "Chorlito dorado americano",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Pluvialis squatarola",
+    "subespecie": "squatarola",
+    "species": "Grey Plover",
+    "especie": "Chorlito gris",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius hiaticula",
+    "subespecie": "psammodromus, hiaticula, ¿tundrae?",
+    "species": "Common Ringed Plover",
+    "especie": "Chorlitejo grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius semipalmatus",
+    "subespecie": "",
+    "species": "Semipalmated Plover",
+    "especie": "Chorlitejo semipalmeado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius dubius",
+    "subespecie": "curonicus",
+    "species": "Little Ringed Plover",
+    "especie": "Chorlitejo chico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius vociferus",
+    "subespecie": "vociferus",
+    "species": "Killdeer",
+    "especie": "Chorlitejo culirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius pecuarius",
+    "subespecie": "",
+    "species": "Kittlitz's Plover",
+    "especie": "Chorlitejo pecuario",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius alexandrinus",
+    "subespecie": "alexandrinus",
+    "species": "Kentish Plover",
+    "especie": "Chorlitejo patinegro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius mongolus",
+    "subespecie": "mongolus/stegmanni, atrifrons/pamirensis/schafaeri",
+    "species": "Lesser Sand Plover",
+    "especie": "Chorlitejo mongol chico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius leschenaultii",
+    "subespecie": "ASD",
+    "species": "Greater Sand Plover",
+    "especie": "Chorlitejo mongol grande",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CHARADRIIDAE",
+    "sciName": "Charadrius morinellus",
+    "subespecie": "",
+    "species": "Eurasian Dotterel",
+    "especie": "Chorlito carambolo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PLUVIANIDAE",
+    "sciName": "Pluvianus aegyptius",
+    "subespecie": "",
+    "species": "Egyptian Plover",
+    "especie": "Pluvial",
+    "PB": "D",
+    "NA": "",
+    "CA": "B"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Bartramia longicauda",
+    "subespecie": "",
+    "species": "Upland Sandpiper",
+    "especie": "Correlimos batitú",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Numenius phaeopus",
+    "subespecie": "islandicus, phaeopus, hudsonicus",
+    "species": "Whimbrel",
+    "especie": "Zarapito trinador",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Numenius tenuirostris",
+    "subespecie": "",
+    "species": "Slender-billed Curlew",
+    "especie": "Zarapito fino",
+    "PB": "B",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Numenius arquata",
+    "subespecie": "arquata, ¿orientalis?",
+    "species": "Eurasian Curlew",
+    "especie": "Zarapito real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Limosa lapponica",
+    "subespecie": "lapponica",
+    "species": "Bar-tailed Godwit",
+    "especie": "Aguja colipinta",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Limosa limosa",
+    "subespecie": "islandica, limosa",
+    "species": "Black-tailed Godwit",
+    "especie": "Aguja colinegra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Arenaria interpres",
+    "subespecie": "interpres",
+    "species": "Ruddy Turnstone",
+    "especie": "Vuelvepiedras común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris tenuirostris",
+    "subespecie": "",
+    "species": "Great Knot",
+    "especie": "Correlimos grande",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris canutus",
+    "subespecie": "canutus, islandica",
+    "species": "Red Knot",
+    "especie": "Correlimos gordo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris pugnax",
+    "subespecie": "",
+    "species": "Ruff",
+    "especie": "Combatiente",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris falcinellus",
+    "subespecie": "falcinellus",
+    "species": "Broad-billed Sandpiper",
+    "especie": "Correlimos falcinelo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris acuminata",
+    "subespecie": "",
+    "species": "Sharp-tailed Sandpiper",
+    "especie": "Correlimos acuminado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris himantopus",
+    "subespecie": "",
+    "species": "Stilt Sandpiper",
+    "especie": "Correlimos zancolín",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris ferruginea",
+    "subespecie": "",
+    "species": "Curlew Sandpiper",
+    "especie": "Correlimos zarapitín",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris temminckii",
+    "subespecie": "",
+    "species": "Temminck's Stint",
+    "especie": "Correlimos de Temminck",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris ruficollis",
+    "subespecie": "",
+    "species": "Red-necked Stint",
+    "especie": "Correlimos cuellirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris alba",
+    "subespecie": "alba",
+    "species": "Sanderling",
+    "especie": "Correlimos tridáctilo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris alpina",
+    "subespecie": "arctica, schinzii, alpina",
+    "species": "Dunlin",
+    "especie": "Correlimos común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris maritima",
+    "subespecie": "",
+    "species": "Purple Sandpiper",
+    "especie": "Correlimos oscuro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris bairdii",
+    "subespecie": "",
+    "species": "Baird's Sandpiper",
+    "especie": "Correlimos de Baird",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris minuta",
+    "subespecie": "",
+    "species": "Little Stint",
+    "especie": "Correlimos menudo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris minutilla",
+    "subespecie": "",
+    "species": "Least Sandpiper",
+    "especie": "Correlimos menudillo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris fuscicollis",
+    "subespecie": "",
+    "species": "White-rumped Sandpiper",
+    "especie": "Correlimos culiblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris subruficollis",
+    "subespecie": "",
+    "species": "Buff-breasted Sandpiper",
+    "especie": "Correlimos canelo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris melanotos",
+    "subespecie": "",
+    "species": "Pectoral Sandpiper",
+    "especie": "Correlimos pectoral",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris pusilla",
+    "subespecie": "",
+    "species": "Semipalmated Sandpiper",
+    "especie": "Correlimos semipalmeado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Calidris mauri",
+    "subespecie": "",
+    "species": "Western Sandpiper",
+    "especie": "Correlimos de Alaska",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Limnodromus scolopaceus",
+    "subespecie": "",
+    "species": "Long-billed Dowitcher",
+    "especie": "Agujeta escolopácea",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Limnodromus griseus",
+    "subespecie": "ASD",
+    "species": "Short-billed Dowitcher",
+    "especie": "Agujeta gris",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Scolopax rusticola",
+    "subespecie": "",
+    "species": "Eurasian Woodcock",
+    "especie": "Chocha perdiz",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Lymnocryptes minimus",
+    "subespecie": "",
+    "species": "Jack Snipe",
+    "especie": "Agachadiza chica",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Gallinago media",
+    "subespecie": "",
+    "species": "Great Snipe",
+    "especie": "Agachadiza real",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Gallinago gallinago",
+    "subespecie": "gallinago",
+    "species": "Common Snipe",
+    "especie": "Agachadiza común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Gallinago delicata",
+    "subespecie": "",
+    "species": "Wilson's Snipe",
+    "especie": "Agachadiza de Wilson",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Xenus cinereus",
+    "subespecie": "",
+    "species": "Terek Sandpiper",
+    "especie": "Andarríos del Terek",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Phalaropus tricolor",
+    "subespecie": "",
+    "species": "Wilson's Phalarope",
+    "especie": "Falaropo tricolor",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Phalaropus lobatus",
+    "subespecie": "",
+    "species": "Red-necked Phalarope",
+    "especie": "Falaropo picofino",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Phalaropus fulicarius",
+    "subespecie": "",
+    "species": "Red Phalarope",
+    "especie": "Falaropo picogrueso",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Actitis hypoleucos",
+    "subespecie": "",
+    "species": "Common Sandpiper",
+    "especie": "Andarríos chico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Actitis macularius",
+    "subespecie": "",
+    "species": "Spotted Sandpiper",
+    "especie": "Andarríos maculado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa ochropus",
+    "subespecie": "",
+    "species": "Green Sandpiper",
+    "especie": "Andarríos grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa solitaria",
+    "subespecie": "solitaria",
+    "species": "Solitary Sandpiper",
+    "especie": "Andarríos solitario",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa flavipes",
+    "subespecie": "",
+    "species": "Lesser Yellowlegs",
+    "especie": "Archibebe patigualdo chico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa totanus",
+    "subespecie": "totanus, ¿robusta?",
+    "species": "Common Redshank",
+    "especie": "Archibebe común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa stagnatilis",
+    "subespecie": "",
+    "species": "Marsh Sandpiper",
+    "especie": "Archibebe fino",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa glareola",
+    "subespecie": "",
+    "species": "Wood Sandpiper",
+    "especie": "Andarríos bastardo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa erythropus",
+    "subespecie": "",
+    "species": "Spotted Redshank",
+    "especie": "Archibebe oscuro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa nebularia",
+    "subespecie": "",
+    "species": "Common Greenshank",
+    "especie": "Archibebe claro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SCOLOPACIDAE",
+    "sciName": "Tringa melanoleuca",
+    "subespecie": "",
+    "species": "Greater Yellowlegs",
+    "especie": "Archibebe patigualdo grande",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "GLAREOLIDAE",
+    "sciName": "Cursorius cursor",
+    "subespecie": "cursor",
+    "species": "Cream-colored Courser",
+    "especie": "Corredor sahariano",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "GLAREOLIDAE",
+    "sciName": "Glareola pratincola",
+    "subespecie": "pratincola",
+    "species": "Collared Pratincole",
+    "especie": "Canastera común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "GLAREOLIDAE",
+    "sciName": "Glareola nordmanni",
+    "subespecie": "",
+    "species": "Black-winged Pratincole",
+    "especie": "Canastera alinegra",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Rissa tridactyla",
+    "subespecie": "tridactyla",
+    "species": "Black-legged Kittiwake",
+    "especie": "Gaviota tridáctila",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Xema sabini",
+    "subespecie": "",
+    "species": "Sabine's Gull",
+    "especie": "Gaviota de Sabine",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chroicocephalus genei",
+    "subespecie": "",
+    "species": "Slender-billed Gull",
+    "especie": "Gaviota picofina",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chroicocephalus philadelphia",
+    "subespecie": "",
+    "species": "Bonaparte's Gull",
+    "especie": "Gaviota de Bonaparte",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chroicocephalus ridibundus",
+    "subespecie": "",
+    "species": "Black-headed Gull",
+    "especie": "Gaviota reidora",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chroicocephalus cirrocephalus",
+    "subespecie": "¿poiocephalus?",
+    "species": "Grey-headed Gull",
+    "especie": "Gaviota cabecigrís",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Hydrocoloeus minutus",
+    "subespecie": "",
+    "species": "Little Gull",
+    "especie": "Gaviota enana",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Rhodostethia rosea",
+    "subespecie": "",
+    "species": "Ross's Gull",
+    "especie": "Gaviota rosada",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus atricilla",
+    "subespecie": "ASD",
+    "species": "Laughing Gull",
+    "especie": "Gaviota guanaguanare",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus pipixcan",
+    "subespecie": "",
+    "species": "Franklin's Gull",
+    "especie": "Gaviota pipizcán",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus audouinii",
+    "subespecie": "",
+    "species": "Audouin's Gull",
+    "especie": "Gaviota de Audouin",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus melanocephalus",
+    "subespecie": "",
+    "species": "Mediterranean Gull",
+    "especie": "Gaviota cabecinegra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus ichthyaetus",
+    "subespecie": "",
+    "species": "Pallas's Gull",
+    "especie": "Gavión cabecinegro",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus canus",
+    "subespecie": "canus",
+    "species": "Common Gull",
+    "especie": "Gaviota cana",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus delawarensis",
+    "subespecie": "",
+    "species": "Ring-billed Gull",
+    "especie": "Gaviota de Delaware",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus marinus",
+    "subespecie": "",
+    "species": "Great Black-backed Gull",
+    "especie": "Gavión atlántico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus dominicanus",
+    "subespecie": "vetula",
+    "species": "Kelp Gull",
+    "especie": "Gaviota cocinera",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus glaucescens",
+    "subespecie": "",
+    "species": "Glaucous-winged Gull",
+    "especie": "Gaviota de Bering",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus hyperboreus",
+    "subespecie": "hyperboreus",
+    "species": "Glaucous Gull",
+    "especie": "Gavión hiperbóreo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus glaucoides",
+    "subespecie": "kumlieni, glaucoides, thayeri",
+    "species": "Iceland Gull",
+    "especie": "Gaviota groenlandesa",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus argentatus",
+    "subespecie": "argenteus, argentatus",
+    "species": "European Herring Gull",
+    "especie": "Gaviota argéntea europea",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus smithsonianus",
+    "subespecie": "",
+    "species": "American Herring Gull",
+    "especie": "Gaviota argéntea americana",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus cachinnans",
+    "subespecie": "",
+    "species": "Caspian Gull",
+    "especie": "Gaviota del Caspio",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus michahellis",
+    "subespecie": "atlantis, michaellis",
+    "species": "Yellow-legged Gull",
+    "especie": "Gaviota patiamarilla",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Larus fuscus",
+    "subespecie": "graellsii, intermedius, fuscus",
+    "species": "Lesser Black-backed Gull",
+    "especie": "Gaviota sombría",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Gelochelidon nilotica",
+    "subespecie": "nilotica",
+    "species": "Gull-billed Tern",
+    "especie": "Pagaza piconegra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Hydroprogne caspia",
+    "subespecie": "",
+    "species": "Caspian Tern",
+    "especie": "Pagaza piquirroja",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Thalasseus maximus",
+    "subespecie": "maximus, albididorsalis",
+    "species": "Royal Tern",
+    "especie": "Charrán real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Thalasseus bengalensis",
+    "subespecie": "emigratus",
+    "species": "Lesser Crested Tern",
+    "especie": "Charrán bengalí",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Thalasseus sandvicensis",
+    "subespecie": "",
+    "species": "Sandwich Tern",
+    "especie": "Charrán patinegro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Thalasseus elegans",
+    "subespecie": "",
+    "species": "Elegant Tern",
+    "especie": "Charrán elegante",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sternula albifrons",
+    "subespecie": "albifrons",
+    "species": "Little Tern",
+    "especie": "Charrancito común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sternula antillarum",
+    "subespecie": "ASD",
+    "species": "Least Tern",
+    "especie": "Charrancito americano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Onychoprion anaethetus",
+    "subespecie": "ASD",
+    "species": "Bridled Tern",
+    "especie": "Charrán embridado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Onychoprion fuscatus",
+    "subespecie": "ASD",
+    "species": "Sooty Tern",
+    "especie": "Charrán sombrío",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sterna dougallii",
+    "subespecie": "dougallii",
+    "species": "Roseate Tern",
+    "especie": "Charrán rosado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sterna hirundo",
+    "subespecie": "hirundo",
+    "species": "Common Tern",
+    "especie": "Charrán común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sterna paradisaea",
+    "subespecie": "",
+    "species": "Arctic Tern",
+    "especie": "Charrán ártico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Sterna forsteri",
+    "subespecie": "",
+    "species": "Forster's Tern",
+    "especie": "Charrán de Forster",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chlidonias hybrida",
+    "subespecie": "hybrida",
+    "species": "Whiskered Tern",
+    "especie": "Fumarel cariblanco",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chlidonias leucopterus",
+    "subespecie": "",
+    "species": "White-winged Tern",
+    "especie": "Fumarel aliblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LARIDAE",
+    "sciName": "Chlidonias niger",
+    "subespecie": "niger, surinamensis",
+    "species": "Black Tern",
+    "especie": "Fumarel común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STERCORARIIDAE",
+    "sciName": "Stercorarius maccormicki",
+    "subespecie": "",
+    "species": "South Polar Skua",
+    "especie": "Págalo polar",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "STERCORARIIDAE",
+    "sciName": "Stercorarius skua",
+    "subespecie": "",
+    "species": "Great Skua",
+    "especie": "Págalo grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STERCORARIIDAE",
+    "sciName": "Stercorarius pomarinus",
+    "subespecie": "",
+    "species": "Pomarine Jaeger",
+    "especie": "Págalo pomarino",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STERCORARIIDAE",
+    "sciName": "Stercorarius parasiticus",
+    "subespecie": "",
+    "species": "Parasitic Jaeger",
+    "especie": "Págalo parásito",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STERCORARIIDAE",
+    "sciName": "Stercorarius longicaudus",
+    "subespecie": "longicaudus",
+    "species": "Long-tailed Jaeger",
+    "especie": "Págalo rabero",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ALCIDAE",
+    "sciName": "Alle alle",
+    "subespecie": "alle",
+    "species": "Little Auk",
+    "especie": "Mérgulo atlántico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ALCIDAE",
+    "sciName": "Uria aalge",
+    "subespecie": "aalge, albionis",
+    "species": "Common Murre",
+    "especie": "Arao común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALCIDAE",
+    "sciName": "Alca torda",
+    "subespecie": "islandica",
+    "species": "Razorbill",
+    "especie": "Alca común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ALCIDAE",
+    "sciName": "Cepphus grylle",
+    "subespecie": "ASD",
+    "species": "Black Guillemot",
+    "especie": "Arao aliblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALCIDAE",
+    "sciName": "Fratercula arctica",
+    "subespecie": "",
+    "species": "Atlantic Puffin",
+    "especie": "Frailecillo atlántico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHAETHONTIDAE",
+    "sciName": "Phaethon aethereus",
+    "subespecie": "mesonauta",
+    "species": "Red-billed Tropicbird",
+    "especie": "Rabijunco etéreo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "GAVIIDAE",
+    "sciName": "Gavia stellata",
+    "subespecie": "",
+    "species": "Red-throated Loon",
+    "especie": "Colimbo chico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "GAVIIDAE",
+    "sciName": "Gavia arctica",
+    "subespecie": "arctica",
+    "species": "Black-throated Loon",
+    "especie": "Colimbo ártico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "GAVIIDAE",
+    "sciName": "Gavia pacifica",
+    "subespecie": "",
+    "species": "Pacific Loon",
+    "especie": "Colimbo del Pacífico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "GAVIIDAE",
+    "sciName": "Gavia immer",
+    "subespecie": "",
+    "species": "Common Loon",
+    "especie": "Colimbo grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "OCEANITIDAE",
+    "sciName": "Oceanites oceanicus",
+    "subespecie": "ASD",
+    "species": "Wilson's Storm Petrel",
+    "especie": "Paíño de Wilson",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "OCEANITIDAE",
+    "sciName": "Pelagodroma marina",
+    "subespecie": "hypoleuca",
+    "species": "White-faced Storm Petrel",
+    "especie": "Paíño pechialbo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "OCEANITIDAE",
+    "sciName": "Fregetta tropica",
+    "subespecie": "tropica",
+    "species": "Black-bellied Storm Petrel",
+    "especie": "Paíño ventrinegro",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "DIOMEDEIDAE",
+    "sciName": "Thalassarche melanophris",
+    "subespecie": "",
+    "species": "Black-browed Albatross",
+    "especie": "Albatros ojeroso",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "DIOMEDEIDAE",
+    "sciName": "Thalassarche chlororhynchos",
+    "subespecie": "",
+    "species": "Yellow-nosed Albatross",
+    "especie": "Albatros picofino",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "HYDROBATIDAE",
+    "sciName": "Hydrobates pelagicus",
+    "subespecie": "pelagicus, melitensis",
+    "species": "European Storm Petrel",
+    "especie": "Paíño europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HYDROBATIDAE",
+    "sciName": "Hydrobates monorhis",
+    "subespecie": "",
+    "species": "Swinhoe's Storm Petrel",
+    "especie": "Paíño de Swinhoe",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "HYDROBATIDAE",
+    "sciName": "Hydrobates leucorhous",
+    "subespecie": "leucorhous",
+    "species": "Leach's Storm Petrel",
+    "especie": "Paíño boreal",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HYDROBATIDAE",
+    "sciName": "Hydrobates castro",
+    "subespecie": "",
+    "species": "Band-rumped Storm Petrel",
+    "especie": "Paíño de Madeira",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Fulmarus glacialis",
+    "subespecie": "auduboni",
+    "species": "Northern Fulmar",
+    "especie": "Fulmar boreal",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Daption capense",
+    "subespecie": "ASD",
+    "species": "Cape Petrel",
+    "especie": "Petrel damero",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Pterodroma macroptera / P. arminjoniana",
+    "subespecie": "",
+    "species": "Great-winged Petrel / Trindade Petrel",
+    "especie": "Petrel aligrande / Petrel de Trinidad",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Pterodroma madeira",
+    "subespecie": "",
+    "species": "Zino's Petrel",
+    "especie": "Petrel freira",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Pterodroma feae",
+    "subespecie": "",
+    "species": "Fea's Petrel",
+    "especie": "Petrel gongón",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Pterodroma deserta",
+    "subespecie": "",
+    "species": "Desertas Petrel",
+    "especie": "Petrel de las Desertas",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Pterodroma hasitata",
+    "subespecie": "",
+    "species": "Black-capped Petrel",
+    "especie": "Petrel antillano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Calonectris diomedea",
+    "subespecie": "",
+    "species": "Scopoli's Shearwater",
+    "especie": "Pardela cenicienta mediterránea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Calonectris borealis",
+    "subespecie": "",
+    "species": "Cory's Shearwater",
+    "especie": "Pardela cenicienta atlántica",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Calonectris edwardsii",
+    "subespecie": "",
+    "species": "Cape Verde Shearwater",
+    "especie": "Pardela cenicienta de Cabo Verde",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Ardenna grisea",
+    "subespecie": "",
+    "species": "Sooty Shearwater",
+    "especie": "Pardela sombría",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Ardenna gravis",
+    "subespecie": "",
+    "species": "Great Shearwater",
+    "especie": "Pardela capirotada",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Puffinus puffinus",
+    "subespecie": "puffinus, canariensis",
+    "species": "Manx Shearwater",
+    "especie": "Pardela pichoneta",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Puffinus yelkouan",
+    "subespecie": "",
+    "species": "Yelkouan Shearwater",
+    "especie": "Pardela mediterránea",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Puffinus mauretanicus",
+    "subespecie": "",
+    "species": "Balearic Shearwater",
+    "especie": "Pardela balear",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Puffinus baroli",
+    "subespecie": "",
+    "species": "Barolo Shearwater",
+    "especie": "Pardela chica macaronésica",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Puffinus boydi",
+    "subespecie": "",
+    "species": "Boyd's Shearwater",
+    "especie": "Pardela chica de Cabo Verde",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PROCELLARIIDAE",
+    "sciName": "Bulweria bulwerii",
+    "subespecie": "",
+    "species": "Bulwer's Petrel",
+    "especie": "Petrel de Bulwer",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CICONIIDAE",
+    "sciName": "Ciconia nigra",
+    "subespecie": "",
+    "species": "Black Stork",
+    "especie": "Cigüeña negra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CICONIIDAE",
+    "sciName": "Ciconia ciconia",
+    "subespecie": "ciconia",
+    "species": "White Stork",
+    "especie": "Cigüeña blanca",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FREGATIDAE",
+    "sciName": "Fregata magnificens",
+    "subespecie": "ASD",
+    "species": "Magnificent Frigatebird",
+    "especie": "Rabihorcado magnífico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SULIDAE",
+    "sciName": "Morus bassanus",
+    "subespecie": "",
+    "species": "Northern Gannet",
+    "especie": "Alcatraz atlántico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SULIDAE",
+    "sciName": "Sula dactylatra",
+    "subespecie": "¿dactylatra?",
+    "species": "Masked Booby",
+    "especie": "Piquero enmascarado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SULIDAE",
+    "sciName": "Sula sula",
+    "subespecie": "¿sula?",
+    "species": "Red-footed Booby",
+    "especie": "Piquero patirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SULIDAE",
+    "sciName": "Sula leucogaster",
+    "subespecie": "leucogaster",
+    "species": "Brown Booby",
+    "especie": "Piquero pardo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PHALACROCORACIDAE",
+    "sciName": "Microcarbo pygmaeus",
+    "subespecie": "",
+    "species": "Pygmy Cormorant",
+    "especie": "Cormorán pigmeo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHALACROCORACIDAE",
+    "sciName": "Phalacrocorax carbo",
+    "subespecie": "carbo, sinensis",
+    "species": "Great Cormorant",
+    "especie": "Cormorán grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHALACROCORACIDAE",
+    "sciName": "Gulosus aristotelis",
+    "subespecie": "aristotelis, desmarestii",
+    "species": "European Shag",
+    "especie": "Cormorán moñudo",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PHALACROCORACIDAE",
+    "sciName": "Nannopterum auritum",
+    "subespecie": "¿auritum?",
+    "species": "Double-crested Cormorant",
+    "especie": "Cormorán orejudo",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "THRESKIORNITHIDAE",
+    "sciName": "Geronticus eremita",
+    "subespecie": "",
+    "species": "Northern Bald Ibis",
+    "especie": "Ibis eremita",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "THRESKIORNITHIDAE",
+    "sciName": "Plegadis falcinellus",
+    "subespecie": "",
+    "species": "Glossy Ibis",
+    "especie": "Morito común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "THRESKIORNITHIDAE",
+    "sciName": "Platalea leucorodia",
+    "subespecie": "leucorodia",
+    "species": "Eurasian Spoonbill",
+    "especie": "Espátula común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Botaurus stellaris",
+    "subespecie": "stellaris",
+    "species": "Eurasian Bittern",
+    "especie": "Avetoro común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Botaurus lentiginosus",
+    "subespecie": "",
+    "species": "American Bittern",
+    "especie": "Avetoro lentiginoso",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ixobrychus minutus",
+    "subespecie": "minutus",
+    "species": "Little Bittern",
+    "especie": "Avetorillo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ixobrychus sturmii",
+    "subespecie": "",
+    "species": "Dwarf Bittern",
+    "especie": "Avetorillo plomizo",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Nycticorax nycticorax",
+    "subespecie": "nycticorax",
+    "species": "Black-crowned Night Heron",
+    "especie": "Martinete común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Butorides virescens",
+    "subespecie": "ASD",
+    "species": "Green Heron",
+    "especie": "Garcilla verde",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ardeola ralloides",
+    "subespecie": "",
+    "species": "Squacco Heron",
+    "especie": "Garcilla cangrejera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Bubulcus ibis",
+    "subespecie": "ibis",
+    "species": "Cattle Egret",
+    "especie": "Garcilla bueyera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ardea cinerea",
+    "subespecie": "cinerea",
+    "species": "Grey Heron",
+    "especie": "Garza real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ardea herodias",
+    "subespecie": "ASD",
+    "species": "Great Blue Heron",
+    "especie": "Garza azulada",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ardea purpurea",
+    "subespecie": "purpurea",
+    "species": "Purple Heron",
+    "especie": "Garza imperial",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Ardea alba",
+    "subespecie": "alba",
+    "species": "Great Egret",
+    "especie": "Garceta grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Egretta tricolor",
+    "subespecie": "¿ruficollis?",
+    "species": "Tricolored Heron",
+    "especie": "Garceta tricolor",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Egretta garzetta",
+    "subespecie": "garzetta",
+    "species": "Little Egret",
+    "especie": "Garceta común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ARDEIDAE",
+    "sciName": "Egretta gularis",
+    "subespecie": "gularis",
+    "species": "Western Reef Heron",
+    "especie": "Garceta dimorfa",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PELECANIDAE",
+    "sciName": "Pelecanus onocrotalus",
+    "subespecie": "",
+    "species": "Great White Pelican",
+    "especie": "Pelícano común",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PANDIONIDAE",
+    "sciName": "Pandion haliaetus",
+    "subespecie": "haliaetus",
+    "species": "Osprey",
+    "especie": "Águila pescadora",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Elanus caeruleus",
+    "subespecie": "caeruleus",
+    "species": "Black-winged Kite",
+    "especie": "Elanio común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Gypaetus barbatus",
+    "subespecie": "barbatus",
+    "species": "Bearded Vulture",
+    "especie": "Quebrantahuesos",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Neophron percnopterus",
+    "subespecie": "majorensis, percnopterus",
+    "species": "Egyptian Vulture",
+    "especie": "Alimoche común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Pernis apivorus",
+    "subespecie": "",
+    "species": "European Honey Buzzard",
+    "especie": "Abejero europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Elanoides forficatus",
+    "subespecie": "¿forficatus?",
+    "species": "Swallow-tailed Kite",
+    "especie": "Elanio tijereta",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Gyps africanus",
+    "subespecie": "",
+    "species": "White-backed Vulture",
+    "especie": "Buitre dorsiblanco africano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Gyps rueppelli",
+    "subespecie": "rueppelli",
+    "species": "Rüppell's Vulture",
+    "especie": "Buitre moteado",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Gyps fulvus",
+    "subespecie": "fulvus",
+    "species": "Griffon Vulture",
+    "especie": "Buitre leonado",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aegypius monachus",
+    "subespecie": "",
+    "species": "Cinereous Vulture",
+    "especie": "Buitre negro",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Circaetus gallicus",
+    "subespecie": "gallicus",
+    "species": "Short-toed Snake Eagle",
+    "especie": "Culebrera europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Terathopius ecaudatus",
+    "subespecie": "",
+    "species": "Bateleur",
+    "especie": "Águila volatinera",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Clanga pomarina",
+    "subespecie": "",
+    "species": "Lesser Spotted Eagle",
+    "especie": "Águila pomerana",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Clanga clanga",
+    "subespecie": "",
+    "species": "Greater Spotted Eagle",
+    "especie": "Águila moteada",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Hieraaetus pennatus",
+    "subespecie": "",
+    "species": "Booted Eagle",
+    "especie": "Águila calzada",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aquila nipalensis",
+    "subespecie": "¿orientalis?",
+    "species": "Steppe Eagle",
+    "especie": "Águila esteparia",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aquila adalberti",
+    "subespecie": "",
+    "species": "Spanish Imperial Eagle",
+    "especie": "Águila imperial ibérica",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aquila heliaca",
+    "subespecie": "",
+    "species": "Eastern Imperial Eagle",
+    "especie": "Águila imperial oriental",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aquila chrysaetos",
+    "subespecie": "chrysaetos, homeyeri",
+    "species": "Golden Eagle",
+    "especie": "Águila real",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Aquila fasciata",
+    "subespecie": "fasciata",
+    "species": "Bonelli's Eagle",
+    "especie": "Águila perdicera",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Accipiter nisus",
+    "subespecie": "nisus, punicus, granti",
+    "species": "Eurasian Sparrowhawk",
+    "especie": "Gavilán común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Accipiter gentilis",
+    "subespecie": "gentilis",
+    "species": "Northern Goshawk",
+    "especie": "Azor común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Circus aeruginosus",
+    "subespecie": "aeruginosus, harterti",
+    "species": "Western Marsh Harrier",
+    "especie": "Aguilucho lagunero occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Circus cyaneus",
+    "subespecie": "",
+    "species": "Hen Harrier",
+    "especie": "Aguilucho pálido",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Circus macrourus",
+    "subespecie": "",
+    "species": "Pallid Harrier",
+    "especie": "Aguilucho papialbo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Circus pygargus",
+    "subespecie": "",
+    "species": "Montagu's Harrier",
+    "especie": "Aguilucho cenizo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Milvus milvus",
+    "subespecie": "milvus",
+    "species": "Red Kite",
+    "especie": "Milano real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Milvus migrans",
+    "subespecie": "migrans",
+    "species": "Black Kite",
+    "especie": "Milano negro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Milvus aegyptius",
+    "subespecie": "¿parasitus?",
+    "species": "Yellow-billed Kite",
+    "especie": "Milano piquigualdo",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Haliaeetus albicilla",
+    "subespecie": "albicilla",
+    "species": "White-tailed Eagle",
+    "especie": "Pigargo europeo",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Buteo lagopus",
+    "subespecie": "lagopus, ¿sanctijohannis?",
+    "species": "Rough-legged Buzzard",
+    "especie": "Busardo calzado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Buteo rufinus",
+    "subespecie": "rufinus, cirtensis",
+    "species": "Long-legged Buzzard",
+    "especie": "Busardo moro",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Buteo buteo",
+    "subespecie": "insularum, buteo, vulpinus",
+    "species": "Common Buzzard",
+    "especie": "Busardo ratonero",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TYTONIDAE",
+    "sciName": "Tyto alba",
+    "subespecie": "alba, guttata, gracilirostris",
+    "species": "Western Barn Owl",
+    "especie": "Lechuza común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Aegolius funereus",
+    "subespecie": "funereus",
+    "species": "Boreal Owl",
+    "especie": "Mochuelo boreal",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Athene noctua",
+    "subespecie": "vidalii, glaux",
+    "species": "Little Owl",
+    "especie": "Mochuelo europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Surnia ulula",
+    "subespecie": "caparoch",
+    "species": "Northern Hawk-Owl",
+    "especie": "Cárabo gavilán",
+    "PB": "",
+    "NA": "",
+    "CA": "B"
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Glaucidium passerinum",
+    "subespecie": "passerinum",
+    "species": "Eurasian Pygmy Owl",
+    "especie": "Mochuelo chico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Otus scops",
+    "subespecie": "scops, mallorcae",
+    "species": "Eurasian Scops Owl",
+    "especie": "Autillo europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Asio otus",
+    "subespecie": "otus, canariensis",
+    "species": "Long-eared Owl",
+    "especie": "Búho chico",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Asio flammeus",
+    "subespecie": "flammeus",
+    "species": "Short-eared Owl",
+    "especie": "Búho campestre",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Asio capensis",
+    "subespecie": "tingitanus",
+    "species": "Marsh Owl",
+    "especie": "Búho moro",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Bubo scandiacus",
+    "subespecie": "",
+    "species": "Snowy Owl",
+    "especie": "Búho nival",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Bubo bubo",
+    "subespecie": "hispanus, bubo",
+    "species": "Eurasian Eagle-Owl",
+    "especie": "Búho real",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Bubo ascalaphus",
+    "subespecie": "",
+    "species": "Pharaoh Eagle-Owl",
+    "especie": "Búho desértico",
+    "PB": "",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "STRIGIDAE",
+    "sciName": "Strix aluco",
+    "subespecie": "mauritanica, sylvatica",
+    "species": "Tawny Owl",
+    "especie": "Cárabo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "UPUPIDAE",
+    "sciName": "Upupa epops",
+    "subespecie": "epops",
+    "species": "Eurasian Hoopoe",
+    "especie": "Abubilla común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CORACIIDAE",
+    "sciName": "Coracias abyssinicus",
+    "subespecie": "",
+    "species": "Abyssinian Roller",
+    "especie": "Carraca abisinia",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CORACIIDAE",
+    "sciName": "Coracias garrulus",
+    "subespecie": "garrulus",
+    "species": "European Roller",
+    "especie": "Carraca europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALCEDINIDAE",
+    "sciName": "Alcedo atthis",
+    "subespecie": "ispida, atthis",
+    "species": "Common Kingfisher",
+    "especie": "Martín pescador común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALCEDINIDAE",
+    "sciName": "Megaceryle alcyon",
+    "subespecie": "",
+    "species": "Belted Kingfisher",
+    "especie": "Martín gigante norteamericano",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MEROPIDAE",
+    "sciName": "Merops persicus",
+    "subespecie": "persicus, chrysocercus",
+    "species": "Blue-cheeked Bee-eater",
+    "especie": "Abejaruco persa",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MEROPIDAE",
+    "sciName": "Merops apiaster",
+    "subespecie": "",
+    "species": "European Bee-eater",
+    "especie": "Abejaruco europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Jynx torquilla",
+    "subespecie": "torquilla",
+    "species": "Eurasian Wryneck",
+    "especie": "Torcecuello euroasiático",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Dendrocoptes medius",
+    "subespecie": "medius",
+    "species": "Middle Spotted Woodpecker",
+    "especie": "Pico mediano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Dryobates minor",
+    "subespecie": "buturlini",
+    "species": "Lesser Spotted Woodpecker",
+    "especie": "Pico menor",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Dendrocopos major",
+    "subespecie": "hispanus, canariensis, thanneri, mauritanus",
+    "species": "Great Spotted Woodpecker",
+    "especie": "Pico picapinos",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Dendrocopos leucotos",
+    "subespecie": "lilfordi",
+    "species": "White-backed Woodpecker",
+    "especie": "Pico dorsiblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Dryocopus martius",
+    "subespecie": "martius",
+    "species": "Black Woodpecker",
+    "especie": "Picamaderos negro",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Picus sharpei",
+    "subespecie": "",
+    "species": "Iberian Green Woodpecker",
+    "especie": "Pito ibérico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PICIDAE",
+    "sciName": "Picus vaillantii",
+    "subespecie": "",
+    "species": "Levaillant's Woodpecker",
+    "especie": "Pito bereber",
+    "PB": "",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco naumanni",
+    "subespecie": "",
+    "species": "Lesser Kestrel",
+    "especie": "Cernícalo primilla",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco tinnunculus",
+    "subespecie": "tinnunculus, canariensis, dacotiae",
+    "species": "Common Kestrel",
+    "especie": "Cernícalo vulgar",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco vespertinus",
+    "subespecie": "",
+    "species": "Red-footed Falcon",
+    "especie": "Cernícalo patirrojo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco amurensis",
+    "subespecie": "",
+    "species": "Amur Falcon",
+    "especie": "Cernícalo del Amur",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco eleonorae",
+    "subespecie": "",
+    "species": "Eleonora's Falcon",
+    "especie": "Halcón de Eleonora",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco columbarius",
+    "subespecie": "subaesalon, aesalon",
+    "species": "Merlin",
+    "especie": "Esmerejón",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco subbuteo",
+    "subespecie": "subbuteo",
+    "species": "Eurasian Hobby",
+    "especie": "Alcotán europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco biarmicus",
+    "subespecie": "erlangeri",
+    "species": "Lanner Falcon",
+    "especie": "Halcón borní",
+    "PB": "A (i)",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco cherrug",
+    "subespecie": "cherrug",
+    "species": "Saker Falcon",
+    "especie": "Halcón sacre",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco rusticolus",
+    "subespecie": "",
+    "species": "Gyrfalcon",
+    "especie": "Halcón gerifalte",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "FALCONIDAE",
+    "sciName": "Falco peregrinus",
+    "subespecie": "peregrinus, calidus, brookei, pelegrinoides",
+    "species": "Peregrine Falcon",
+    "especie": "Halcón peregrino",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MALACONOTIDAE",
+    "sciName": "Tchagra senegalus",
+    "subespecie": "cucullatus",
+    "species": "Black-crowned Tchagra",
+    "especie": "Chagra del Senegal",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius cristatus",
+    "subespecie": "cristatus",
+    "species": "Brown Shrike",
+    "especie": "Alcaudón pardo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius collurio",
+    "subespecie": "",
+    "species": "Red-backed Shrike",
+    "especie": "Alcaudón dorsirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius isabellinus",
+    "subespecie": "isabellinus",
+    "species": "Isabelline Shrike",
+    "especie": "Alcaudón isabel",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius minor",
+    "subespecie": "",
+    "species": "Lesser Grey Shrike",
+    "especie": "Alcaudón chico",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius excubitor",
+    "subespecie": "excubitor, koenigi, algeriensis, elegans, pallidirostris",
+    "species": "Great Grey Shrike",
+    "especie": "Alcaudón norteño",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius meridionalis",
+    "subespecie": "",
+    "species": "Iberian Grey Shrike",
+    "especie": "Alcaudón real",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius senator",
+    "subespecie": "senator, badius, niloticus",
+    "species": "Woodchat Shrike",
+    "especie": "Alcaudón común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LANIIDAE",
+    "sciName": "Lanius nubicus",
+    "subespecie": "",
+    "species": "Masked Shrike",
+    "especie": "Alcaudón núbico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "VIREONIDAE",
+    "sciName": "Vireo olivaceus",
+    "subespecie": "",
+    "species": "Red-eyed Vireo",
+    "especie": "Vireo ojirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ORIOLIDAE",
+    "sciName": "Oriolus oriolus",
+    "subespecie": "",
+    "species": "Eurasian Golden Oriole",
+    "especie": "Oropéndola europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Garrulus  glandarius",
+    "subespecie": "glandarius, fasciatus, whitakeri",
+    "species": "Eurasian Jay",
+    "especie": "Arrendajo euroasiático",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Cyanopica cooki",
+    "subespecie": "",
+    "species": "Iberian Magpie",
+    "especie": "Rabilargo ibérico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Pica pica",
+    "subespecie": "melanotos",
+    "species": "Eurasian Magpie",
+    "especie": "Urraca común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Pica mauritanica",
+    "subespecie": "",
+    "species": "Maghreb Magpie",
+    "especie": "Urraca magrebí",
+    "PB": "",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Nucifraga caryocatactes",
+    "subespecie": "caryocatactes",
+    "species": "Spotted Nutcracker",
+    "especie": "Cascanueces común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Pyrrhocorax pyrrhocorax",
+    "subespecie": "erythroramphos, barbarus",
+    "species": "Red-billed Chough",
+    "especie": "Chova piquirroja",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Pyrrhocorax graculus",
+    "subespecie": "graculus",
+    "species": "Alpine Chough",
+    "especie": "Chova piquigualda",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus monedula",
+    "subespecie": "monedula/soemmerringii, spermologus",
+    "species": "Western Jackdaw",
+    "especie": "Grajilla occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus frugilegus",
+    "subespecie": "frugilegus",
+    "species": "Rook",
+    "especie": "Graja",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus corone",
+    "subespecie": "corone",
+    "species": "Carrion Crow",
+    "especie": "Corneja negra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "D"
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus cornix",
+    "subespecie": "cornix",
+    "species": "Hooded Crow",
+    "especie": "Corneja cenicienta",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus ruficollis",
+    "subespecie": "",
+    "species": "Brown-necked Raven",
+    "especie": "Cuervo desertícola",
+    "PB": "D",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus corax",
+    "subespecie": "hispanus, tingitanus, canariensis",
+    "species": "Northern Raven",
+    "especie": "Cuervo grande",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "BOMBYCILLIDAE",
+    "sciName": "Bombycilla garrulus",
+    "subespecie": "garrulus",
+    "species": "Bohemian Waxwing",
+    "especie": "Ampelis europeo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Periparus ater",
+    "subespecie": "ater, vieirae",
+    "species": "Coal Tit",
+    "especie": "Carbonero garrapinos",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Lophophanes cristatus",
+    "subespecie": "weigoldi, mitratus",
+    "species": "European Crested Tit",
+    "especie": "Herrerillo capuchino",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Poecile palustris",
+    "subespecie": "palustris",
+    "species": "Marsh Tit",
+    "especie": "Carbonero palustre",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Cyanistes teneriffae",
+    "subespecie": "palmensis, ultramarinus, degener, ombriosus, teneriffae, hedwigae",
+    "species": "African Blue Tit",
+    "especie": "Herrerillo canario",
+    "PB": "",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Cyanistes caeruleus",
+    "subespecie": "cauruleus, balearicus, ogliastrae",
+    "species": "Eurasian Blue Tit",
+    "especie": "Herrerillo común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PARIDAE",
+    "sciName": "Parus major",
+    "subespecie": "major, corsus, mallorcae, excelsus",
+    "species": "Great Tit",
+    "especie": "Carbonero común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "REMIZIDAE",
+    "sciName": "Remiz pendulinus",
+    "subespecie": "pendulinus",
+    "species": "Eurasian Penduline Tit",
+    "especie": "Pájaro moscón europeo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PANURIDAE",
+    "sciName": "Panurus biarmicus",
+    "subespecie": "biarmicus",
+    "species": "Bearded Reedling",
+    "especie": "Bigotudo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Alaemon alaudipes",
+    "subespecie": "alaudipes",
+    "species": "Greater Hoopoe-Lark",
+    "especie": "Alondra ibis",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Ammomanes cinctura",
+    "subespecie": "arenicolor",
+    "species": "Bar-tailed Lark",
+    "especie": "Terrera colinegra",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Lullula arborea",
+    "subespecie": "arborea, pallida",
+    "species": "Woodlark",
+    "especie": "Alondra totovía",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Alauda arvensis",
+    "subespecie": "arvensis, sierrae, ¿harterti?, cantarella",
+    "species": "Eurasian Skylark",
+    "especie": "Alondra común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Galerida theklae",
+    "subespecie": "theklae, erlangeri",
+    "species": "Thekla's Lark",
+    "especie": "Cogujada montesina",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Galerida cristata",
+    "subespecie": "pallida, cristata, kleinschmidti, carthaginis",
+    "species": "Crested Lark",
+    "especie": "Cogujada común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Eremophila alpestris",
+    "subespecie": "flava",
+    "species": "Horned Lark",
+    "especie": "Alondra cornuda",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Calandrella brachydactyla",
+    "subespecie": "brachydactyla, ¿rubiginosa?",
+    "species": "Greater Short-toed Lark",
+    "especie": "Terrera común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Melanocorypha bimaculata",
+    "subespecie": "",
+    "species": "Bimaculated Lark",
+    "especie": "Calandria bimaculada",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Melanocorypha calandra",
+    "subespecie": "calandra",
+    "species": "Calandra Lark",
+    "especie": "Calandria común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Chersophilus duponti",
+    "subespecie": "duponti",
+    "species": "Dupont's Lark",
+    "especie": "Alondra ricotí",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ALAUDIDAE",
+    "sciName": "Alaudala rufescens",
+    "subespecie": "rufescens †, polatzeki, apetzii, ¿minor?",
+    "species": "Mediterranean Short-toed Lark",
+    "especie": "Terrera marismeña",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PYCNONOTIDAE",
+    "sciName": "Pycnonotus barbatus",
+    "subespecie": "barbatus",
+    "species": "Common Bulbul",
+    "especie": "Bulbul naranjero",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Riparia riparia",
+    "subespecie": "riparia",
+    "species": "Sand Martin",
+    "especie": "Avión zapador",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Ptyonoprogne rupestris",
+    "subespecie": "",
+    "species": "Eurasian Crag Martin",
+    "especie": "Avión roquero",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Hirundo rustica",
+    "subespecie": "rustica",
+    "species": "Barn Swallow",
+    "especie": "Golondrina común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Delichon urbicum",
+    "subespecie": "urbicum, meridionale",
+    "species": "Common House Martin",
+    "especie": "Avión común occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Cecropis daurica",
+    "subespecie": "rufula",
+    "species": "Red-rumped Swallow",
+    "especie": "Golondrina dáurica",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "HIRUNDINIDAE",
+    "sciName": "Petrochelidon pyrrhonota / P. fulva",
+    "subespecie": "",
+    "species": "American Cliff Swallow/Cave Swallow",
+    "especie": "Golondrina risquera/Golondrina pueblera",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CETTIIDAE",
+    "sciName": "Cettia cetti",
+    "subespecie": "cetti",
+    "species": "Cetti's Warbler",
+    "especie": "Cetia ruiseñor",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "AEGITHALIDAE",
+    "sciName": "Aegithalos caudatus",
+    "subespecie": "europaeus, taiti, irbii",
+    "species": "Long-tailed Tit",
+    "especie": "Mito común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus sibilatrix",
+    "subespecie": "",
+    "species": "Wood Warbler",
+    "especie": "Mosquitero silbador",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus bonelli",
+    "subespecie": "",
+    "species": "Western Bonelli's Warbler",
+    "especie": "Mosquitero papialbo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus humei",
+    "subespecie": "humei",
+    "species": "Hume's Leaf Warbler",
+    "especie": "Mosquitero de Hume",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus inornatus",
+    "subespecie": "",
+    "species": "Yellow-browed Warbler",
+    "especie": "Mosquitero bilistado",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus proregulus",
+    "subespecie": "",
+    "species": "Pallas's Leaf Warbler",
+    "especie": "Mosquitero de Pallas",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus schwarzi",
+    "subespecie": "",
+    "species": "Radde's Warbler",
+    "especie": "Mosquitero de Schwarz",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus fuscatus",
+    "subespecie": "ASD",
+    "species": "Dusky Warbler",
+    "especie": "Mosquitero sombrío",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus trochilus",
+    "subespecie": "trochilus, acredula",
+    "species": "Willow Warbler",
+    "especie": "Mosquitero musical",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus canariensis",
+    "subespecie": "canariensis, exsul †",
+    "species": "Canary Islands Chiffchaff",
+    "especie": "Mosquitero canario",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus collybita",
+    "subespecie": "abietinus, collybita, tristis",
+    "species": "Common Chiffchaff",
+    "especie": "Mosquitero común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus ibericus",
+    "subespecie": "",
+    "species": "Iberian Chiffchaff",
+    "especie": "Mosquitero ibérico",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus trochiloides",
+    "subespecie": "viridanus",
+    "species": "Greenish Warbler",
+    "especie": "Mosquitero verdoso",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHYLLOSCOPIDAE",
+    "sciName": "Phylloscopus borealis",
+    "subespecie": "",
+    "species": "Arctic Warbler",
+    "especie": "Mosquitero boreal",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus arundinaceus",
+    "subespecie": "arundinaceus",
+    "species": "Great Reed Warbler",
+    "especie": "Carricero tordal",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus melanopogon",
+    "subespecie": "melanopogon",
+    "species": "Moustached Warbler",
+    "especie": "Carricerín real",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus paludicola",
+    "subespecie": "",
+    "species": "Aquatic Warbler",
+    "especie": "Carricerín cejudo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus schoenobaenus",
+    "subespecie": "",
+    "species": "Sedge Warbler",
+    "especie": "Carricerín común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus agricola",
+    "subespecie": "ASD",
+    "species": "Paddyfield Warbler",
+    "especie": "Carricero agrícola",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus dumetorum",
+    "subespecie": "",
+    "species": "Blyth's Reed Warbler",
+    "especie": "Carricero de Blyth",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus scirpaceus",
+    "subespecie": "scirpaceus, ambiguus",
+    "species": "Common Reed Warbler",
+    "especie": "Carricero común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Acrocephalus palustris",
+    "subespecie": "",
+    "species": "Marsh Warbler",
+    "especie": "Carricero políglota",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Iduna caligata",
+    "subespecie": "",
+    "species": "Booted Warbler",
+    "especie": "Zarcero escita",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Iduna pallida",
+    "subespecie": "reiseri",
+    "species": "Eastern Olivaceous Warbler",
+    "especie": "Zarcero pálido",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Iduna opaca",
+    "subespecie": "",
+    "species": "Western Olivaceous Warbler",
+    "especie": "Zarcero bereber",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Hippolais polyglotta",
+    "subespecie": "",
+    "species": "Melodious Warbler",
+    "especie": "Zarcero políglota",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "ACROCEPHALIDAE",
+    "sciName": "Hippolais icterina",
+    "subespecie": "",
+    "species": "Icterine Warbler",
+    "especie": "Zarcero icterino",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "LOCUSTELLIDAE",
+    "sciName": "Locustella luscinioides",
+    "subespecie": "luscinioides",
+    "species": "Savi's Warbler",
+    "especie": "Buscarla unicolor",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "LOCUSTELLIDAE",
+    "sciName": "Locustella naevia",
+    "subespecie": "naevia",
+    "species": "Common Grasshopper Warbler",
+    "especie": "Buscarla pintoja",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CISTICOLIDAE",
+    "sciName": "Cisticola juncidis",
+    "subespecie": "cisticola",
+    "species": "Zitting Cisticola",
+    "especie": "Cistícola buitrón",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Sylvia atricapilla",
+    "subespecie": "heineken, pauluccii, atricapilla",
+    "species": "Eurasian Blackcap",
+    "especie": "Curruca capirotada",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Sylvia borin",
+    "subespecie": "borin",
+    "species": "Garden Warbler",
+    "especie": "Curruca mosquitera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca nisoria",
+    "subespecie": "nisoria",
+    "species": "Barred Warbler",
+    "especie": "Curruca gavilana",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca curruca",
+    "subespecie": "curruca, blythi/halimodendri",
+    "species": "Lesser Whitethroat",
+    "especie": "Curruca zarcerilla",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca hortensis",
+    "subespecie": "hortensis",
+    "species": "Western Orphean Warbler",
+    "especie": "Curruca mirlona occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca deserti",
+    "subespecie": "",
+    "species": "African Desert Warbler",
+    "especie": "Curruca sahariana",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca nana",
+    "subespecie": "",
+    "species": "Asian Desert Warbler",
+    "especie": "Curruca enana",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca deserticola",
+    "subespecie": "maroccana",
+    "species": "Tristram's Warbler",
+    "especie": "Curruca del Atlas",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca ruppeli",
+    "subespecie": "",
+    "species": "Rüppell's Warbler",
+    "especie": "Curruca de Rüppell",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca melanocephala",
+    "subespecie": "melanocephala, leucogastra",
+    "species": "Sardinian Warbler",
+    "especie": "Curruca cabecinegra",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca iberiae",
+    "subespecie": "",
+    "species": "Western Subalpine Warbler",
+    "especie": "Curruca carrasqueña occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca subalpina",
+    "subespecie": "",
+    "species": "Moltoni's Warbler",
+    "especie": "Curruca tirrénica",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca cantillans",
+    "subespecie": "cantillans, albistriata",
+    "species": "Eastern Subalpine Warbler",
+    "especie": "Curruca carrasqueña oriental",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca communis",
+    "subespecie": "communis",
+    "species": "Common Whitethroat",
+    "especie": "Curruca zarcera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca conspicillata",
+    "subespecie": "conspicillata, orbitalis",
+    "species": "Spectacled Warbler",
+    "especie": "Curruca tomillera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca sarda",
+    "subespecie": "",
+    "species": "Marmora's Warbler",
+    "especie": "Curruca sarda",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca undata",
+    "subespecie": "dartfordiensis, undata, toni",
+    "species": "Dartford Warbler",
+    "especie": "Curruca rabilarga",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "SYLVIIDAE",
+    "sciName": "Curruca balearica",
+    "subespecie": "",
+    "species": "Balearic Warbler",
+    "especie": "Curruca balear",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "REGULIDAE",
+    "sciName": "Regulus ignicapilla",
+    "subespecie": "ignicapilla, balearicus",
+    "species": "Common Firecrest",
+    "especie": "Reyezuelo listado",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "REGULIDAE",
+    "sciName": "Regulus regulus",
+    "subespecie": "regulus, teneriffae, ellenthalerae",
+    "species": "Goldcrest",
+    "especie": "Reyezuelo sencillo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "TROGLODYTIDAE",
+    "sciName": "Troglodytes troglodytes",
+    "subespecie": "troglodytes, kabylorum",
+    "species": "Eurasian Wren",
+    "especie": "Chochín paleártico",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "SITTIDAE",
+    "sciName": "Sitta europaea",
+    "subespecie": "caesia, hispaniensis",
+    "species": "Eurasian Nuthatch",
+    "especie": "Trepador azul",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "TICHODROMIDAE",
+    "sciName": "Tichodroma muraria",
+    "subespecie": "muraria",
+    "species": "Wallcreeper",
+    "especie": "Treparriscos",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CERTHIIDAE",
+    "sciName": "Certhia familiaris",
+    "subespecie": "macrodactyla",
+    "species": "Eurasian Treecreeper",
+    "especie": "Agateador euroasiático",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CERTHIIDAE",
+    "sciName": "Certhia brachydactyla",
+    "subespecie": "megarhynchos, brachydactyla, mauritanica",
+    "species": "Short-toed Treecreeper",
+    "especie": "Agateador europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "MIMIDAE",
+    "sciName": "Dumetella carolinensis",
+    "subespecie": "",
+    "species": "Grey Catbird",
+    "especie": "Pájaro gato gris",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "STURNIDAE",
+    "sciName": "Pastor roseus",
+    "subespecie": "",
+    "species": "Rosy Starling",
+    "especie": "Estornino rosado",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "STURNIDAE",
+    "sciName": "Sturnus vulgaris",
+    "subespecie": "vulgaris",
+    "species": "Common Starling",
+    "especie": "Estornino pinto",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "STURNIDAE",
+    "sciName": "Sturnus unicolor",
+    "subespecie": "",
+    "species": "Spotless Starling",
+    "especie": "Estornino negro",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Zoothera aurea",
+    "subespecie": "ASD",
+    "species": "White's Thrush",
+    "especie": "Zorzal dorado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus philomelos",
+    "subespecie": "philomelos, clarkei",
+    "species": "Song Thrush",
+    "especie": "Zorzal común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus viscivorus",
+    "subespecie": "viscivorus",
+    "species": "Mistle Thrush",
+    "especie": "Zorzal charlo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus iliacus",
+    "subespecie": "coburni, iliacus",
+    "species": "Redwing",
+    "especie": "Zorzal alirrojo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus merula",
+    "subespecie": "merula, cabrerae, mauritanicus",
+    "species": "Common Blackbird",
+    "especie": "Mirlo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus obscurus",
+    "subespecie": "",
+    "species": "Eyebrowed Thrush",
+    "especie": "Zorzal rojigrís",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus pilaris",
+    "subespecie": "",
+    "species": "Fieldfare",
+    "especie": "Zorzal real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus torquatus",
+    "subespecie": "torquatus, alpestris",
+    "species": "Ring Ouzel",
+    "especie": "Mirlo capiblanco",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus naumanni",
+    "subespecie": "",
+    "species": "Naumann's Thrush",
+    "especie": "Zorzal de Naumann",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "TURDIDAE",
+    "sciName": "Turdus migratorius",
+    "subespecie": "¿nigrideus?",
+    "species": "American Robin",
+    "especie": "Zorzal americano",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Cercotrichas galactotes",
+    "subespecie": "galactotes",
+    "species": "Rufous-tailed Scrub Robin",
+    "especie": "Alzacola rojizo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Muscicapa striata",
+    "subespecie": "striata, balearica",
+    "species": "Spotted Flycatcher",
+    "especie": "Papamoscas gris",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Erithacus rubecula",
+    "subespecie": "melophilus, rubecula, superbus, marionae",
+    "species": "European Robin",
+    "especie": "Petirrojo europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Larvivora cyane",
+    "subespecie": "ASD",
+    "species": "Siberian Blue Robin",
+    "especie": "Ruiseñor azul",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Luscinia svecica",
+    "subespecie": "svecica, namnetum, cyanecula, azuricollis",
+    "species": "Bluethroat",
+    "especie": "Ruiseñor pechiazul",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Luscinia megarhynchos",
+    "subespecie": "megarhynchos",
+    "species": "Common Nightingale",
+    "especie": "Ruiseñor común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Tarsiger cyanurus",
+    "subespecie": "",
+    "species": "Red-flanked Bluetail",
+    "especie": "Ruiseñor coliazul",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Ficedula parva",
+    "subespecie": "",
+    "species": "Red-breasted Flycatcher",
+    "especie": "Papamoscas papirrojo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Ficedula semitorquata",
+    "subespecie": "",
+    "species": "Semicollared Flycatcher",
+    "especie": "Papamoscas semiacollarado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Ficedula hypoleuca",
+    "subespecie": "hypoleuca, iberiae",
+    "species": "European Pied Flycatcher",
+    "especie": "Papamoscas cerrojillo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Ficedula albicollis",
+    "subespecie": "",
+    "species": "Collared Flycatcher",
+    "especie": "Papamoscas acollarado",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Phoenicurus ochruros",
+    "subespecie": "gibraltariensis",
+    "species": "Black Redstart",
+    "especie": "Colirrojo tizón",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Phoenicurus phoenicurus",
+    "subespecie": "phoenicurus",
+    "species": "Common Redstart",
+    "especie": "Colirrojo real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Phoenicurus moussieri",
+    "subespecie": "",
+    "species": "Moussier's Redstart",
+    "especie": "Colirrojo diademado",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Monticola saxatilis",
+    "subespecie": "",
+    "species": "Common Rock Thrush",
+    "especie": "Roquero rojo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Monticola solitarius",
+    "subespecie": "solitarius",
+    "species": "Blue Rock Thrush",
+    "especie": "Roquero solitario",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Saxicola rubetra",
+    "subespecie": "",
+    "species": "Whinchat",
+    "especie": "Tarabilla norteña",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Saxicola dacotiae",
+    "subespecie": "dacotiae, murielae †",
+    "species": "Canary Islands Stonechat",
+    "especie": "Tarabilla canaria",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Saxicola rubicola",
+    "subespecie": "hibernans, rubicola",
+    "species": "European Stonechat",
+    "especie": "Tarabilla europea",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Saxicola maurus",
+    "subespecie": "hemprichii, maurus",
+    "species": "Siberian Stonechat",
+    "especie": "Tarabilla siberiana",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe oenanthe",
+    "subespecie": "leucorhoa, oenanthe, libanotica",
+    "species": "Northern Wheatear",
+    "especie": "Collalba gris",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe seebohmi",
+    "subespecie": "",
+    "species": "Atlas Wheatear",
+    "especie": "Collalba del Atlas",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe isabellina",
+    "subespecie": "",
+    "species": "Isabelline Wheatear",
+    "especie": "Collalba isabel",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe deserti",
+    "subespecie": "homochroa, ¿deserti?",
+    "species": "Desert Wheatear",
+    "especie": "Collalba desértica",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe hispanica",
+    "subespecie": "",
+    "species": "Western Black-eared Wheatear",
+    "especie": "Collalba rubia occidental",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe melanoleuca",
+    "subespecie": "",
+    "species": "Eastern Black-eared Wheatear",
+    "especie": "Collalba rubia oriental",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe leucura",
+    "subespecie": "leucura, riggenbachi",
+    "species": "Black Wheatear",
+    "especie": "Collalba negra",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "MUSCICAPIDAE",
+    "sciName": "Oenanthe leucopyga",
+    "subespecie": "leucopyga",
+    "species": "White-crowned Wheatear",
+    "especie": "Collalba yebélica",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CINCLIDAE",
+    "sciName": "Cinclus cinclus",
+    "subespecie": "cinclus, aquaticus",
+    "species": "White-throated Dipper",
+    "especie": "Mirlo acuático europeo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Petronia petronia",
+    "subespecie": "petronia, barbara",
+    "species": "Rock Sparrow",
+    "especie": "Gorrión chillón",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Montifringilla nivalis",
+    "subespecie": "nivalis",
+    "species": "White-winged Snowfinch",
+    "especie": "Gorrión alpino",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Passer montanus",
+    "subespecie": "montanus",
+    "species": "Eurasian Tree Sparrow",
+    "especie": "Gorrión molinero",
+    "PB": "A",
+    "NA": "A",
+    "CA": "E1"
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Passer hispaniolensis",
+    "subespecie": "hispaniolensis",
+    "species": "Spanish Sparrow",
+    "especie": "Gorrión moruno",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Passer domesticus",
+    "subespecie": "domesticus, balearoibericus, tingitanus",
+    "species": "House Sparrow",
+    "especie": "Gorrión común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "E1"
+  },
+  {
+    "familia": "PRUNELLIDAE",
+    "sciName": "Prunella collaris",
+    "subespecie": "collaris",
+    "species": "Alpine Accentor",
+    "especie": "Acentor alpino",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PRUNELLIDAE",
+    "sciName": "Prunella modularis",
+    "subespecie": "modularis, mabbotti",
+    "species": "Dunnock",
+    "especie": "Acentor común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Motacilla flava",
+    "subespecie": "flavissima, flava, iberiae, cinereocapilla, feldegg, thunbergi",
+    "species": "Western Yellow Wagtail",
+    "especie": "Lavandera boyera",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Motacilla tschutschensis",
+    "subespecie": "ASD",
+    "species": "Eastern Yellow Wagtail",
+    "especie": "Lavandera de Chukotka",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Motacilla citreola",
+    "subespecie": "citreola",
+    "species": "Citrine Wagtail",
+    "especie": "Lavandera cetrina",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Motacilla cinerea",
+    "subespecie": "cinerea",
+    "species": "Grey Wagtail",
+    "especie": "Lavandera cascadeña",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Motacilla alba",
+    "subespecie": "yarrellii, alba, subpersonata",
+    "species": "White Wagtail",
+    "especie": "Lavandera blanca",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus richardi",
+    "subespecie": "",
+    "species": "Richard's Pipit",
+    "especie": "Bisbita de Richard",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus godlewskii",
+    "subespecie": "",
+    "species": "Blyth's Pipit",
+    "especie": "Bisbita estepario",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus campestris",
+    "subespecie": "",
+    "species": "Tawny Pipit",
+    "especie": "Bisbita campestre",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus pratensis",
+    "subespecie": "",
+    "species": "Meadow Pipit",
+    "especie": "Bisbita pratense",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus trivialis",
+    "subespecie": "trivialis",
+    "species": "Tree Pipit",
+    "especie": "Bisbita arbóreo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus hodgsoni",
+    "subespecie": "yunnanensis",
+    "species": "Olive-backed Pipit",
+    "especie": "Bisbita de Hodgson",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus cervinus",
+    "subespecie": "",
+    "species": "Red-throated Pipit",
+    "especie": "Bisbita gorjirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus rubescens",
+    "subespecie": "rubescens",
+    "species": "Buff-bellied Pipit",
+    "especie": "Bisbita pechianteado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus spinoletta",
+    "subespecie": "spinoletta",
+    "species": "Water Pipit",
+    "especie": "Bisbita alpino",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus petrosus",
+    "subespecie": "littoralis",
+    "species": "European Rock Pipit",
+    "especie": "Bisbita costero",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "MOTACILLIDAE",
+    "sciName": "Anthus berthelotii",
+    "subespecie": "berthelotii",
+    "species": "Berthelot's Pipit",
+    "especie": "Bisbita caminero",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Fringilla coelebs",
+    "subespecie": "coelebs, africana, canariensis, bakeri, ombriosa, palmae",
+    "species": "Common Chaffinch",
+    "especie": "Pinzón vulgar",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Fringilla teydea",
+    "subespecie": "",
+    "species": "Tenerife Blue Chaffinch",
+    "especie": "Pinzón azul de Tenerife",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Fringilla polatzeki",
+    "subespecie": "",
+    "species": "Gran Canaria Blue Chaffinch",
+    "especie": "Pinzón azul de Gran Canaria",
+    "PB": "",
+    "NA": "",
+    "CA": "A (i)"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Fringilla montifringilla",
+    "subespecie": "",
+    "species": "Brambling",
+    "especie": "Pinzón real",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Coccothraustes coccothraustes",
+    "subespecie": "coccothraustes, buvryi",
+    "species": "Hawfinch",
+    "especie": "Picogordo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Pyrrhula pyrrhula",
+    "subespecie": "europaea, iberiae",
+    "species": "Eurasian Bullfinch",
+    "especie": "Camachuelo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Bucanetes githagineus",
+    "subespecie": "amantum, zedlitzi",
+    "species": "Trumpeter Finch",
+    "especie": "Camachuelo trompetero",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Carpodacus erythrinus",
+    "subespecie": "erythrinus",
+    "species": "Common Rosefinch",
+    "especie": "Camachuelo carminoso",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Chloris chloris",
+    "subespecie": "chloris, aurantiiventris, vanmarli",
+    "species": "European Greenfinch",
+    "especie": "Verderón común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Linaria flavirostris",
+    "subespecie": "ASD",
+    "species": "Twite",
+    "especie": "Pardillo piquigualdo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Linaria cannabina",
+    "subespecie": "cannabina, mediterranea, meadewaldoi, harterti",
+    "species": "Common Linnet",
+    "especie": "Pardillo común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Acanthis flammea",
+    "subespecie": "flammea, cabaret",
+    "species": "Redpoll",
+    "especie": "Pardillo norteño",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Loxia curvirostra",
+    "subespecie": "curvirostra, balearica, poliogyna",
+    "species": "Red Crossbill",
+    "especie": "Piquituerto común",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Carduelis carduelis",
+    "subespecie": "britannica, carduelis, parva",
+    "species": "European Goldfinch",
+    "especie": "Jilguero europeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Carduelis citrinella",
+    "subespecie": "",
+    "species": "Citril Finch",
+    "especie": "Verderón serrano",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Serinus serinus",
+    "subespecie": "",
+    "species": "European Serin",
+    "especie": "Serín verdecillo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Serinus canaria",
+    "subespecie": "",
+    "species": "Atlantic Canary",
+    "especie": "Serín canario",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Spinus spinus",
+    "subespecie": "",
+    "species": "Eurasian Siskin",
+    "especie": "Jilguero lúgano",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "CALCARIIDAE",
+    "sciName": "Calcarius lapponicus",
+    "subespecie": "lapponicus",
+    "species": "Lapland Longspur",
+    "especie": "Escribano lapón",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "CALCARIIDAE",
+    "sciName": "Plectrophenax nivalis",
+    "subespecie": "nivalis, insulae",
+    "species": "Snow Bunting",
+    "especie": "Escribano nival",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza calandra",
+    "subespecie": "calandra",
+    "species": "Corn Bunting",
+    "especie": "Escribano triguero",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza citrinella",
+    "subespecie": "citrinella",
+    "species": "Yellowhammer",
+    "especie": "Escribano cerillo",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza leucocephalos",
+    "subespecie": "¿leucocephalos?",
+    "species": "Pine Bunting",
+    "especie": "Escribano cabeciblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza cia",
+    "subespecie": "cia",
+    "species": "Rock Bunting",
+    "especie": "Escribano montesino",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza hortulana",
+    "subespecie": "",
+    "species": "Ortolan Bunting",
+    "especie": "Escribano hortelano",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza caesia",
+    "subespecie": "",
+    "species": "Cretzschmar's Bunting",
+    "especie": "Escribano ceniciento",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza cirlus",
+    "subespecie": "",
+    "species": "Cirl Bunting",
+    "especie": "Escribano soteño",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza sahari",
+    "subespecie": "sahari",
+    "species": "House Bunting",
+    "especie": "Escribano sahariano",
+    "PB": "A",
+    "NA": "A",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza pusilla",
+    "subespecie": "",
+    "species": "Little Bunting",
+    "especie": "Escribano pigmeo",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza rustica",
+    "subespecie": "",
+    "species": "Rustic Bunting",
+    "especie": "Escribano rústico",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza aureola",
+    "subespecie": "¿aureola?",
+    "species": "Yellow-breasted Bunting",
+    "especie": "Escribano aureolado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza melanocephala",
+    "subespecie": "",
+    "species": "Black-headed Bunting",
+    "especie": "Escribano cabecinegro",
+    "PB": "A (i)",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza bruniceps",
+    "subespecie": "",
+    "species": "Red-headed Bunting",
+    "especie": "Escribano carirrojo",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza spodocephala",
+    "subespecie": "ASD?",
+    "species": "Black-faced Bunting",
+    "especie": "Escribano enmascarado",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza schoeniclus",
+    "subespecie": "lusitanica, schoeniclus, witherbyi",
+    "species": "Common Reed Bunting",
+    "especie": "Escribano palustre",
+    "PB": "A",
+    "NA": "A",
+    "CA": "A"
+  },
+  {
+    "familia": "PASSERELLIDAE",
+    "sciName": "Zonotrichia albicollis",
+    "subespecie": "",
+    "species": "White-throated Sparrow",
+    "especie": "Chingolo gorjiblanco",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PASSERELLIDAE",
+    "sciName": "Melospiza melodia",
+    "subespecie": "melodia/atlantica",
+    "species": "Song Sparrow",
+    "especie": "Chingolo cantor",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ICTERIDAE",
+    "sciName": "Dolichonyx oryzivorus",
+    "subespecie": "",
+    "species": "Bobolink",
+    "especie": "Tordo charlatán",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PARULIDAE",
+    "sciName": "Parkesia noveboracensis",
+    "subespecie": "",
+    "species": "Northern Waterthrush",
+    "especie": "Reinita charquera norteña",
+    "PB": "",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PARULIDAE",
+    "sciName": "Mniotilta varia",
+    "subespecie": "",
+    "species": "Black-and-white Warbler",
+    "especie": "Reinita trepadora",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "PARULIDAE",
+    "sciName": "Geothlypis trichas",
+    "subespecie": "¿trichas?",
+    "species": "Common Yellowthroat",
+    "especie": "Mascarita común",
+    "PB": "A",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PARULIDAE",
+    "sciName": "Setophaga coronata",
+    "subespecie": "¿coronata?",
+    "species": "Myrtle Warbler",
+    "especie": "Reinita coronada",
+    "PB": "A",
+    "NA": "",
+    "CA": "A"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Dendrocygna viduata",
+    "subespecie": "",
+    "species": "White-faced Whistling Duck",
+    "especie": "Suirirí cariblanco",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Dendrocygna bicolor",
+    "subespecie": "",
+    "species": "Fulvous Whistling Duck",
+    "especie": "Suirirí bicolor",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Branta hutchinsii",
+    "subespecie": "ASD",
+    "species": "Cackling Goose",
+    "especie": "Barnacla canadiense chica",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser erythropus",
+    "subespecie": "",
+    "species": "Lesser White-fronted Goose",
+    "especie": "Ánsar chico",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aix sponsa",
+    "subespecie": "",
+    "species": "Wood Duck",
+    "especie": "Pato joyuyo",
+    "PB": "D",
+    "NA": "",
+    "CA": "D"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Sibirionetta formosa",
+    "subespecie": "",
+    "species": "Baikal Teal",
+    "especie": "Cerceta del Baikal",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Spatula cyanoptera",
+    "subespecie": "ASD",
+    "species": "Cinnamon Teal",
+    "especie": "Cerceta colorada",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Mareca falcata",
+    "subespecie": "",
+    "species": "Falcated Duck",
+    "especie": "Cerceta de alfanjes",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Lophodytes cucullatus",
+    "subespecie": "",
+    "species": "Hooded Merganser",
+    "especie": "Serreta capuchona",
+    "PB": "D",
+    "NA": "",
+    "CA": "D"
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Oena capensis",
+    "subespecie": "capensis",
+    "species": "Namaqua Dove",
+    "especie": "Tórtola rabilarga",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "COLUMBIDAE",
+    "sciName": "Zenaida macroura",
+    "subespecie": "ASD",
+    "species": "Mourning Dove",
+    "especie": "Zenaida huilota",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CICONIIDAE",
+    "sciName": "Mycteria ibis",
+    "subespecie": "",
+    "species": "Yellow-billed Stork",
+    "especie": "Tántalo africano",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CICONIIDAE",
+    "sciName": "Leptoptilos crumenifer",
+    "subespecie": "",
+    "species": "Marabou Stork",
+    "especie": "Marabú africano",
+    "PB": "D",
+    "NA": "",
+    "CA": "D"
+  },
+  {
+    "familia": "PHALACROCORACIDAE",
+    "sciName": "Microcarbo africanus",
+    "subespecie": "africanus",
+    "species": "Reed Cormorant",
+    "especie": "Cormorán africano",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "THRESKIORNITHIDAE",
+    "sciName": "Platalea alba",
+    "subespecie": "",
+    "species": "African Spoonbill",
+    "especie": "Espátula africana",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PELECANIDAE",
+    "sciName": "Pelecanus rufescens",
+    "subespecie": "",
+    "species": "Pink-backed Pelican",
+    "especie": "Pelícano rosado",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PELECANIDAE",
+    "sciName": "Pelecanus crispus",
+    "subespecie": "",
+    "species": "Dalmatian Pelican",
+    "especie": "Pelícano ceñudo",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ACCIPITRIDAE",
+    "sciName": "Necrosyrtes monachus",
+    "subespecie": "",
+    "species": "Hooded Vulture",
+    "especie": "Alimoche sombrío",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "CORVIDAE",
+    "sciName": "Corvus albus",
+    "subespecie": "",
+    "species": "Pied Crow",
+    "especie": "Cuervo pío",
+    "PB": "D",
+    "NA": "D",
+    "CA": "D"
+  },
+  {
+    "familia": "MIMIDAE",
+    "sciName": "Mimus polyglottos",
+    "subespecie": "polyglottos",
+    "species": "Northern Mockingbird",
+    "especie": "Sinsonte norteño",
+    "PB": "",
+    "NA": "",
+    "CA": "D"
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Passer italiae",
+    "subespecie": "",
+    "species": "Italian Sparrow",
+    "especie": "Gorrión italiano",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PASSERIDAE",
+    "sciName": "Passer luteus",
+    "subespecie": "",
+    "species": "Sudan Golden Sparrow",
+    "especie": "Gorrión dorado",
+    "PB": "",
+    "NA": "D",
+    "CA": "D"
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Rhodospiza obsoleta",
+    "subespecie": "",
+    "species": "Desert Finch",
+    "especie": "Camachuelo desertícola",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "EMBERIZIDAE",
+    "sciName": "Emberiza cioides",
+    "subespecie": "ASD",
+    "species": "Meadow Bunting",
+    "especie": "Escribano de Brandt",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ICTERIDAE",
+    "sciName": "Icterus galbula",
+    "subespecie": "",
+    "species": "Baltimore Oriole",
+    "especie": "Turpial de Baltimore",
+    "PB": "D",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Branta canadensis",
+    "subespecie": "canadensis",
+    "species": "Canada Goose",
+    "especie": "Barnacla canadiense grande",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Anser indicus",
+    "subespecie": "",
+    "species": "Bar-headed Goose",
+    "especie": "Ánsar indio",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Cygnus atratus",
+    "subespecie": "",
+    "species": "Black Swan",
+    "especie": "Cisne negro",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Alopochen aegyptiaca",
+    "subespecie": "",
+    "species": "Egyptian Goose",
+    "especie": "Ganso del Nilo",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Cairina moschata",
+    "subespecie": "",
+    "species": "Muscovy Duck",
+    "especie": "Pato criollo",
+    "PB": "",
+    "NA": "",
+    "CA": "C"
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Aix galericulata",
+    "subespecie": "",
+    "species": "Mandarin Duck",
+    "especie": "Pato mandarín",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ANATIDAE",
+    "sciName": "Oxyura jamaicensis",
+    "subespecie": "",
+    "species": "Ruddy Duck",
+    "especie": "Malvasía canela",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PHASIANIDAE",
+    "sciName": "Phasianus colchicus",
+    "subespecie": "cruces subespecíficos",
+    "species": "Common Pheasant",
+    "especie": "Faisán vulgar",
+    "PB": "E1",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "THRESKIORNITHIDAE",
+    "sciName": "Threskiornis aethiopicus",
+    "subespecie": "",
+    "species": "African Sacred Ibis",
+    "especie": "Ibis sagrado",
+    "PB": "C*",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Myiopsitta monachus",
+    "subespecie": "ASD",
+    "species": "Monk Parakeet",
+    "especie": "Cotorra argentina",
+    "PB": "C",
+    "NA": "E1",
+    "CA": "C"
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Aratinga nenday",
+    "subespecie": "",
+    "species": "Nanday Parakeet",
+    "especie": "Aratinga ñanday",
+    "PB": "",
+    "NA": "",
+    "CA": "E1"
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Thectocercus acuticaudatus",
+    "subespecie": "ASD",
+    "species": "Blue-crowned Parakeet",
+    "especie": "Aratinga cabeciazul",
+    "PB": "E1",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Psittacara mitratus",
+    "subespecie": "ASD",
+    "species": "Mitred Parakeet",
+    "especie": "Aratinga mitrada",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Psittacara erythrogenys",
+    "subespecie": "",
+    "species": "Red-masked Parakeet",
+    "especie": "Aratinga de Guayaquil",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PSITTACIDAE",
+    "sciName": "Psittacula krameri",
+    "subespecie": "cruces subespecíficos",
+    "species": "Rose-ringed Parakeet",
+    "especie": "Cotorra de Kramer",
+    "PB": "C",
+    "NA": "E1",
+    "CA": "C"
+  },
+  {
+    "familia": "PYCNONOTIDAE",
+    "sciName": "Pycnonotus jocosus",
+    "subespecie": "ASD",
+    "species": "Red-whiskered Bulbul",
+    "especie": "Bulbul orfeo",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PYCNONOTIDAE",
+    "sciName": "Pycnonotus cafer",
+    "subespecie": "ASD",
+    "species": "Red-vented Bulbul",
+    "especie": "Bulbul cafre",
+    "PB": "",
+    "NA": "",
+    "CA": "E1"
+  },
+  {
+    "familia": "LEIOTHRICHIDAE",
+    "sciName": "Leiothrix lutea",
+    "subespecie": "ASD",
+    "species": "Red-billed Leiothrix",
+    "especie": "Leiótrix piquirrojo",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PLOCEIDAE",
+    "sciName": "Ploceus melanocephalus",
+    "subespecie": "ASD",
+    "species": "Black-headed Weaver",
+    "especie": "Tejedor cabecinegro",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "PLOCEIDAE",
+    "sciName": "Euplectes afer",
+    "subespecie": "ASD",
+    "species": "Yellow-crowned Bishop",
+    "especie": "Obispo coronigualdo",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ESTRILDIDAE",
+    "sciName": "Estrilda melpoda",
+    "subespecie": "",
+    "species": "Orange-cheeked Waxbill",
+    "especie": "Estrilda carinaranja",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ESTRILDIDAE",
+    "sciName": "Estrilda astrild",
+    "subespecie": "jagoensis / cruces subespecíficos",
+    "species": "Common Waxbill",
+    "especie": "Estrilda común",
+    "PB": "C",
+    "NA": "",
+    "CA": "C"
+  },
+  {
+    "familia": "ESTRILDIDAE",
+    "sciName": "Estrilda troglodytes",
+    "subespecie": "",
+    "species": "Black-rumped Waxbill",
+    "especie": "Estrilda culinegra",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "ESTRILDIDAE",
+    "sciName": "Amandava amandava",
+    "subespecie": "amandava",
+    "species": "Red Avadavat",
+    "especie": "Bengalí rojo",
+    "PB": "C",
+    "NA": "",
+    "CA": ""
+  },
+  {
+    "familia": "FRINGILLIDAE",
+    "sciName": "Haemorhous mexicanus",
+    "subespecie": "ASD",
+    "species": "House Finch",
+    "especie": "Camachuelo mexicano",
+    "PB": "E1",
+    "NA": "",
+    "CA": ""
+  }
+]

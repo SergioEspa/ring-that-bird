@@ -1,0 +1,79 @@
+<div class="modal fade" id="addBirdModal" tabindex="-1" aria-labelledby="addBirdModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content rounded-3 shadow">
+      
+        <!-- Header -->
+        <div class="modal-header">
+        <h5 class="modal-title" id="locationModalLabel">Añadir anillamiento</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+        </div>
+        
+        <!-- Body -->
+        <div class="modal-body">
+              <form id="addBirdForm">
+                <div class="mb-3">
+                    <label for="species" class="form-label">Especie</label>
+                    <input type="text" class="form-control" id="species" placeholder="Ej: Colirrojo tizón" required>
+                    <div id="suggestions" class="list-group position-absolute w-100" style="z-index: 1000;"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="sciName" class="form-label">Nombre científico</label>
+                    <label id="sciName" class="form-control-plaintext">-</label>
+                </div>
+
+                <div class="mb-3">
+                <label for="ringNumber" class="form-label">Número de anilla</label>
+                <input type="text" class="form-control" id="ringNumber" placeholder="Ej: 12" required>
+                </div>
+
+                <div class="mb-3">
+                <label for="sex" class="form-label">Sexo</label>
+                <select class="form-select" id="sex">
+                    <option value="" selected>Selecciona</option>
+                    <option value="macho">Macho</option>
+                    <option value="hembra">Hembra</option>
+                    <option value="desconocido">Desconocido</option>
+                </select>
+                </div>
+
+                <div class="mb-3">
+                <label for="age" class="form-label">Edad</label>
+                <select class="form-select" id="age">
+                    <option value="" selected>Selecciona</option>
+                    <option value="juvenil">Juvenil</option>
+                    <option value="adulto">Adulto</option>
+                    <option value="desconocido">Desconocido</option>
+                </select>
+                </div>
+
+                <div class="mb-3">
+                <label for="weight" class="form-label">Peso (g)</label>
+                <input type="number" class="form-control" id="weight" placeholder="Ej: 15">
+                </div>
+
+                <div class="mb-3">
+                <label for="wingLength" class="form-label">Longitud ala (mm)</label>
+                <input type="number" class="form-control" id="wingLength" placeholder="Ej: 78">
+                </div>
+
+                <div class="mb-3">
+                <label for="date" class="form-label">Fecha de anillamiento</label>
+                <input type="date" class="form-control" id="date" required>
+                </div>
+
+                <div class="mb-3">
+                <label for="notes" class="form-label">Observaciones</label>
+                <textarea class="form-control" id="notes" rows="3" placeholder="Notas adicionales..."></textarea>
+                </div>
+            </form>
+        </div>
+        
+        <!-- Footer -->
+        <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="cancelAddBird">Cancelar</button>
+        <button type="button" class="btn btn-primary" id="acceptAddBird">Aceptar</button>
+        </div>
+    </div>
+  </div>
+</div>

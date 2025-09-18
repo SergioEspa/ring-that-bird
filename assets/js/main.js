@@ -1,3 +1,8 @@
+let map;
+let markerGroup;
+let tempMarker = null;
+let aves = [];
+
 function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
     sidebar.classList.toggle('collapsed');
@@ -11,7 +16,9 @@ function toggleActiveLink(selectedLink) {
 }
 
 function initializeMap() {
-    var map = L.map('map').setView([51.505, -0.09], 13);
+    map = L.map('map').setView([51.505, -0.09], 13);
+
+    markerGroup = L.layerGroup().addTo(map);
 
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position) {
@@ -52,7 +59,100 @@ function initializeMap() {
     }).addTo(map);
 }
 
+async function startAddingBird() {
+    if(!document.getElementById('locationModal')) {
+        const response = await fetch('dialogs/mapDialog.html');
+        const modalHTML = await response.text();
+        document.body.insertAdjacentHTML('beforeend', modalHTML);
+    }
+    
+    const locationModal = new bootstrap.Modal(document.getElementById('locationModal'));
+    locationModal.show();
+
+    document.getElementById("cancelLocation").addEventListener('click', () => {
+        locationModal.hide();
+    });
+
+    document.getElementById("acceptLocation").addEventListener('click', () => {
+        locationModal.hide();
+        isAddingBird = true;
+        document.getElementById('map').style.cursor = 'crosshair';
+
+        // Create cancel button
+        const cancelBtn = document.createElement('button');
+        cancelBtn.id = 'cancel-add-bird';
+        cancelBtn.className = 'btn btn-danger position-absolute top-0 end-0 m-4';
+        cancelBtn.innerHTML = '<i class="bi bi-x-lg"></i> Cancelar';
+        cancelBtn.style.zIndex = 1000; // Ensure it's above the map
+        document.getElementById('map').appendChild(cancelBtn);
+
+        // Add event listener to cancel button
+        cancelBtn.addEventListener('click', function() {
+            isAddingBird = false;
+            document.getElementById('map').style.cursor = '';
+            document.getElementById('cancel-add-bird').remove();
+            document.getElementById('add-bird-btn').style.display = 'block';
+        });
+
+        document.getElementById('add-bird-btn').style.display = 'none';
+
+        map.on('click', placeMarker);
+    });
+}
+
+function placeMarker(e) {
+    const latlng = e.latlng;
+
+    if(tempMarker) {
+        markerGroup.removeLayer(tempMarker);
+    }
+
+    tempMarker = L.marker(latlng).addTo(markerGroup);
+
+    showAddBirdDialog(latlng);
+}
+
+async function showAddBirdDialog(latlng) {
+    if(!document.getElementById('addBirdModal')) {
+        const response = await fetch('dialogs/addBirdDialog.html');
+        const modalHTML = await response.text();
+        document.body.insertAdjacentHTML('beforeend', modalHTML);
+    }
+
+    const addBirdModal = new bootstrap.Modal(document.getElementById('addBirdModal'));
+    addBirdModal.show();
+
+    document.getElementById('species').addEventListener('input', function() {
+        const input = this;
+        const query = input.value.toLowerCase();
+        const suggestions = document.getElementById('suggestions'); // asegúrate de tener este div en tu HTML
+        suggestions.innerHTML = "";
+
+        if (query.length < 2) return;
+
+        const filteredSpecies = aves.filter(ave => 
+            ave.especie.toLowerCase().includes(query) || ave.sciName.toLowerCase().includes(query)
+        ).slice(0, 10);
+
+        filteredSpecies.forEach(bird => {
+            const item = document.createElement("div");
+            item.className = "list-group-item list-group-item-action";
+            item.textContent = `${bird.especie} (${bird.sciName})`;
+            item.addEventListener("click", () => {
+                input.value = bird.especie;
+                suggestions.innerHTML = "";
+                document.getElementById('sciName').textContent = bird.sciName;
+            });
+            suggestions.appendChild(item);
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
+    fetch('birds_spain.json')
+        .then(response => response.json())
+        .then(data => aves = data);
+    
     fetch("components/sidebar.html")
         .then(response => response.text())
         .then(data => {
@@ -90,7 +190,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     const addBirdBtn = document.getElementById('add-bird-btn');
                     addBirdBtn.addEventListener('click', function() {
-                        alert('Funcionalidad para añadir anillamiento próximamente.');
+                        startAddingBird();
                     });
                 }
             });
