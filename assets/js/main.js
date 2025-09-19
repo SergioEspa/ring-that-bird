@@ -91,15 +91,13 @@ async function startAddingBird() {
         document.getElementById('map').style.cursor = 'crosshair';
 
         // Create cancel button
-        if (!document.getElementById('cancel-add-bird')) {
-            const cancelBtn = document.createElement('button');
-            cancelBtn.id = 'cancel-add-bird';
-            cancelBtn.className = 'btn btn-danger position-absolute top-0 end-0 m-4';
-            cancelBtn.innerHTML = '<i class="bi bi-x-lg"></i> Cancelar';
-            cancelBtn.style.zIndex = 1000; // Ensure it's above the map
-            document.getElementById('map').appendChild(cancelBtn);
-        }
-        
+        const cancelBtn = document.createElement('button');
+        cancelBtn.id = 'cancel-add-bird';
+        cancelBtn.className = 'btn btn-danger position-absolute top-0 end-0 m-4';
+        cancelBtn.innerHTML = '<i class="bi bi-x-lg"></i> Cancelar';
+        cancelBtn.style.zIndex = 1000; // Ensure it's above the map
+        document.getElementById('map').appendChild(cancelBtn);
+
         // Add event listener to cancel button
         cancelBtn.addEventListener('click', function() {
             exitAddingBirdMode();
