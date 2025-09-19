@@ -2,6 +2,7 @@ let map;
 let markerGroup;
 let tempMarker = null;
 let aves = [];
+let isAddingBird = false;
 
 function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
@@ -59,6 +60,17 @@ function initializeMap() {
     }).addTo(map);
 }
 
+function exitAddingBirdMode(){
+    map.off('click', placeMarker);
+    isAddingBird = false;
+    document.getElementById('map').style.cursor = '';
+
+    const cancelBtns = document.querySelectorAll('#cancel-add-bird');
+    cancelBtns.forEach(btn => btn.remove());
+
+    document.getElementById('add-bird-btn').style.display = 'block';
+}
+
 async function startAddingBird() {
     if(!document.getElementById('locationModal')) {
         const response = await fetch('dialogs/mapDialog.html');
@@ -79,19 +91,18 @@ async function startAddingBird() {
         document.getElementById('map').style.cursor = 'crosshair';
 
         // Create cancel button
-        const cancelBtn = document.createElement('button');
-        cancelBtn.id = 'cancel-add-bird';
-        cancelBtn.className = 'btn btn-danger position-absolute top-0 end-0 m-4';
-        cancelBtn.innerHTML = '<i class="bi bi-x-lg"></i> Cancelar';
-        cancelBtn.style.zIndex = 1000; // Ensure it's above the map
-        document.getElementById('map').appendChild(cancelBtn);
-
+        if (!document.getElementById('cancel-add-bird')) {
+            const cancelBtn = document.createElement('button');
+            cancelBtn.id = 'cancel-add-bird';
+            cancelBtn.className = 'btn btn-danger position-absolute top-0 end-0 m-4';
+            cancelBtn.innerHTML = '<i class="bi bi-x-lg"></i> Cancelar';
+            cancelBtn.style.zIndex = 1000; // Ensure it's above the map
+            document.getElementById('map').appendChild(cancelBtn);
+        }
+        
         // Add event listener to cancel button
         cancelBtn.addEventListener('click', function() {
-            isAddingBird = false;
-            document.getElementById('map').style.cursor = '';
-            document.getElementById('cancel-add-bird').remove();
-            document.getElementById('add-bird-btn').style.display = 'block';
+            exitAddingBirdMode();
         });
 
         document.getElementById('add-bird-btn').style.display = 'none';
@@ -109,6 +120,7 @@ function placeMarker(e) {
 
     tempMarker = L.marker(latlng).addTo(markerGroup);
 
+    exitAddingBirdMode();
     showAddBirdDialog(latlng);
 }
 
@@ -120,7 +132,32 @@ async function showAddBirdDialog(latlng) {
     }
 
     const addBirdModal = new bootstrap.Modal(document.getElementById('addBirdModal'));
+    document.getElementById('sciName').textContent = '';
     addBirdModal.show();
+
+    document.getElementById('cancelAddBird').addEventListener('click', () => {
+        addBirdModal.hide();
+        // Remove temporary marker if dialog is cancelled
+        if(tempMarker) {
+            markerGroup.removeLayer(tempMarker);
+            tempMarker = null;
+        }
+    });
+
+    document.getElementById('cross-close-bird-dialog').addEventListener('click', () => {
+        addBirdModal.hide();
+        // Remove temporary marker if dialog is cancelled
+        if(tempMarker) {
+            markerGroup.removeLayer(tempMarker);
+            tempMarker = null;
+        }
+    });
+
+    document.getElementById('acceptAddBird').addEventListener('click', function() {
+        // Show alert for now
+        alert('La funcionalidad de guardado se implementará próximamente');
+        addBirdModal.hide();
+    });    
 
     document.getElementById('species').addEventListener('input', function() {
         const input = this;

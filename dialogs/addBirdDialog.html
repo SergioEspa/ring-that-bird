@@ -1,11 +1,11 @@
-<div class="modal fade" id="addBirdModal" tabindex="-1" aria-labelledby="addBirdModalLabel" aria-hidden="true">
+<div class="modal fade" id="addBirdModal" tabindex="-1" aria-labelledby="addBirdModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
   <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content rounded-3 shadow">
+    <div class="modal-content rounded-3 shadow bg-light">
       
         <!-- Header -->
         <div class="modal-header">
-        <h5 class="modal-title" id="locationModalLabel">Añadir anillamiento</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            <h5 class="modal-title" id="locationModalLabel">Añadir anillamiento</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar" id="cross-close-bird-dialog"></button>
         </div>
         
         <!-- Body -->
@@ -72,7 +72,7 @@
         <!-- Footer -->
         <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" id="cancelAddBird">Cancelar</button>
-        <button type="button" class="btn btn-primary" id="acceptAddBird">Aceptar</button>
+        <button type="button" class="btn btn-success" id="acceptAddBird">Aceptar</button>
         </div>
     </div>
   </div>

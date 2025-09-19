@@ -7,6 +7,7 @@
     --bg-tertiary: rgba(36, 95, 81, 0.179);
     --secondary-color: #f2f291;
     --bg-primary-bright: #00b386;
+    --bg-textbox: #d7fdeb;
 }
 
 #sidebar {
@@ -56,7 +57,7 @@
 }
 
 .bg-dark {
-    background-color: #343a40 !important;
+    background-color: #34403c !important;
 }
 
 .bg-primary {
@@ -69,6 +70,10 @@
 
 .bg-tertiary {
     background-color: rgb(101, 143, 137) !important;
+}
+
+.bg-light {
+    background-color: #d5ffec !important;
 }
 
 #main-content {
@@ -92,4 +97,8 @@
 #add-bird-btn:hover {
     background-color: var(--bg-primary);
     color: #fff !important;
+}
+
+#form-control {
+    background-color: var(--bg-textbox) !important;
 }
