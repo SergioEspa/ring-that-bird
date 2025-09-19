@@ -99,6 +99,39 @@
     color: #fff !important;
 }
 
+#add-bird-btn-mock {
+    border: none;
+    background-color: var(--bg-primary-bright);
+}
+
+#add-bird-btn-mock:hover {
+    cursor: default;
+}
+
 #form-control {
     background-color: var(--bg-textbox) !important;
+}
+
+.bg-img { 
+    position: relative; 
+    /* opacity: 0.65; */ 
+    background-attachment: fixed;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} 
+
+.bg-img1 { 
+    background-image: url(abubilla.jpg); 
+    min-height: 400px; 
+}
+
+.bg-img2 { 
+    background-image: url(buho.jpg); 
+    min-height: 400px;
+}
+
+.bg-img3 { 
+    background-image: url(petirrojo_exp.jpeg); 
+    min-height: 400px; 
 }
