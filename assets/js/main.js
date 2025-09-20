@@ -183,6 +183,30 @@ async function showAddBirdDialog(latlng) {
     });
 }
 
+async function loadBirdsPage() {
+    const birdGrid = document.getElementById('birdGrid');
+    
+    for (const bird of aves) {
+        const sciFileName = bird.sciName.replace(/ /g, '_');
+        const imageUrlThumb = `../../bird_images/${sciFileName}_thumb.jpg`;
+        const imageUrl = `../../bird_images/${sciFileName}.jpg`;
+
+        const col = document.createElement('div');
+        col.className = 'col-sm-6 col-md-4 col-lg-3';
+        col.innerHTML = `
+            <div class="card h-100 shadow-sm rounded-3">
+            <img src="${imageUrlThumb}" class="card-img-top" alt="${bird.especie}">
+            <div class="card-body text-center">
+                <h5 class="card-title">${bird.especie}</h5>
+                <p class="card-text"><em>${bird.sciName}</em></p>
+            </div>
+            </div>
+        `;
+
+        birdGrid.appendChild(col);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     fetch('birds_spain.json')
         .then(response => response.json())
@@ -227,6 +251,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     addBirdBtn.addEventListener('click', function() {
                         startAddingBird();
                     });
+                }
+                else if (page === 'birds.html') {
+                    loadBirdsPage();
                 }
             });
     }

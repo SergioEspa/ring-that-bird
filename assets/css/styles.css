@@ -135,3 +135,10 @@
     background-image: url(petirrojo_exp.jpeg); 
     min-height: 400px; 
 }
+
+.card:hover {
+    transform: scale(1.03);
+    transition: transform 0.2s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}

@@ -1,0 +1,650 @@
+sciName,espName,filename,source,source_url,license,license_url,attribution,ok
+Branta bernicla,Barnacla carinegra,branta_bernicla.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7087,,,"(c) Dimitris S, all rights reserved, uploaded by Dimitris S",True
+Branta leucopsis,Barnacla cariblanca,branta_leucopsis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7101,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Anser caerulescens,Ánsar nival,anser_caerulescens.jpg,iNaturalist,https://www.inaturalist.org/taxa/558426,cc-by-nc,,"(c) Miguel A Mejias, PhD., some rights reserved (CC BY-NC), uploaded by Miguel A Mejias, PhD.",True
+Branta ruficollis,Barnacla cuellirroja,branta_ruficollis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7102,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Anser brachyrhynchus,Ánsar piquicorto,anser_brachyrhynchus.jpg,iNaturalist,https://www.inaturalist.org/taxa/7007,cc-by-nc,,"(c) Martin Grimm, some rights reserved (CC BY-NC), uploaded by Martin Grimm",True
+Anser fabalis,Ánsar campestre de la taiga,anser_fabalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7009,cc-by-nc,,"(c) jeffblincow, some rights reserved (CC BY-NC)",True
+Anser anser,Ánsar común,anser_anser.jpg,iNaturalist,https://www.inaturalist.org/taxa/7018,cc-by-nc,,"(c) Frans Vandewalle, some rights reserved (CC BY-NC)",True
+Anser serrirostris,Ánsar campestre de la tundra,anser_serrirostris.jpeg,iNaturalist,https://www.inaturalist.org/taxa/144423,cc-by,,"(c) Troy B, some rights reserved (CC BY), uploaded by Troy B",True
+Cygnus olor,Cisne vulgar,cygnus_olor.jpg,iNaturalist,https://www.inaturalist.org/taxa/6921,,,"(c) Mark Sikking, all rights reserved, uploaded by Mark Sikking",True
+Anser albifrons,Ánsar careto,anser_albifrons.jpg,iNaturalist,https://www.inaturalist.org/taxa/7019,cc-by-nc-nd,,"(c) Skip Russell, some rights reserved (CC BY-NC-ND)",True
+Cygnus cygnus,Cisne cantor,cygnus_cygnus.jpg,iNaturalist,https://www.inaturalist.org/taxa/6921,,,"(c) Mark Sikking, all rights reserved, uploaded by Mark Sikking",True
+Cygnus columbianus,Cisne chico,cygnus_columbianus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/6917,cc0,,"no rights reserved, uploaded by Andy Wilson",True
+Tadorna tadorna,Tarro blanco,tadorna_tadorna.jpg,iNaturalist,https://www.inaturalist.org/taxa/7067,cc-by-nc,,"(c) thegreatdodo, some rights reserved (CC BY-NC), uploaded by thegreatdodo",True
+Tadorna ferruginea,Tarro canelo,tadorna_ferruginea.jpg,iNaturalist,https://www.inaturalist.org/taxa/7068,cc-by,,"(c) egorbirder, some rights reserved (CC BY)",True
+Spatula querquedula,Cerceta carretona,spatula_querquedula.jpg,iNaturalist,https://www.inaturalist.org/taxa/558429,cc-by-nc,,"(c) Ксения Соварцева, some rights reserved (CC BY-NC), uploaded by Ксения Соварцева",True
+Spatula discors,Cerceta aliazul,spatula_discors.jpeg,iNaturalist,https://www.inaturalist.org/taxa/558433,cc-by-nc,,"(c) Ed O'Connor, some rights reserved (CC BY-NC), uploaded by Ed O'Connor",True
+Spatula clypeata,Cuchara común,spatula_clypeata.jpg,iNaturalist,https://www.inaturalist.org/taxa/558438,cc-by-nc,,"(c) silvertop41, some rights reserved (CC BY-NC)",True
+Mareca strepera,Ánade friso,mareca_strepera.jpg,iNaturalist,https://www.inaturalist.org/taxa/558439,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Mareca penelope,Silbón europeo,mareca_penelope.jpeg,iNaturalist,https://www.inaturalist.org/taxa/558441,cc-by-nc,,"(c) zametnya, some rights reserved (CC BY-NC)",True
+Mareca americana,Silbón americano,mareca_americana.jpg,iNaturalist,https://www.inaturalist.org/taxa/485176,,,"(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",True
+Anas rubripes,Ánade sombrío,anas_rubripes.jpg,iNaturalist,https://www.inaturalist.org/taxa/6924,cc-by-nc-nd,,"(c) gbudyk, some rights reserved (CC BY-NC-ND), uploaded by gbudyk",True
+Anas crecca,Cerceta común,anas_crecca.jpg,iNaturalist,https://www.inaturalist.org/taxa/6937,,,"(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",True
+Anas acuta,Ánade rabudo,anas_acuta.jpg,iNaturalist,https://www.inaturalist.org/taxa/6933,cc-by-nc,,"(c) Luigi Andena, some rights reserved (CC BY-NC), uploaded by Luigi Andena",True
+Anas platyrhynchos,Ánade azulón,anas_platyrhynchos.jpg,iNaturalist,https://www.inaturalist.org/taxa/6930,cc-by-sa,,"(c) anonymous, some rights reserved (CC BY-SA)",True
+Aythya ferina,Porrón europeo,aythya_ferina.jpg,iNaturalist,https://www.inaturalist.org/taxa/7045,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Marmaronetta angustirostris,Cerceta pardilla,marmaronetta_angustirostris.jpg,iNaturalist,https://www.inaturalist.org/taxa/7139,cc-by-nc,,"(c) jjulio2000, some rights reserved (CC BY-NC)",True
+Aythya collaris,Porrón acollarado,aythya_collaris.jpg,iNaturalist,https://www.inaturalist.org/taxa/7044,,,"(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",True
+Netta rufina,Pato colorado,netta_rufina.jpg,iNaturalist,https://www.inaturalist.org/taxa/7122,cc-by,,"(c) Diego González Dopico, some rights reserved (CC BY), uploaded by Diego González Dopico",True
+Aythya nyroca,Porrón pardo,aythya_nyroca.jpg,iNaturalist,https://www.inaturalist.org/taxa/7055,cc-by-sa,,"(c) Martin Mecnarowski, some rights reserved (CC BY-SA)",True
+Anas carolinensis,Cerceta americana,anas_carolinensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Anas_carolinensis,,,,True
+Aythya marila,Porrón bastardo,aythya_marila.jpg,iNaturalist,https://www.inaturalist.org/taxa/7047,cc-by-nc-nd,,"(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",True
+Aythya fuligula,Porrón moñudo,aythya_fuligula.jpg,iNaturalist,https://www.inaturalist.org/taxa/7046,cc-by-nc,,"(c) Frans Vandewalle, some rights reserved (CC BY-NC)",True
+Aythya affinis,Porrón bola,aythya_affinis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7054,cc-by,,"(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",True
+Somateria mollissima,Éider común,somateria_mollissima.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7024,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Melanitta perspicillata,Negrón careto,melanitta_perspicillata.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7036,cc-by-nc,,"(c) Peter Taylor, some rights reserved (CC BY-NC), uploaded by Peter Taylor",True
+Somateria spectabilis,Éider real,somateria_spectabilis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7030,,,"(c) Judd Patterson, all rights reserved, uploaded by Judd Patterson",True
+Melanitta fusca,Negrón especulado,melanitta_fusca.jpg,iNaturalist,https://www.inaturalist.org/taxa/144222,cc-by-nc-nd,,"(c) Bill Bouton, some rights reserved (CC BY-NC-ND)",True
+Melanitta stejnegeri,Negrón siberiano,melanitta_stejnegeri.jpeg,iNaturalist,https://www.inaturalist.org/taxa/144233,,,"(c) 조흥상, all rights reserved, uploaded by 조흥상",True
+Melanitta nigra,Negrón común,melanitta_nigra.jpg,iNaturalist,https://www.inaturalist.org/taxa/144220,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Melanitta americana,Negrón americano,melanitta_americana.jpg,iNaturalist,https://www.inaturalist.org/taxa/144220,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Clangula hyemalis,Pato havelda,clangula_hyemalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/7170,cc-by-nc,,"(c) clicque, some rights reserved (CC BY-NC), uploaded by clicque",True
+Bucephala clangula,Porrón osculado,bucephala_clangula.jpg,iNaturalist,https://www.inaturalist.org/taxa/6990,cc-by-nc,,"(c) brian stahls, some rights reserved (CC BY-NC), uploaded by brian stahls",True
+Bucephala islandica,Porrón islándico,bucephala_islandica.jpg,iNaturalist,https://www.inaturalist.org/taxa/6994,cc-by-nc,,"(c) John D Reynolds, some rights reserved (CC BY-NC), uploaded by John D Reynolds",True
+Mergellus albellus,Serreta chica,mergellus_albellus.jpg,iNaturalist,https://www.inaturalist.org/taxa/7192,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Bucephala albeola,Porrón albeola,bucephala_albeola.jpg,iNaturalist,https://www.inaturalist.org/taxa/6993,,,"(c) ivanparr, all rights reserved, uploaded by ivanparr",True
+Mergus merganser,Serreta grande,mergus_merganser.jpg,iNaturalist,https://www.inaturalist.org/taxa/7004,cc-by-nc,,"(c) brian stahls, some rights reserved (CC BY-NC), uploaded by brian stahls",True
+Mergus serrator,Serreta mediana,mergus_serrator.jpeg,iNaturalist,https://www.inaturalist.org/taxa/6996,cc-by-nc,,"(c) Mario Finkel, some rights reserved (CC BY-NC), uploaded by Mario Finkel",True
+Tetrastes bonasia,Grévol común,tetrastes_bonasia.jpg,iNaturalist,https://www.inaturalist.org/taxa/558443,,,"(c) Денис Жбир, all rights reserved, uploaded by Денис Жбир",True
+Oxyura leucocephala,Malvasía cabeciblanca,oxyura_leucocephala.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7081,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Lagopus muta,Lagópodo alpino,lagopus_muta.jpg,iNaturalist,https://www.inaturalist.org/taxa/949,cc-by-nc,,"(c) Ryan Shaw, some rights reserved (CC BY-NC)",True
+Coturnix coturnix,Codorniz común,coturnix_coturnix.jpg,iNaturalist,https://www.inaturalist.org/taxa/201281,,,"(c) Faith Reaves, all rights reserved, uploaded by Faith Reaves",True
+Tetrao urogallus,Urogallo común,tetrao_urogallus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1026,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Perdix perdix,Perdiz pardilla,perdix_perdix.jpg,iNaturalist,https://www.inaturalist.org/taxa/831,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Alectoris barbara,Perdiz moruna,alectoris_barbara.jpg,iNaturalist,https://www.inaturalist.org/taxa/871,,,"(c) Fero Bednar, all rights reserved, uploaded by Fero Bednar",True
+Alectoris rufa,Perdiz roja,alectoris_rufa.jpeg,iNaturalist,https://www.inaturalist.org/taxa/867,cc-by,,"(c) Jerry Lanfear, some rights reserved (CC BY), uploaded by Jerry Lanfear",True
+Chordeiles minor,Añapero yanqui,chordeiles_minor.jpg,iNaturalist,https://www.inaturalist.org/taxa/19577,cc-by-nc,,"(c) Mike Stewart, some rights reserved (CC BY-NC), uploaded by Mike Stewart",True
+Caprimulgus europaeus,Chotacabras europeo,caprimulgus_europaeus.jpg,iNaturalist,https://www.inaturalist.org/taxa/19410,cc-by-nc-sa,,"(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",True
+Caprimulgus ruficollis,Chotacabras cuellirrojo,caprimulgus_ruficollis.jpg,iNaturalist,https://www.inaturalist.org/taxa/19482,cc-by-nc,,"(c) naturpel, some rights reserved (CC BY-NC), uploaded by naturpel",True
+Chaetura pelagica,Vencejo de chimenea,chaetura_pelagica.jpeg,iNaturalist,https://www.inaturalist.org/taxa/6571,cc-by-nc,,"(c) biomule, some rights reserved (CC BY-NC)",True
+Apus apus,Vencejo común,apus_apus.jpg,iNaturalist,https://www.inaturalist.org/taxa/6638,cc-by-nc,,"(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",True
+Caprimulgus aegyptius,Chotacabras egipcio,caprimulgus_aegyptius.jpg,iNaturalist,https://www.inaturalist.org/taxa/19417,cc-by-nc,,"(c) David Bishop, some rights reserved (CC BY-NC), uploaded by David Bishop",True
+Tachymarptis melba,Vencejo real,tachymarptis_melba.jpg,iNaturalist,https://www.inaturalist.org/taxa/72516,cc-by-sa,,"(c) Paul F Donald, some rights reserved (CC BY-SA)",True
+Apus unicolor,Vencejo unicolor,apus_unicolor.jpeg,iNaturalist,https://www.inaturalist.org/taxa/6642,cc-by-nc,,"(c) Miguel Arribas, some rights reserved (CC BY-NC), uploaded by Miguel Arribas",True
+Apus pallidus,Vencejo pálido,apus_pallidus.jpg,iNaturalist,https://www.inaturalist.org/taxa/6643,cc-by-nc,,"(c) cog2022, some rights reserved (CC BY-NC)",True
+Apus affinis,Vencejo moro,apus_affinis.jpg,iNaturalist,https://www.inaturalist.org/taxa/6612,cc-by-nc-sa,,"(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",True
+Apus caffer,Vencejo cafre,apus_caffer.jpeg,iNaturalist,https://www.inaturalist.org/taxa/6619,cc-by-nc-nd,,"(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",True
+Otis tarda,Avutarda euroasiática,otis_tarda.jpg,iNaturalist,https://www.inaturalist.org/taxa/77,cc-by,,"(c) Luiz Lapa, some rights reserved (CC BY)",True
+Tetrax tetrax,Sisón común,tetrax_tetrax.jpg,iNaturalist,https://www.inaturalist.org/taxa/132,cc-by-nc-nd,,"(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",True
+Chlamydotis undulata,Avutarda hubara africana,chlamydotis_undulata.jpg,iNaturalist,https://www.inaturalist.org/taxa/204484,,,"(c) Fero Bednar, all rights reserved, uploaded by Fero Bednar",True
+Coccyzus americanus,Cuclillo piquigualdo,coccyzus_americanus.jpg,iNaturalist,https://www.inaturalist.org/taxa/1965,cc-by-nd,,"(c) Ashley Tubbs, some rights reserved (CC BY-ND)",True
+Cuculus canorus,Cuco común,cuculus_canorus.jpg,iNaturalist,https://www.inaturalist.org/taxa/1907,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Clamator glandarius,Críalo europeo,clamator_glandarius.jpg,iNaturalist,https://www.inaturalist.org/taxa/1787,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Pterocles alchata,Ganga ibérica,pterocles_alchata.jpg,iNaturalist,https://www.inaturalist.org/taxa/117078,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Syrrhaptes paradoxus,Ganga de Pallas,syrrhaptes_paradoxus.jpg,iNaturalist,https://www.inaturalist.org/taxa/117119,cc-by-nc-nd,,"(c) Sergey Yeliseev, some rights reserved (CC BY-NC-ND)",True
+Columba livia,Paloma bravía,columba_livia.jpg,iNaturalist,https://www.inaturalist.org/taxa/3017,cc-by-sa,,"(c) Birds of Gilgit-Baltistan, some rights reserved (CC BY-SA)",True
+Pterocles orientalis,Ganga ortega,pterocles_orientalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/117088,cc-by-nc-nd,,"(c) Ján Svetlík, some rights reserved (CC BY-NC-ND)",True
+Columba oenas,Paloma zurita,columba_oenas.jpg,iNaturalist,https://www.inaturalist.org/taxa/3033,cc-by-nc,,"(c) Paul Lewis, some rights reserved (CC BY-NC), uploaded by Paul Lewis",True
+Columba palumbus,Paloma torcaz,columba_palumbus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3048,cc-by-sa,,"(c) hedera.baltica, some rights reserved (CC BY-SA)",True
+Columba bollii,Paloma turqué,columba_bollii.jpg,iNaturalist,https://www.inaturalist.org/taxa/3055,cc-by-nc,,"(c) ludu57, some rights reserved (CC BY-NC)",True
+Columba junoniae,Paloma rabiche,columba_junoniae.jpg,iNaturalist,https://www.inaturalist.org/taxa/3056,cc-by-nc,,"(c) ludu57, some rights reserved (CC BY-NC)",True
+Streptopelia orientalis,Tórtola oriental,streptopelia_orientalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/2927,cc-by-nc,,"(c) 戴安國, some rights reserved (CC BY-NC), uploaded by 戴安國",True
+Streptopelia turtur,Tórtola europea,streptopelia_turtur.jpg,iNaturalist,https://www.inaturalist.org/taxa/2938,,,"(c) gernotkunz, all rights reserved, uploaded by gernotkunz",True
+Streptopelia decaocto,Tórtola turca,streptopelia_decaocto.jpeg,iNaturalist,https://www.inaturalist.org/taxa/2969,,,"(c) Daniel, all rights reserved, uploaded by Daniel",True
+Spilopelia senegalensis,Tórtola senegalesa,spilopelia_senegalensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/1455922,cc-by-nc,,"(c) Nik Borrow, some rights reserved (CC BY-NC)",True
+Rallus aquaticus,Rascón europeo,rallus_aquaticus.jpg,iNaturalist,https://www.inaturalist.org/taxa/513926,cc-by,,"(c) egorbirder, some rights reserved (CC BY)",True
+Crex egregia,Guión africano,crex_egregia.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1583484,cc-by-nc-nd,,"(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",True
+Crex crex,Guión de codornices,crex_crex.jpg,iNaturalist,https://www.inaturalist.org/taxa/443,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Porzana carolina,Polluela sora,porzana_carolina.jpg,iNaturalist,https://www.inaturalist.org/taxa/162,,,"(c) BJ Stacey, all rights reserved",True
+Porzana porzana,Polluela pintoja,porzana_porzana.jpg,iNaturalist,https://www.inaturalist.org/taxa/162,,,"(c) BJ Stacey, all rights reserved",True
+Paragallinula angulata,Gallineta chica,paragallinula_angulata.jpg,iNaturalist,https://www.inaturalist.org/taxa/979866,,,"(c) Asrat Ayalew Gella, all rights reserved, uploaded by Asrat Ayalew Gella",True
+Gallinula chloropus,Gallineta común,gallinula_chloropus.jpg,iNaturalist,https://www.inaturalist.org/taxa/201282,cc-by,,"(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",True
+Fulica atra,Focha común,fulica_atra.jpg,iNaturalist,https://www.inaturalist.org/taxa/482,cc-by-nc,,"(c) Wei Li Jiang, some rights reserved (CC BY-NC), uploaded by Wei Li Jiang",True
+Fulica cristata,Focha moruna,fulica_cristata.jpg,iNaturalist,https://www.inaturalist.org/taxa/487,,,"(c) Horácio Costa, all rights reserved, uploaded by Horácio Costa",True
+Fulica americana,Focha americana,fulica_americana.jpeg,iNaturalist,https://www.inaturalist.org/taxa/473,,,"(c) arachphotobia, all rights reserved, uploaded by arachphotobia",True
+Porphyrio porphyrio,Calamón común,porphyrio_porphyrio.jpg,iNaturalist,https://www.inaturalist.org/taxa/418530,,,"(c) Andrew Rock, all rights reserved",True
+Porphyrio martinicus,Calamoncillo americano,porphyrio_martinicus.jpg,iNaturalist,https://www.inaturalist.org/taxa/519,cc-by-nc,,"(c) Bert Filemyr, some rights reserved (CC BY-NC), uploaded by Bert Filemyr",True
+Porphyrio alleni,Calamoncillo africano,porphyrio_alleni.jpg,iNaturalist,https://www.inaturalist.org/taxa/522,cc-by,,"(c) Nigel Voaden, some rights reserved (CC BY)",True
+Zapornia pusilla,Polluela chica,zapornia_pusilla.jpg,iNaturalist,https://www.inaturalist.org/taxa/508920,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Antigone canadensis,Grulla canadiense,antigone_canadensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/508048,,,"(c) samzhang, all rights reserved",True
+Zapornia parva,Polluela bastarda,zapornia_parva.jpg,iNaturalist,https://www.inaturalist.org/taxa/508919,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Amaurornis marginalis,Polluela culirroja,amaurornis_marginalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/1583488,cc-by,,"(c) i_c_riddell, some rights reserved (CC BY), uploaded by i_c_riddell",True
+Grus virgo,Grulla damisela,grus_virgo.jpg,wikipedia,https://es.wikipedia.org/wiki/Grus_virgo,,,,True
+Grus grus,Grulla común,grus_grus.jpg,wikipedia,https://es.wikipedia.org/wiki/Grus_grus,,,,True
+Podilymbus podiceps,Zampullín picogrueso,podilymbus_podiceps.jpg,wikipedia,https://es.wikipedia.org/wiki/Podilymbus_podiceps,,,,True
+Podiceps grisegena,Somormujo cuellirrojo,podiceps_grisegena.jpg,iNaturalist,https://www.inaturalist.org/taxa/4224,,,"(c) Aimee Weir, all rights reserved, uploaded by Aimee Weir",True
+Tachybaptus ruficollis,Zampullín común,tachybaptus_ruficollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Tachybaptus_ruficollis,,,,True
+Podiceps cristatus,Somormujo lavanco,podiceps_cristatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Podiceps_cristatus,,,,True
+Podiceps auritus,Zampullín cuellirrojo,podiceps_auritus.jpg,wikipedia,https://es.wikipedia.org/wiki/Podiceps_auritus,,,,True
+Podiceps nigricollis,Zampullín cuellinegro,podiceps_nigricollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Podiceps_nigricollis,,,,True
+Phoenicopterus roseus,Flamenco común,phoenicopterus_roseus.jpg,iNaturalist,https://www.inaturalist.org/taxa/73222,cc-by-nc-sa,,"(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",True
+Phoeniconaias minor,Flamenco enano,phoeniconaias_minor.jpg,wikipedia,https://es.wikipedia.org/wiki/Phoeniconaias_minor,,,,True
+Burhinus oedicnemus,Alcaraván común,burhinus_oedicnemus.jpg,wikipedia,https://es.wikipedia.org/wiki/Burhinus_oedicnemus,,,,True
+Turnix sylvaticus,Torillo andaluz,turnix_sylvaticus.jpg,wikipedia,https://es.wikipedia.org/wiki/Turnix_sylvaticus,,,,True
+Haematopus ostralegus,Ostrero euroasiático,haematopus_ostralegus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4843,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Himantopus himantopus,Cigüeñuela común,himantopus_himantopus.jpg,wikipedia,https://es.wikipedia.org/wiki/Himantopus_himantopus,,,,True
+Recurvirostra avosetta,Avoceta común,recurvirostra_avosetta.jpg,wikipedia,https://es.wikipedia.org/wiki/Recurvirostra_avosetta,,,,True
+Vanellus vanellus,Avefría europea,vanellus_vanellus.jpg,wikipedia,https://es.wikipedia.org/wiki/Vanellus_vanellus,,,,True
+Vanellus gregarius,Avefría sociable,vanellus_gregarius.jpg,iNaturalist,https://www.inaturalist.org/taxa/4858,cc-by-nc,,"(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat",True
+Vanellus leucurus,Avefría coliblanca,vanellus_leucurus.jpg,wikipedia,https://es.wikipedia.org/wiki/Vanellus_leucurus,,,,True
+Pluvialis apricaria,Chorlito dorado europeo,pluvialis_apricaria.jpg,wikipedia,https://es.wikipedia.org/wiki/Pluvialis_apricaria,,,,True
+Pluvialis fulva,Chorlito dorado siberiano,pluvialis_fulva.jpg,wikipedia,https://es.wikipedia.org/wiki/Pluvialis_fulva,,,,True
+Pluvialis dominica,Chorlito dorado americano,pluvialis_dominica.jpg,iNaturalist,https://www.inaturalist.org/taxa/4893,,,"(c) Don-Jean Leandri-Breton, all rights reserved, uploaded by Don-Jean Leandri-Breton",True
+Pluvialis squatarola,Chorlito gris,pluvialis_squatarola.jpg,wikipedia,https://es.wikipedia.org/wiki/Pluvialis_squatarola,,,,True
+Charadrius hiaticula,Chorlitejo grande,charadrius_hiaticula.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_hiaticula,,,,True
+Charadrius dubius,Chorlitejo chico,charadrius_dubius.jpg,iNaturalist,https://www.inaturalist.org/taxa/1580336,cc-by-nc,,"(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",True
+Charadrius semipalmatus,Chorlitejo semipalmeado,charadrius_semipalmatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_semipalmatus,,,,True
+Charadrius vociferus,Chorlitejo culirrojo,charadrius_vociferus.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_vociferus,,,,True
+Charadrius alexandrinus,Chorlitejo patinegro,charadrius_alexandrinus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1505620,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Charadrius pecuarius,Chorlitejo pecuario,charadrius_pecuarius.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_pecuarius,,,,True
+Charadrius mongolus,Chorlitejo mongol chico,charadrius_mongolus.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_mongolus,,,,True
+Charadrius leschenaultii,Chorlitejo mongol grande,charadrius_leschenaultii.jpg,wikipedia,https://es.wikipedia.org/wiki/Charadrius_leschenaultii,,,,True
+Charadrius morinellus,Chorlito carambolo,charadrius_morinellus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4788,cc-by,,"(c) Frank Vassen, some rights reserved (CC BY)",True
+Haematopus meadewaldoi †,Ostrero negro canario,haematopus_meadewaldoi.jpg,commons,https://commons.wikimedia.org/wiki/File%3ACanarian%20Oystercatcher.jpg,Public domain,,"<a rel=""nofollow"" class=""external free"" href=""https://archive.org/stream/ibis_21914brit#page/n123/mode/2up"">https://archive.org/stream/ibis_21914brit#page/n123/mode/2up</a> Artwork by Henrik Gronvold (1858–1940).",True
+Pluvianus aegyptius,Pluvial,pluvianus_aegyptius.jpg,wikipedia,https://es.wikipedia.org/wiki/Pluvianus_aegyptius,,,,True
+Bartramia longicauda,Correlimos batitú,bartramia_longicauda.jpg,wikipedia,https://es.wikipedia.org/wiki/Bartramia_longicauda,,,,True
+Numenius phaeopus,Zarapito trinador,numenius_phaeopus.jpg,wikipedia,https://es.wikipedia.org/wiki/Numenius_phaeopus,,,,True
+Numenius tenuirostris,Zarapito fino,numenius_tenuirostris.jpg,iNaturalist,https://www.inaturalist.org/taxa/3899,cc-by-nc-nd,,"(c) upupamartin, some rights reserved (CC BY-NC-ND), uploaded by upupamartin",True
+Numenius arquata,Zarapito real,numenius_arquata.jpg,wikipedia,https://es.wikipedia.org/wiki/Numenius_arquata,,,,True
+Limosa limosa,Aguja colinegra,limosa_limosa.jpg,wikipedia,https://es.wikipedia.org/wiki/Limosa_limosa,,,,True
+Limosa lapponica,Aguja colipinta,limosa_lapponica.jpg,wikipedia,https://es.wikipedia.org/wiki/Limosa_lapponica,,,,True
+Calidris tenuirostris,Correlimos grande,calidris_tenuirostris.jpeg,iNaturalist,https://www.inaturalist.org/taxa/3852,,,"(c) Oscar Ho, all rights reserved, uploaded by Oscar Ho",True
+Calidris pugnax,Combatiente,calidris_pugnax.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_pugnax,,,,True
+Arenaria interpres,Vuelvepiedras común,arenaria_interpres.jpg,wikipedia,https://es.wikipedia.org/wiki/Arenaria_interpres,,,,True
+Calidris canutus,Correlimos gordo,calidris_canutus.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_canutus,,,,True
+Calidris falcinellus,Correlimos falcinelo,calidris_falcinellus.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_falcinellus,,,,True
+Calidris acuminata,Correlimos acuminado,calidris_acuminata.jpeg,iNaturalist,https://www.inaturalist.org/taxa/3844,cc-by-nc,,"(c) pahk, some rights reserved (CC BY-NC)",True
+Calidris himantopus,Correlimos zancolín,calidris_himantopus.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_himantopus,,,,True
+Calidris ferruginea,Correlimos zarapitín,calidris_ferruginea.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_ferruginea,,,,True
+Calidris temminckii,Correlimos de Temminck,calidris_temminckii.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_temminckii,,,,True
+Calidris ruficollis,Correlimos cuellirrojo,calidris_ruficollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_ruficollis,,,,True
+Calidris alba,Correlimos tridáctilo,calidris_alba.jpeg,iNaturalist,https://www.inaturalist.org/taxa/3849,cc-by-nc,,"(c) lemurtaquin, some rights reserved (CC BY-NC), uploaded by lemurtaquin",True
+Calidris alpina,Correlimos común,calidris_alpina.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_alpina,,,,True
+Calidris maritima,Correlimos oscuro,calidris_maritima.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_maritima,,,,True
+Calidris bairdii,Correlimos de Baird,calidris_bairdii.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_bairdii,,,,True
+Calidris minuta,Correlimos menudo,calidris_minuta.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_minuta,,,,True
+Calidris minutilla,Correlimos menudillo,calidris_minutilla.jpg,iNaturalist,https://www.inaturalist.org/taxa/3864,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Calidris melanotos,Correlimos pectoral,calidris_melanotos.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_melanotos,,,,True
+Calidris fuscicollis,Correlimos culiblanco,calidris_fuscicollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_fuscicollis,,,,True
+Calidris subruficollis,Correlimos canelo,calidris_subruficollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_subruficollis,,,,True
+Calidris pusilla,Correlimos semipalmeado,calidris_pusilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Calidris_pusilla,,,,True
+Calidris mauri,Correlimos de Alaska,calidris_mauri.jpg,iNaturalist,https://www.inaturalist.org/taxa/3855,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Limnodromus scolopaceus,Agujeta escolopácea,limnodromus_scolopaceus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3873,,,"(c) TroyEcol, all rights reserved, uploaded by TroyEcol",True
+Limnodromus griseus,Agujeta gris,limnodromus_griseus.jpg,wikipedia,https://es.wikipedia.org/wiki/Limnodromus_griseus,,,,True
+Scolopax rusticola,Chocha perdiz,scolopax_rusticola.jpg,iNaturalist,https://www.inaturalist.org/taxa/3931,cc-by-nc,,"(c) Roberto Ghiglia, some rights reserved (CC BY-NC), uploaded by Roberto Ghiglia",True
+Lymnocryptes minimus,Agachadiza chica,lymnocryptes_minimus.jpg,wikipedia,https://es.wikipedia.org/wiki/Lymnocryptes_minimus,,,,True
+Gallinago gallinago,Agachadiza común,gallinago_gallinago.jpg,iNaturalist,https://www.inaturalist.org/taxa/318836,cc-by-nc-sa,,"(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",True
+Gallinago media,Agachadiza real,gallinago_media.jpg,wikipedia,https://es.wikipedia.org/wiki/Gallinago_media,,,,True
+Phalaropus tricolor,Falaropo tricolor,phalaropus_tricolor.jpg,iNaturalist,https://www.inaturalist.org/taxa/144497,cc-by-nc,,"(c) Leo Weiskittel, some rights reserved (CC BY-NC), uploaded by Leo Weiskittel",True
+Phalaropus lobatus,Falaropo picofino,phalaropus_lobatus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/3959,cc-by-nc,,"(c) Yinan Li, some rights reserved (CC BY-NC), uploaded by Yinan Li",True
+Xenus cinereus,Andarríos del Terek,xenus_cinereus.jpg,wikipedia,https://es.wikipedia.org/wiki/Xenus_cinereus,,,,True
+Actitis macularius,Andarríos maculado,actitis_macularius.jpg,iNaturalist,https://www.inaturalist.org/taxa/72458,cc-by-nc,,"(c) Jason Headley, some rights reserved (CC BY-NC), uploaded by Jason Headley",True
+Phalaropus fulicarius,Falaropo picogrueso,phalaropus_fulicarius.jpg,wikipedia,https://es.wikipedia.org/wiki/Phalaropus_fulicarius,,,,True
+Actitis hypoleucos,Andarríos chico,actitis_hypoleucos.jpg,wikipedia,https://es.wikipedia.org/wiki/Actitis_hypoleucos,,,,True
+Tringa ochropus,Andarríos grande,tringa_ochropus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3885,cc-by-nc,,"(c) Gabi Rusu, some rights reserved (CC BY-NC), uploaded by Gabi Rusu",True
+Gallinago delicata,Agachadiza de Wilson,gallinago_delicata.jpg,wikipedia,https://es.wikipedia.org/wiki/Gallinago_delicata,,,,True
+Tringa totanus,Archibebe común,tringa_totanus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/3879,cc-by-nc-nd,,"(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",True
+Tringa flavipes,Archibebe patigualdo chico,tringa_flavipes.jpg,wikipedia,https://es.wikipedia.org/wiki/Tringa_flavipes,,,,True
+Tringa solitaria,Andarríos solitario,tringa_solitaria.JPG,wikipedia,https://es.wikipedia.org/wiki/Tringa_solitaria,,,,True
+Tringa erythropus,Archibebe oscuro,tringa_erythropus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3882,cc-by-nc-nd,,"(c) Ján Svetlík, some rights reserved (CC BY-NC-ND)",True
+Tringa stagnatilis,Archibebe fino,tringa_stagnatilis.jpg,iNaturalist,https://www.inaturalist.org/taxa/3881,cc-by-nc,,"(c) Александр Кочетков, some rights reserved (CC BY-NC), uploaded by Александр Кочетков",True
+Tringa nebularia,Archibebe claro,tringa_nebularia.jpg,iNaturalist,https://www.inaturalist.org/taxa/3878,cc-by-nc-sa,,"(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",True
+Tringa glareola,Andarríos bastardo,tringa_glareola.jpg,iNaturalist,https://www.inaturalist.org/taxa/3888,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Cursorius cursor,Corredor sahariano,cursorius_cursor.jpg,wikipedia,https://es.wikipedia.org/wiki/Cursorius_cursor,,,,True
+Tringa melanoleuca,Archibebe patigualdo grande,tringa_melanoleuca.jpg,wikipedia,https://es.wikipedia.org/wiki/Tringa_melanoleuca,,,,True
+Glareola nordmanni,Canastera alinegra,glareola_nordmanni.jpg,wikipedia,https://es.wikipedia.org/wiki/Glareola_nordmanni,,,,True
+Glareola pratincola,Canastera común,glareola_pratincola.jpg,iNaturalist,https://www.inaturalist.org/taxa/4604,cc-by-nc,,"(c) Werner Witte, some rights reserved (CC BY-NC)",True
+Rissa tridactyla,Gaviota tridáctila,rissa_tridactyla.jpg,wikipedia,https://es.wikipedia.org/wiki/Rissa_tridactyla,,,,True
+Chroicocephalus genei,Gaviota picofina,chroicocephalus_genei.jpg,iNaturalist,https://www.inaturalist.org/taxa/144501,cc-by-nc-nd,,"(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",True
+Xema sabini,Gaviota de Sabine,xema_sabini.jpg,wikipedia,https://es.wikipedia.org/wiki/Xema_sabini,,,,True
+Chroicocephalus ridibundus,Gaviota reidora,chroicocephalus_ridibundus.jpg,wikipedia,https://es.wikipedia.org/wiki/Chroicocephalus_ridibundus,,,,True
+Chroicocephalus cirrocephalus,Gaviota cabecigrís,chroicocephalus_cirrocephalus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/144508,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Rhodostethia rosea,Gaviota rosada,rhodostethia_rosea.jpg,wikipedia,https://es.wikipedia.org/wiki/Rhodostethia_rosea,,,,True
+Chroicocephalus philadelphia,Gaviota de Bonaparte,chroicocephalus_philadelphia.jpg,wikipedia,https://es.wikipedia.org/wiki/Chroicocephalus_philadelphia,,,,True
+Larus atricilla,Gaviota guanaguanare,larus_atricilla.jpg,iNaturalist,https://www.inaturalist.org/taxa/144514,cc-by-nc,,"(c) José Antonio Linage Espinosa, some rights reserved (CC BY-NC), uploaded by José Antonio Linage Espinosa",True
+Hydrocoloeus minutus,Gaviota enana,hydrocoloeus_minutus.jpg,iNaturalist,https://www.inaturalist.org/taxa/144512,cc-by-nc,,"(c) vyatka, some rights reserved (CC BY-NC), uploaded by vyatka",True
+Larus pipixcan,Gaviota pipizcán,larus_pipixcan.jpg,commons,https://commons.wikimedia.org/wiki/File%3AFranklin%27s%20Gull%20Brisbane98.jpg,CC BY-SA 3.0,https://creativecommons.org/licenses/by-sa/3.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:Aviceda"" title=""User:Aviceda"">Aviceda</a>",True
+Larus melanocephalus,Gaviota cabecinegra,larus_melanocephalus.jpg,commons,https://commons.wikimedia.org/wiki/File%3AMediterranean%20gull%202025%2006%2014.jpg,CC BY 4.0,https://creativecommons.org/licenses/by/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:Alexis_Lours"" title=""User:Alexis Lours"">Alexis Lours</a>",True
+Larus canus,Gaviota cana,larus_canus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/4356,pd,,"Estormiz, no known copyright restrictions (public domain)",True
+Larus delawarensis,Gaviota de Delaware,larus_delawarensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/4364,cc-by-nc,,"(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",True
+Larus marinus,Gavión atlántico,larus_marinus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4368,cc-by-nc,,"(c) Cyrus Li, some rights reserved (CC BY-NC), uploaded by Cyrus Li",True
+Larus dominicanus,Gaviota cocinera,larus_dominicanus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4388,cc-by-nc,,"(c) Sebastián Lescano, some rights reserved (CC BY-NC), uploaded by Sebastián Lescano",True
+Larus ichthyaetus,Gavión cabecinegro,larus_ichthyaetus.jpg,commons,https://commons.wikimedia.org/wiki/File%3ALarus%20ichthyaetus%20MHNT.ZOO.2010.11.127.7.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <div class=""fn value"">
+<a href=""//commons.wikimedia.org/wiki/User:Erc%C3%A9"" title=""User:Ercé"">Roger Culos</a></div>",True
+Larus glaucescens,Gaviota de Bering,larus_glaucescens.jpeg,iNaturalist,https://www.inaturalist.org/taxa/4399,cc-by-nc,,"(c) karorem, some rights reserved (CC BY-NC), uploaded by karorem",True
+Larus hyperboreus,Gavión hiperbóreo,larus_hyperboreus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4349,cc-by-nc-sa,,"(c) M. Goff, some rights reserved (CC BY-NC-SA), uploaded by M. Goff",True
+Larus audouinii,Gaviota de Audouin,larus_audouinii.jpg,commons,https://commons.wikimedia.org/wiki/File%3AIchthyaetus%20audouinii%20MHNT.ZOO.2010.11.122.2.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <div class=""fn value"">
+<a href=""//commons.wikimedia.org/wiki/User:Erc%C3%A9"" title=""User:Ercé"">Roger Culos</a></div>",True
+Larus argentatus,Gaviota argéntea europea,larus_argentatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/1578489,cc-by-nc,,"(c) Guy Lemelin, some rights reserved (CC BY-NC), uploaded by Guy Lemelin",True
+Larus glaucoides,Gaviota groenlandesa,larus_glaucoides.jpg,iNaturalist,https://www.inaturalist.org/taxa/4361,cc-by,,"(c) Andrew Lai, some rights reserved (CC BY), uploaded by Andrew Lai",True
+Larus cachinnans,Gaviota del Caspio,larus_cachinnans.jpg,iNaturalist,https://www.inaturalist.org/taxa/59202,cc-by-sa,,"(c) JÃ¶rg Hempel, some rights reserved (CC BY-SA), uploaded by JÃ¶rg Hempel",True
+Larus michahellis,Gaviota patiamarilla,larus_michahellis.jpg,iNaturalist,https://www.inaturalist.org/taxa/59202,cc-by-sa,,"(c) JÃ¶rg Hempel, some rights reserved (CC BY-SA), uploaded by JÃ¶rg Hempel",True
+Larus smithsonianus,Gaviota argéntea americana,larus_smithsonianus.jpg,iNaturalist,https://www.inaturalist.org/taxa/1578489,cc-by-nc,,"(c) Guy Lemelin, some rights reserved (CC BY-NC), uploaded by Guy Lemelin",True
+Gelochelidon nilotica,Pagaza piconegra,gelochelidon_nilotica.jpeg,iNaturalist,https://www.inaturalist.org/taxa/144536,,,"(c) Andrew Orgill, all rights reserved, uploaded by Andrew Orgill",True
+Hydroprogne caspia,Pagaza piquirroja,hydroprogne_caspia.jpg,iNaturalist,https://www.inaturalist.org/taxa/144537,,,"(c) Mason Maron, all rights reserved, uploaded by Mason Maron",True
+Larus fuscus,Gaviota sombría,larus_fuscus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4381,cc-by-sa,,"(c) Lynx1211, some rights reserved (CC BY-SA)",True
+Thalasseus maximus,Charrán real,thalasseus_maximus.jpg,iNaturalist,https://www.inaturalist.org/taxa/144539,cc-by-nc,,"(c) Omar Del Toro, some rights reserved (CC BY-NC), uploaded by Omar Del Toro",True
+Thalasseus sandvicensis,Charrán patinegro,thalasseus_sandvicensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/144541,,,"(c) Steve Raduns, all rights reserved, uploaded by Steve Raduns",True
+Thalasseus bengalensis,Charrán bengalí,thalasseus_bengalensis.png,iNaturalist,https://www.inaturalist.org/taxa/144543,cc-by-nc,,"(c) Joel Poyitt, some rights reserved (CC BY-NC), uploaded by Joel Poyitt",True
+Sternula albifrons,Charrancito común,sternula_albifrons.jpg,iNaturalist,https://www.inaturalist.org/taxa/144529,cc-by-sa,,"(c) PotMart186, some rights reserved (CC BY-SA)",True
+Thalasseus elegans,Charrán elegante,thalasseus_elegans.jpg,iNaturalist,https://www.inaturalist.org/taxa/144542,cc-by-nc,,"(c) Bill Bouton, some rights reserved (CC BY-NC)",True
+Sternula antillarum,Charrancito americano,sternula_antillarum.jpg,iNaturalist,https://www.inaturalist.org/taxa/144530,cc-by-nc,,"(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",True
+Onychoprion anaethetus,Charrán embridado,onychoprion_anaethetus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/144527,cc-by-nc-nd,,"(c) siuyeung ho, some rights reserved (CC BY-NC-ND), uploaded by siuyeung ho",True
+Sterna dougallii,Charrán rosado,sterna_dougallii.jpg,iNaturalist,https://www.inaturalist.org/taxa/4436,,,"(c) samzhang, all rights reserved",True
+Onychoprion fuscatus,Charrán sombrío,onychoprion_fuscatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/144525,,,"(c) Judd Patterson, all rights reserved, uploaded by Judd Patterson",True
+Sterna paradisaea,Charrán ártico,sterna_paradisaea.jpg,wikipedia,https://es.wikipedia.org/wiki/Sterna_paradisaea,,,,True
+Sterna hirundo,Charrán común,sterna_hirundo.jpg,wikipedia,https://es.wikipedia.org/wiki/Sterna_hirundo,,,,True
+Sterna forsteri,Charrán de Forster,sterna_forsteri.jpg,wikipedia,https://es.wikipedia.org/wiki/Sterna_forsteri,,,,True
+Chlidonias leucopterus,Fumarel aliblanco,chlidonias_leucopterus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4514,cc-by-nc,,"(c) Ренат Рахматуллин, some rights reserved (CC BY-NC), uploaded by Ренат Рахматуллин",True
+Chlidonias niger,Fumarel común,chlidonias_niger.jpg,wikipedia,https://es.wikipedia.org/wiki/Chlidonias_niger,,,,True
+Stercorarius skua,Págalo grande,stercorarius_skua.jpg,wikipedia,https://es.wikipedia.org/wiki/Stercorarius_skua,,,,True
+Stercorarius pomarinus,Págalo pomarino,stercorarius_pomarinus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4491,cc-by,,"(c) jomilo75, some rights reserved (CC BY)",True
+Stercorarius maccormicki,Págalo polar,stercorarius_maccormicki.jpg,wikipedia,https://es.wikipedia.org/wiki/Stercorarius_maccormicki,,,,True
+Stercorarius parasiticus,Págalo parásito,stercorarius_parasiticus.jpg,wikipedia,https://es.wikipedia.org/wiki/Stercorarius_parasiticus,,,,True
+Stercorarius longicaudus,Págalo rabero,stercorarius_longicaudus.jpg,wikipedia,https://es.wikipedia.org/wiki/Stercorarius_longicaudus,,,,True
+Alle alle,Mérgulo atlántico,alle_alle.jpg,iNaturalist,https://www.inaturalist.org/taxa/56061,cc-by-nc-nd,,"(c) 57Andrew, some rights reserved (CC BY-NC-ND)",True
+Alca torda,Alca común,alca_torda.JPG,wikipedia,https://es.wikipedia.org/wiki/Alca_torda,,,,True
+Cepphus grylle,Arao aliblanco,cepphus_grylle.jpg,wikipedia,https://es.wikipedia.org/wiki/Cepphus_grylle,,,,True
+Uria aalge,Arao común,uria_aalge.jpg,wikipedia,https://es.wikipedia.org/wiki/Uria_aalge,,,,True
+Fratercula arctica,Frailecillo atlántico,fratercula_arctica.jpg,iNaturalist,https://www.inaturalist.org/taxa/4504,cc-by-nc,,"(c) Paul Steeves, some rights reserved (CC BY-NC), uploaded by Paul Steeves",True
+Phaethon aethereus,Rabijunco etéreo,phaethon_aethereus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phaethon_aethereus,,,,True
+Gavia pacifica,Colimbo del Pacífico,gavia_pacifica.jpeg,iNaturalist,https://www.inaturalist.org/taxa/4621,cc-by-nc,,"(c) Yinan Li, some rights reserved (CC BY-NC), uploaded by Yinan Li",True
+Gavia arctica,Colimbo ártico,gavia_arctica.jpg,wikipedia,https://es.wikipedia.org/wiki/Gavia_arctica,,,,True
+Chlidonias hybrida,Fumarel cariblanco,chlidonias_hybrida.jpg,commons,https://commons.wikimedia.org/wiki/File%3AChlidonias%20hybrida%20hybrida%20MHNT.ZOO.2010.11.132.7.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <div class=""fn value"">
+<a href=""//commons.wikimedia.org/wiki/User:Erc%C3%A9"" title=""User:Ercé"">Roger Culos</a></div>",True
+Gavia stellata,Colimbo chico,gavia_stellata.jpg,wikipedia,https://es.wikipedia.org/wiki/Gavia_stellata,,,,True
+Pelagodroma marina,Paíño pechialbo,pelagodroma_marina.jpg,iNaturalist,https://www.inaturalist.org/taxa/4153,cc-by-nc-nd,,"(c) Oscar Thomas, some rights reserved (CC BY-NC-ND), uploaded by Oscar Thomas",True
+Fregetta tropica,Paíño ventrinegro,fregetta_tropica.jpg,wikipedia,https://es.wikipedia.org/wiki/Fregetta_tropica,,,,True
+Oceanites oceanicus,Paíño de Wilson,oceanites_oceanicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Oceanites_oceanicus,,,,True
+Gavia immer,Colimbo grande,gavia_immer.jpg,wikipedia,https://es.wikipedia.org/wiki/Gavia_immer,,,,True
+Thalassarche chlororhynchos,Albatros picofino,thalassarche_chlororhynchos.jpeg,iNaturalist,https://www.inaturalist.org/taxa/113965,,,"(c) leo_in_merimbula, all rights reserved",True
+Hydrobates pelagicus,Paíño europeo,hydrobates_pelagicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Hydrobates_pelagicus,,,,True
+Hydrobates monorhis,Paíño de Swinhoe,hydrobates_monorhis.jpg,wikipedia,https://es.wikipedia.org/wiki/Hydrobates_monorhis,,,,True
+Hydrobates castro,Paíño de Madeira,hydrobates_castro.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289617,cc-by-sa,,"(c) Thibaud Aronson, some rights reserved (CC BY-SA), uploaded by Thibaud Aronson",True
+Fulmarus glacialis,Fulmar boreal,fulmarus_glacialis.jpg,wikipedia,https://es.wikipedia.org/wiki/Fulmarus_glacialis,,,,True
+Daption capense,Petrel damero,daption_capense.jpg,wikipedia,https://es.wikipedia.org/wiki/Daption_capense,,,,True
+Pterodroma madeira,Petrel freira,pterodroma_madeira.jpg,iNaturalist,https://www.inaturalist.org/taxa/4058,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Pterodroma feae,Petrel gongón,pterodroma_feae.jpg,iNaturalist,https://www.inaturalist.org/taxa/4055,cc-by-nc,,"(c) John Sterling, some rights reserved (CC BY-NC), uploaded by John Sterling",True
+Thalassarche melanophris,Albatros ojeroso,thalassarche_melanophris.jpg,commons,https://commons.wikimedia.org/wiki/File%3AThalassarche%20melanophrys%20-%20SE%20Tasmania.jpg,CC BY-SA 3.0,https://creativecommons.org/licenses/by-sa/3.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:JJ_Harrison"" title=""User:JJ Harrison"">JJ Harrison</a> (<a rel=""nofollow"" class=""external free"" href=""https://www.jjharrison.com.au/"">https://www.jjharrison.com.au/</a>)",True
+Pterodroma hasitata,Petrel antillano,pterodroma_hasitata.jpg,iNaturalist,https://www.inaturalist.org/taxa/4029,cc-by-nc-sa,,"(c) cotinis, some rights reserved (CC BY-NC-SA)",True
+Hydrobates leucorhous,Paíño boreal,hydrobates_leucorhous.jpg,commons,https://commons.wikimedia.org/wiki/File%3AOceanodroma%20leucorhoa%20MHNT%20ZOO%202010%2011%2042%20Fair%20Isle%20-%20Naurois.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <div class=""fn value"">
+<a href=""//commons.wikimedia.org/wiki/User:Archaeodontosaurus"" title=""User:Archaeodontosaurus"">Didier Descouens</a></div>",True
+Pterodroma deserta,Petrel de las Desertas,pterodroma_deserta.jpg,wikipedia,https://es.wikipedia.org/wiki/Pterodroma_deserta,,,,True
+Calonectris diomedea,Pardela cenicienta mediterránea,calonectris_diomedea.jpg,wikipedia,https://es.wikipedia.org/wiki/Calonectris_diomedea,,,,True
+Calonectris borealis,Pardela cenicienta atlántica,calonectris_borealis.jpg,iNaturalist,https://www.inaturalist.org/taxa/320711,cc-by-nc,,"(c) Luke Foster, some rights reserved (CC BY-NC), uploaded by Luke Foster",True
+Calonectris edwardsii,Pardela cenicienta de Cabo Verde,calonectris_edwardsii.jpg,wikipedia,https://es.wikipedia.org/wiki/Calonectris_edwardsii,,,,True
+Ardenna gravis,Pardela capirotada,ardenna_gravis.jpg,wikipedia,https://es.wikipedia.org/wiki/Ardenna_gravis,,,,True
+Ardenna grisea,Pardela sombría,ardenna_grisea.jpg,wikipedia,https://es.wikipedia.org/wiki/Ardenna_grisea,,,,True
+Pterodroma macroptera / P. arminjoniana,Petrel aligrande / Petrel de Trinidad,,none,,,,,False
+Puffinus puffinus,Pardela pichoneta,puffinus_puffinus.jpg,iNaturalist,https://www.inaturalist.org/taxa/502899,cc-by-nc-nd,,"(c) Oscar Thomas, some rights reserved (CC BY-NC-ND), uploaded by Oscar Thomas",True
+Puffinus yelkouan,Pardela mediterránea,puffinus_yelkouan.jpg,wikipedia,https://es.wikipedia.org/wiki/Puffinus_yelkouan,,,,True
+Puffinus mauretanicus,Pardela balear,puffinus_mauretanicus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/73315,,,"(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",True
+Puffinus baroli,Pardela chica macaronésica,puffinus_baroli.jpg,wikipedia,https://es.wikipedia.org/wiki/Puffinus_baroli,,,,True
+Puffinus boydi,Pardela chica de Cabo Verde,puffinus_boydi.jpg,wikipedia,https://es.wikipedia.org/wiki/Puffinus_boydi,,,,True
+Bulweria bulwerii,Petrel de Bulwer,bulweria_bulwerii.jpg,wikipedia,https://es.wikipedia.org/wiki/Bulweria_bulwerii,,,,True
+Ciconia ciconia,Cigüeña blanca,ciconia_ciconia.jpg,wikipedia,https://es.wikipedia.org/wiki/Ciconia_ciconia,,,,True
+Fregata magnificens,Rabihorcado magnífico,fregata_magnificens.jpg,wikipedia,https://es.wikipedia.org/wiki/Fregata_magnificens,,,,True
+Ciconia nigra,Cigüeña negra,ciconia_nigra.jpg,wikipedia,https://es.wikipedia.org/wiki/Ciconia_nigra,,,,True
+Morus bassanus,Alcatraz atlántico,morus_bassanus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3802,cc-by-nc-sa,,"(c) PÃ©tur Gauti Valgeirsson, some rights reserved (CC BY-NC-SA)",True
+Sula sula,Piquero patirrojo,sula_sula.jpg,wikipedia,https://es.wikipedia.org/wiki/Sula_sula,,,,True
+Sula leucogaster,Piquero pardo,sula_leucogaster.jpg,iNaturalist,https://www.inaturalist.org/taxa/3797,,,"(c) nick_rogers, all rights reserved",True
+Sula dactylatra,Piquero enmascarado,sula_dactylatra.JPG,wikipedia,https://es.wikipedia.org/wiki/Sula_dactylatra,,,,True
+Microcarbo pygmaeus,Cormorán pigmeo,microcarbo_pygmaeus.jpg,wikipedia,https://es.wikipedia.org/wiki/Microcarbo_pygmaeus,,,,True
+Gulosus aristotelis,Cormorán moñudo,gulosus_aristotelis.jpg,wikipedia,https://es.wikipedia.org/wiki/Gulosus_aristotelis,,,,True
+Phalacrocorax carbo,Cormorán grande,phalacrocorax_carbo.jpg,wikipedia,https://es.wikipedia.org/wiki/Phalacrocorax_carbo,,,,True
+Plegadis falcinellus,Morito común,plegadis_falcinellus.jpg,iNaturalist,https://www.inaturalist.org/taxa/3756,cc-by-nc,,"(c) bwood708, some rights reserved (CC BY-NC), uploaded by bwood708",True
+Geronticus eremita,Ibis eremita,geronticus_eremita.jpg,wikipedia,https://es.wikipedia.org/wiki/Geronticus_eremita,,,,True
+Platalea leucorodia,Espátula común,platalea_leucorodia.jpg,iNaturalist,https://www.inaturalist.org/taxa/3731,cc-by-nc-nd,,"(c) Niranj Vaidyanathan, some rights reserved (CC BY-NC-ND)",True
+Ixobrychus minutus,Avetorillo común,ixobrychus_minutus.jpg,wikipedia,https://es.wikipedia.org/wiki/Ixobrychus_minutus,,,,True
+Botaurus lentiginosus,Avetoro lentiginoso,botaurus_lentiginosus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5034,,,"(c) samzhang, all rights reserved",True
+Botaurus stellaris,Avetoro común,botaurus_stellaris.jpg,wikipedia,https://es.wikipedia.org/wiki/Botaurus_stellaris,,,,True
+Ixobrychus sturmii,Avetorillo plomizo,ixobrychus_sturmii.jpg,iNaturalist,https://www.inaturalist.org/taxa/1583065,cc-by-nc,,"(c) Niall Perrins, some rights reserved (CC BY-NC), uploaded by Niall Perrins",True
+Butorides virescens,Garcilla verde,butorides_virescens.jpg,wikipedia,https://es.wikipedia.org/wiki/Butorides_virescens,,,,True
+Nannopterum auritum,Cormorán orejudo,nannopterum_auritum.jpg,commons,https://commons.wikimedia.org/wiki/File%3APhalacrocorax-auritus-007.jpg,CC BY-SA 3.0,http://creativecommons.org/licenses/by-sa/3.0/,"English Wikipedia (deleted since) <a href=""https://en.wikipedia.org/wiki/User:Mdf"" class=""extiw"" title=""en:User:Mdf"">Mdf</a>",True
+Nycticorax nycticorax,Martinete común,nycticorax_nycticorax.jpg,wikipedia,https://es.wikipedia.org/wiki/Nycticorax_nycticorax,,,,True
+Ardeola ralloides,Garcilla cangrejera,ardeola_ralloides.jpeg,iNaturalist,https://www.inaturalist.org/taxa/4994,cc-by-nc,,"(c) Ivana Gardiol Aime, some rights reserved (CC BY-NC), uploaded by Ivana Gardiol Aime",True
+Ardea cinerea,Garza real,ardea_cinerea.jpg,wikipedia,https://es.wikipedia.org/wiki/Ardea_cinerea,,,,True
+Ardea purpurea,Garza imperial,ardea_purpurea.jpg,iNaturalist,https://www.inaturalist.org/taxa/4951,cc-by-nc-sa,,"(c) Steve Garvie, some rights reserved (CC BY-NC-SA)",True
+Ardea herodias,Garza azulada,ardea_herodias.jpg,wikipedia,https://es.wikipedia.org/wiki/Ardea_herodias,,,,True
+Ardea alba,Garceta grande,ardea_alba.jpg,wikipedia,https://es.wikipedia.org/wiki/Ardea_alba,,,,True
+Egretta garzetta,Garceta común,egretta_garzetta.jpg,iNaturalist,https://www.inaturalist.org/taxa/4943,cc-by,,"(c) Bengt Nyman, some rights reserved (CC BY)",True
+Egretta tricolor,Garceta tricolor,egretta_tricolor.jpg,wikipedia,https://es.wikipedia.org/wiki/Egretta_tricolor,,,,True
+Pelecanus onocrotalus,Pelícano común,pelecanus_onocrotalus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4327,cc-by-nc,,"(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",True
+Egretta gularis,Garceta dimorfa,egretta_gularis.JPG,wikipedia,https://es.wikipedia.org/wiki/Egretta_gularis,,,,True
+Pandion haliaetus,Águila pescadora,pandion_haliaetus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pandion_haliaetus,,,,True
+Gypaetus barbatus,Quebrantahuesos,gypaetus_barbatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5379,,,"(c) Julio Eiroa - natureandphoto, all rights reserved, uploaded by Julio Eiroa - natureandphoto",True
+Elanus caeruleus,Elanio común,elanus_caeruleus.jpg,wikipedia,https://es.wikipedia.org/wiki/Elanus_caeruleus,,,,True
+Neophron percnopterus,Alimoche común,neophron_percnopterus.jpg,wikipedia,https://es.wikipedia.org/wiki/Neophron_percnopterus,,,,True
+Pernis apivorus,Abejero europeo,pernis_apivorus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pernis_apivorus,,,,True
+Elanoides forficatus,Elanio tijereta,elanoides_forficatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Elanoides_forficatus,,,,True
+Gyps africanus,Buitre dorsiblanco africano,gyps_africanus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5363,cc-by-nc-sa,,"(c) Ian White, some rights reserved (CC BY-NC-SA)",True
+Gyps rueppelli,Buitre moteado,gyps_rueppelli.jpg,wikipedia,https://es.wikipedia.org/wiki/Gyps_rueppelli,,,,True
+Gyps fulvus,Buitre leonado,gyps_fulvus.jpg,wikipedia,https://es.wikipedia.org/wiki/Gyps_fulvus,,,,True
+Aegypius monachus,Buitre negro,aegypius_monachus.jpg,wikipedia,https://es.wikipedia.org/wiki/Aegypius_monachus,,,,True
+Circaetus gallicus,Culebrera europea,circaetus_gallicus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5242,cc-by,,"(c) Vijay Vanaparthy, some rights reserved (CC BY), uploaded by Vijay Vanaparthy",True
+Bubulcus ibis,Garcilla bueyera,bubulcus_ibis.jpg,commons,https://commons.wikimedia.org/wiki/File%3AH%C3%A9ron%20garde%20boeufs%20%C3%A0%20Oued%20Mejerda.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:El_Golli_Mohamed"" title=""User:El Golli Mohamed"">El Golli Mohamed</a>",True
+Terathopius ecaudatus,Águila volatinera,terathopius_ecaudatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Terathopius_ecaudatus,,,,True
+Clanga pomarina,Águila pomerana,clanga_pomarina.jpg,wikipedia,https://es.wikipedia.org/wiki/Clanga_pomarina,,,,True
+Hieraaetus pennatus,Águila calzada,hieraaetus_pennatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5154,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Clanga clanga,Águila moteada,clanga_clanga.jpg,wikipedia,https://es.wikipedia.org/wiki/Clanga_clanga,,,,True
+Aquila nipalensis,Águila esteparia,aquila_nipalensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Aquila_nipalensis,,,,True
+Aquila adalberti,Águila imperial ibérica,aquila_adalberti.jpg,wikipedia,https://es.wikipedia.org/wiki/Aquila_adalberti,,,,True
+Aquila heliaca,Águila imperial oriental,aquila_heliaca.jpg,wikipedia,https://es.wikipedia.org/wiki/Aquila_heliaca,,,,True
+Aquila chrysaetos,Águila real,aquila_chrysaetos.jpg,iNaturalist,https://www.inaturalist.org/taxa/5074,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Aquila fasciata,Águila perdicera,aquila_fasciata.jpg,wikipedia,https://es.wikipedia.org/wiki/Aquila_fasciata,,,,True
+Circus aeruginosus,Aguilucho lagunero occidental,circus_aeruginosus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5173,cc-by-nc,,"(c) Radovan Václav, some rights reserved (CC BY-NC)",True
+Accipiter gentilis,Azor común,accipiter_gentilis.jpg,wikipedia,https://es.wikipedia.org/wiki/Accipiter_gentilis,,,,True
+Accipiter nisus,Gavilán común,accipiter_nisus.jpg,wikipedia,https://es.wikipedia.org/wiki/Accipiter_nisus,,,,True
+Circus cyaneus,Aguilucho pálido,circus_cyaneus.jpg,wikipedia,https://es.wikipedia.org/wiki/Circus_cyaneus,,,,True
+Circus macrourus,Aguilucho papialbo,circus_macrourus.jpg,wikipedia,https://es.wikipedia.org/wiki/Circus_macrourus,,,,True
+Circus pygargus,Aguilucho cenizo,circus_pygargus.jpg,wikipedia,https://es.wikipedia.org/wiki/Circus_pygargus,,,,True
+Milvus milvus,Milano real,milvus_milvus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5268,cc-by-nc,,"(c) Joshua S. Martin, some rights reserved (CC BY-NC), uploaded by Joshua S. Martin",True
+Milvus migrans,Milano negro,milvus_migrans.jpg,wikipedia,https://es.wikipedia.org/wiki/Milvus_migrans,,,,True
+Haliaeetus albicilla,Pigargo europeo,haliaeetus_albicilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Haliaeetus_albicilla,,,,True
+Buteo lagopus,Busardo calzado,buteo_lagopus.jpg,wikipedia,https://es.wikipedia.org/wiki/Buteo_lagopus,,,,True
+Milvus aegyptius,Milano piquigualdo,milvus_aegyptius.jpg,wikipedia,https://es.wikipedia.org/wiki/Milvus_aegyptius,,,,True
+Buteo rufinus,Busardo moro,buteo_rufinus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5192,cc-by-nc,,"(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",True
+Tyto alba,Lechuza común,tyto_alba.jpg,wikipedia,https://es.wikipedia.org/wiki/Tyto_alba,,,,True
+Aegolius funereus,Mochuelo boreal,aegolius_funereus.jpg,wikipedia,https://es.wikipedia.org/wiki/Aegolius_funereus,,,,True
+Buteo buteo,Busardo ratonero,buteo_buteo.jpg,wikipedia,https://es.wikipedia.org/wiki/Buteo_buteo,,,,True
+Athene noctua,Mochuelo europeo,athene_noctua.jpg,wikipedia,https://es.wikipedia.org/wiki/Athene_noctua,,,,True
+Surnia ulula,Cárabo gavilán,surnia_ulula.jpg,iNaturalist,https://www.inaturalist.org/taxa/20372,cc-by-nc,,"(c) Terry Gray, some rights reserved (CC BY-NC), uploaded by Terry Gray",True
+Glaucidium passerinum,Mochuelo chico,glaucidium_passerinum.jpg,wikipedia,https://es.wikipedia.org/wiki/Glaucidium_passerinum,,,,True
+Otus scops,Autillo europeo,otus_scops.jpg,wikipedia,https://es.wikipedia.org/wiki/Otus_scops,,,,True
+Asio otus,Búho chico,asio_otus.jpg,wikipedia,https://es.wikipedia.org/wiki/Asio_otus,,,,True
+Asio flammeus,Búho campestre,asio_flammeus.jpg,wikipedia,https://es.wikipedia.org/wiki/Asio_flammeus,,,,True
+Asio capensis,Búho moro,asio_capensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/20327,,,"(c) Don-Jean Leandri-Breton, all rights reserved, uploaded by Don-Jean Leandri-Breton",True
+Bubo ascalaphus,Búho desértico,bubo_ascalaphus.jpg,wikipedia,https://es.wikipedia.org/wiki/Bubo_ascalaphus,,,,True
+Bubo bubo,Búho real,bubo_bubo.JPG,wikipedia,https://es.wikipedia.org/wiki/Bubo_bubo,,,,True
+Bubo scandiacus,Búho nival,bubo_scandiacus.jpg,wikipedia,https://es.wikipedia.org/wiki/Bubo_scandiacus,,,,True
+Strix aluco,Cárabo común,strix_aluco.jpg,wikipedia,https://es.wikipedia.org/wiki/Strix_aluco,,,,True
+Upupa epops,Abubilla común,upupa_epops.jpg,iNaturalist,https://www.inaturalist.org/taxa/20969,cc-by-nc-sa,,"(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",True
+Alcedo atthis,Martín pescador común,alcedo_atthis.jpg,wikipedia,https://es.wikipedia.org/wiki/Alcedo_atthis,,,,True
+Coracias garrulus,Carraca europea,coracias_garrulus.jpg,wikipedia,https://es.wikipedia.org/wiki/Coracias_garrulus,,,,True
+Coracias abyssinicus,Carraca abisinia,coracias_abyssinicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Coracias_abyssinicus,,,,True
+Megaceryle alcyon,Martín gigante norteamericano,megaceryle_alcyon.jpg,wikipedia,https://es.wikipedia.org/wiki/Megaceryle_alcyon,,,,True
+Merops persicus,Abejaruco persa,merops_persicus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/2245,cc-by-nc-nd,,"(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",True
+Merops apiaster,Abejaruco europeo,merops_apiaster.jpg,wikipedia,https://es.wikipedia.org/wiki/Merops_apiaster,,,,True
+Jynx torquilla,Torcecuello euroasiático,jynx_torquilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Jynx_torquilla,,,,True
+Dryobates minor,Pico menor,dryobates_minor.jpg,wikipedia,https://es.wikipedia.org/wiki/Dryobates_minor,,,,True
+Dendrocopos major,Pico picapinos,dendrocopos_major.jpeg,iNaturalist,https://www.inaturalist.org/taxa/17871,cc-by-nc,,"(c) Elio Giacone, some rights reserved (CC BY-NC), uploaded by Elio Giacone",True
+Dendrocopos leucotos,Pico dorsiblanco,dendrocopos_leucotos.jpg,wikipedia,https://es.wikipedia.org/wiki/Dendrocopos_leucotos,,,,True
+Dryocopus martius,Picamaderos negro,dryocopus_martius.jpg,wikipedia,https://es.wikipedia.org/wiki/Dryocopus_martius,,,,True
+Picus sharpei,Pito ibérico,picus_sharpei.jpg,wikipedia,https://es.wikipedia.org/wiki/Picus_sharpei,,,,True
+Picus vaillantii,Pito bereber,picus_vaillantii.jpeg,iNaturalist,https://www.inaturalist.org/taxa/18366,cc-by-sa,,"(c) Aissa Djamel Filali, some rights reserved (CC BY-SA), uploaded by Aissa Djamel Filali",True
+Falco tinnunculus,Cernícalo vulgar,falco_tinnunculus.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_tinnunculus,,,,True
+Falco vespertinus,Cernícalo patirrojo,falco_vespertinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_vespertinus,,,,True
+Falco naumanni,Cernícalo primilla,falco_naumanni.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_naumanni,,,,True
+Falco amurensis,Cernícalo del Amur,falco_amurensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/4686,,,"(c) Mark Sikking, all rights reserved, uploaded by Mark Sikking",True
+Falco eleonorae,Halcón de Eleonora,falco_eleonorae.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_eleonorae,,,,True
+Falco subbuteo,Alcotán europeo,falco_subbuteo.jpg,iNaturalist,https://www.inaturalist.org/taxa/4643,,,"(c) Татьяна Спицына, all rights reserved, uploaded by Татьяна Спицына",True
+Falco columbarius,Esmerejón,falco_columbarius.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_columbarius,,,,True
+Falco biarmicus,Halcón borní,falco_biarmicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_biarmicus,,,,True
+Dendrocoptes medius,Pico mediano,dendrocoptes_medius.mp3,commons,https://commons.wikimedia.org/wiki/File%3ADendrocoptes%20medius%20-%20Middle%20Spotted%20Woodpecker%20XC612700.mp3,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<dl><dd>Metadata: <a rel=""nofollow"" class=""external free"" href=""https://www.xeno-canto.org/612700"">https://www.xeno-canto.org/612700</a></dd>
+<dd>Audio file: <a rel=""nofollow"" class=""external free"" href=""https://www.xeno-canto.org/612700/download"">https://www.xeno-canto.org/612700/download</a></dd></dl> Jesús Lavedán Rodríguez",True
+Falco cherrug,Halcón sacre,falco_cherrug.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_cherrug,,,,True
+Falco rusticolus,Halcón gerifalte,falco_rusticolus.jpg,iNaturalist,https://www.inaturalist.org/taxa/4657,cc-by-nc,,"(c) kulyabin67, some rights reserved (CC BY-NC)",True
+Tchagra senegalus,Chagra del Senegal,tchagra_senegalus.jpg,wikipedia,https://es.wikipedia.org/wiki/Tchagra_senegalus,,,,True
+Falco peregrinus,Halcón peregrino,falco_peregrinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Falco_peregrinus,,,,True
+Lanius collurio,Alcaudón dorsirrojo,lanius_collurio.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_collurio,,,,True
+Lanius isabellinus,Alcaudón isabel,lanius_isabellinus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/12042,cc-by-nc,,"(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",True
+Lanius minor,Alcaudón chico,lanius_minor.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_minor,,,,True
+Lanius excubitor,Alcaudón norteño,lanius_excubitor.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_excubitor,,,,True
+Lanius senator,Alcaudón común,lanius_senator.jpeg,iNaturalist,https://www.inaturalist.org/taxa/12039,cc-by-nc,,"(c) naturpel, some rights reserved (CC BY-NC), uploaded by naturpel",True
+Lanius meridionalis,Alcaudón real,lanius_meridionalis.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_meridionalis,,,,True
+Lanius cristatus,Alcaudón pardo,lanius_cristatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_cristatus,,,,True
+Vireo olivaceus,Vireo ojirrojo,vireo_olivaceus.jpg,wikipedia,https://es.wikipedia.org/wiki/Vireo_olivaceus,,,,True
+Oriolus oriolus,Oropéndola europea,oriolus_oriolus.jpg,wikipedia,https://es.wikipedia.org/wiki/Oriolus_oriolus,,,,True
+Garrulus  glandarius,Arrendajo euroasiático,garrulus_glandarius.jpg,iNaturalist,https://www.inaturalist.org/taxa/8088,cc-by-sa,,"(c) Luc Viatour, some rights reserved (CC BY-SA)",True
+Lanius nubicus,Alcaudón núbico,lanius_nubicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Lanius_nubicus,,,,True
+Nucifraga caryocatactes,Cascanueces común,nucifraga_caryocatactes.jpg,iNaturalist,https://www.inaturalist.org/taxa/204552,cc-by-sa,,"(c) Alpsdake, some rights reserved (CC BY-SA)",True
+Pica pica,Urraca común,pica_pica.jpg,wikipedia,https://es.wikipedia.org/wiki/Pica_pica,,,,True
+Pica mauritanica,Urraca magrebí,pica_mauritanica.jpg,wikipedia,https://es.wikipedia.org/wiki/Pica_mauritanica,,,,True
+Cyanopica cooki,Rabilargo ibérico,cyanopica_cooki.jpg,wikipedia,https://es.wikipedia.org/wiki/Cyanopica_cooki,,,,True
+Pyrrhocorax pyrrhocorax,Chova piquirroja,pyrrhocorax_pyrrhocorax.jpg,wikipedia,https://es.wikipedia.org/wiki/Pyrrhocorax_pyrrhocorax,,,,True
+Corvus frugilegus,Graja,corvus_frugilegus.jpg,iNaturalist,https://www.inaturalist.org/taxa/8029,cc-by-nc-nd,,"(c) Hasan Karagülmez, some rights reserved (CC BY-NC-ND)",True
+Pyrrhocorax graculus,Chova piquigualda,pyrrhocorax_graculus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pyrrhocorax_graculus,,,,True
+Corvus cornix,Corneja cenicienta,corvus_cornix.jpg,wikipedia,https://es.wikipedia.org/wiki/Corvus_cornix,,,,True
+Corvus corone,Corneja negra,corvus_corone.jpg,wikipedia,https://es.wikipedia.org/wiki/Corvus_corone,,,,True
+Corvus ruficollis,Cuervo desertícola,corvus_ruficollis.jpeg,iNaturalist,https://www.inaturalist.org/taxa/8034,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Corvus corax,Cuervo grande,corvus_corax.JPG,wikipedia,https://es.wikipedia.org/wiki/Corvus_corax,,,,True
+Bombycilla garrulus,Ampelis europeo,bombycilla_garrulus.jpg,wikipedia,https://es.wikipedia.org/wiki/Bombycilla_garrulus,,,,True
+Periparus ater,Carbonero garrapinos,periparus_ater.jpg,wikipedia,https://es.wikipedia.org/wiki/Periparus_ater,,,,True
+Lophophanes cristatus,Herrerillo capuchino,lophophanes_cristatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/144830,cc-by-nc,,"(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",True
+Poecile palustris,Carbonero palustre,poecile_palustris.jpg,wikipedia,https://es.wikipedia.org/wiki/Poecile_palustris,,,,True
+Cyanistes caeruleus,Herrerillo común,cyanistes_caeruleus.jpg,wikipedia,https://es.wikipedia.org/wiki/Cyanistes_caeruleus,,,,True
+Parus major,Carbonero común,parus_major.jpg,iNaturalist,https://www.inaturalist.org/taxa/203153,cc-by-nc,,"(c) Oscar Valencoso - Salomé Planas, some rights reserved (CC BY-NC)",True
+Cyanistes teneriffae,Herrerillo canario,cyanistes_teneriffae.jpg,wikipedia,https://es.wikipedia.org/wiki/Cyanistes_teneriffae,,,,True
+Corvus monedula,Grajilla occidental,corvus_monedula.jpg,commons,https://commons.wikimedia.org/wiki/File%3ACROP.%20Corvus%20monedula%2C%20naakka%2C%20Naantalin%20hautausmaa%2C%20Naantali%2C%208.11.2011..jpg,CC BY-SA 3.0,https://creativecommons.org/licenses/by-sa/3.0,"<span class=""int-own-work"" lang=""en"">Own work</span> Markus Rantala (<a href=""//commons.wikimedia.org/wiki/User:Makele-90"" title=""User:Makele-90"">Makele-90</a>)",True
+Remiz pendulinus,Pájaro moscón europeo,remiz_pendulinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Remiz_pendulinus,,,,True
+Panurus biarmicus,Bigotudo,panurus_biarmicus.JPG,wikipedia,https://es.wikipedia.org/wiki/Panurus_biarmicus,,,,True
+Lullula arborea,Alondra totovía,lullula_arborea.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7363,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Alaemon alaudipes,Alondra ibis,alaemon_alaudipes.jpg,wikipedia,https://es.wikipedia.org/wiki/Alaemon_alaudipes,,,,True
+Alauda arvensis,Alondra común,alauda_arvensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Alauda_arvensis,,,,True
+Ammomanes cinctura,Terrera colinegra,ammomanes_cinctura.jpg,wikipedia,https://es.wikipedia.org/wiki/Ammomanes_cinctura,,,,True
+Galerida cristata,Cogujada común,galerida_cristata.jpg,wikipedia,https://es.wikipedia.org/wiki/Galerida_cristata,,,,True
+Eremophila alpestris,Alondra cornuda,eremophila_alpestris.jpg,iNaturalist,https://www.inaturalist.org/taxa/7294,cc-by,,"(c) Pat Farris, some rights reserved (CC BY), uploaded by Pat Farris",True
+Galerida theklae,Cogujada montesina,galerida_theklae.jpg,wikipedia,https://es.wikipedia.org/wiki/Galerida_theklae,,,,True
+Calandrella brachydactyla,Terrera común,calandrella_brachydactyla.jpg,wikipedia,https://es.wikipedia.org/wiki/Calandrella_brachydactyla,,,,True
+Chersophilus duponti,Alondra ricotí,chersophilus_duponti.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7416,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Melanocorypha bimaculata,Calandria bimaculada,melanocorypha_bimaculata.jpg,wikipedia,https://es.wikipedia.org/wiki/Melanocorypha_bimaculata,,,,True
+Alaudala rufescens,Terrera marismeña,alaudala_rufescens.jpg,wikipedia,https://es.wikipedia.org/wiki/Alaudala_rufescens,,,,True
+Pycnonotus barbatus,Bulbul naranjero,pycnonotus_barbatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/14588,cc-by-sa,,"(c) Lip Kee, some rights reserved (CC BY-SA)",True
+Riparia riparia,Avión zapador,riparia_riparia.jpg,wikipedia,https://es.wikipedia.org/wiki/Riparia_riparia,,,,True
+Ptyonoprogne rupestris,Avión roquero,ptyonoprogne_rupestris.jpg,wikipedia,https://es.wikipedia.org/wiki/Ptyonoprogne_rupestris,,,,True
+Hirundo rustica,Golondrina común,hirundo_rustica.jpg,wikipedia,https://es.wikipedia.org/wiki/Hirundo_rustica,,,,True
+Delichon urbicum,Avión común occidental,delichon_urbicum.jpg,iNaturalist,https://www.inaturalist.org/taxa/64705,cc-by-nc-nd,,"(c) Thomas Landgren, some rights reserved (CC BY-NC-ND)",True
+Melanocorypha calandra,Calandria común,melanocorypha_calandra.jpg,wikipedia,https://es.wikipedia.org/wiki/Melanocorypha_calandra,,,,True
+Cecropis daurica,Golondrina dáurica,cecropis_daurica.jpg,wikipedia,https://es.wikipedia.org/wiki/Cecropis_daurica,,,,True
+Cettia cetti,Cetia ruiseñor,cettia_cetti.jpg,wikipedia,https://es.wikipedia.org/wiki/Cettia_cetti,,,,True
+Aegithalos caudatus,Mito común,aegithalos_caudatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/7278,cc-by-nc,,"(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",True
+Phylloscopus bonelli,Mosquitero papialbo,phylloscopus_bonelli.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_bonelli,,,,True
+Phylloscopus sibilatrix,Mosquitero silbador,phylloscopus_sibilatrix.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_sibilatrix,,,,True
+Phylloscopus inornatus,Mosquitero bilistado,phylloscopus_inornatus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/117028,,,"(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",True
+Phylloscopus proregulus,Mosquitero de Pallas,phylloscopus_proregulus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/117041,,,"(c) Kuok Benny, all rights reserved, uploaded by Kuok Benny",True
+Phylloscopus humei,Mosquitero de Hume,phylloscopus_humei.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_humei,,,,True
+Phylloscopus fuscatus,Mosquitero sombrío,phylloscopus_fuscatus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_fuscatus,,,,True
+Phylloscopus schwarzi,Mosquitero de Schwarz,phylloscopus_schwarzi.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_schwarzi,,,,True
+Phylloscopus canariensis,Mosquitero canario,phylloscopus_canariensis.jpeg,iNaturalist,https://www.inaturalist.org/taxa/117011,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Phylloscopus trochilus,Mosquitero musical,phylloscopus_trochilus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_trochilus,,,,True
+Phylloscopus collybita,Mosquitero común,phylloscopus_collybita.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_collybita,,,,True
+Phylloscopus borealis,Mosquitero boreal,phylloscopus_borealis.jpg,iNaturalist,https://www.inaturalist.org/taxa/117008,cc-by,,"(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",True
+Phylloscopus trochiloides,Mosquitero verdoso,phylloscopus_trochiloides.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_trochiloides,,,,True
+Phylloscopus ibericus,Mosquitero ibérico,phylloscopus_ibericus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phylloscopus_ibericus,,,,True
+Acrocephalus arundinaceus,Carricero tordal,acrocephalus_arundinaceus.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_arundinaceus,,,,True
+Acrocephalus melanopogon,Carricerín real,acrocephalus_melanopogon.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_melanopogon,,,,True
+Acrocephalus paludicola,Carricerín cejudo,acrocephalus_paludicola.jpeg,iNaturalist,https://www.inaturalist.org/taxa/117181,,,"(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",True
+Acrocephalus schoenobaenus,Carricerín común,acrocephalus_schoenobaenus.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_schoenobaenus,,,,True
+Acrocephalus dumetorum,Carricero de Blyth,acrocephalus_dumetorum.jpeg,iNaturalist,https://www.inaturalist.org/taxa/116797,cc-by-nc,,"(c) Olavi60, some rights reserved (CC BY-NC), uploaded by Olavi60",True
+Acrocephalus agricola,Carricero agrícola,acrocephalus_agricola.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_agricola,,,,True
+Petrochelidon pyrrhonota / P. fulva,Golondrina risquera/Golondrina pueblera,petrochelidon_pyrrhonota__p._fulva.pdf,commons,https://commons.wikimedia.org/wiki/File%3ABiologia%20centrali-americana-%20Aves%20%28IA%20cu31924000110472%29.pdf,Public domain,,"<dl><dd><a href=""//archive.org/details/cu31924000110472"" class=""extiw"" title=""iarchive:cu31924000110472""><bdi class=""description en"" lang=""en"" dir=""ltr"">Internet Archive identifier</bdi>: cu31924000110472</a></dd>
+<dd><a rel=""nofollow"" class=""external free"" href=""https://archive.org/download/cu31924000110472/cu31924000110472.pdf"">https://archive.org/download/cu31924000110472/cu31924000110472.pdf</a></dd></dl> <div class=""fn value"">
+<dl><dd>Godman, Frederick Du Cane, 1834-1919</dd>
+<dd>Salvin, Osbert, 1835-1898</dd>
+<dd>Porter, R. H. prt</dd></dl></div>",True
+Acrocephalus palustris,Carricero políglota,acrocephalus_palustris.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_palustris,,,,True
+Iduna caligata,Zarcero escita,iduna_caligata.jpg,iNaturalist,https://www.inaturalist.org/taxa/201178,cc-by-nc,,"(c) Anna Shipilova | Анна Шипилова, some rights reserved (CC BY-NC), uploaded by Anna Shipilova | Анна Шипилова",True
+Iduna pallida,Zarcero pálido,iduna_pallida.jpg,wikipedia,https://es.wikipedia.org/wiki/Iduna_pallida,,,,True
+Iduna opaca,Zarcero bereber,iduna_opaca.jpg,wikipedia,https://es.wikipedia.org/wiki/Iduna_opaca,,,,True
+Acrocephalus scirpaceus,Carricero común,acrocephalus_scirpaceus.jpg,wikipedia,https://es.wikipedia.org/wiki/Acrocephalus_scirpaceus,,,,True
+Hippolais polyglotta,Zarcero políglota,hippolais_polyglotta.jpg,wikipedia,https://es.wikipedia.org/wiki/Hippolais_polyglotta,,,,True
+Locustella luscinioides,Buscarla unicolor,locustella_luscinioides.jpg,iNaturalist,https://www.inaturalist.org/taxa/116940,,,"(c) Matulevičiūtė Živilė, all rights reserved, uploaded by Matulevičiūtė Živilė",True
+Hippolais icterina,Zarcero icterino,hippolais_icterina.jpg,iNaturalist,https://www.inaturalist.org/taxa/116918,cc-by-nc,,"(c) Radovan Václav, some rights reserved (CC BY-NC)",True
+Locustella naevia,Buscarla pintoja,locustella_naevia.jpg,wikipedia,https://es.wikipedia.org/wiki/Locustella_naevia,,,,True
+Cisticola juncidis,Cistícola buitrón,cisticola_juncidis.jpg,wikipedia,https://es.wikipedia.org/wiki/Cisticola_juncidis,,,,True
+Sylvia atricapilla,Curruca capirotada,sylvia_atricapilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Sylvia_atricapilla,,,,True
+Sylvia borin,Curruca mosquitera,sylvia_borin.jpg,wikipedia,https://es.wikipedia.org/wiki/Sylvia_borin,,,,True
+Curruca nisoria,Curruca gavilana,curruca_nisoria.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1289488,cc-by-nc,,"(c) sooloovey, some rights reserved (CC BY-NC), uploaded by sooloovey",True
+Curruca hortensis,Curruca mirlona occidental,curruca_hortensis.jpg,commons,https://commons.wikimedia.org/wiki/File%3ASylvia%20hortensis%2C%20Morocco%201.jpg,CC BY 2.0,https://creativecommons.org/licenses/by/2.0,"<a rel=""nofollow"" class=""external text"" href=""https://www.flickr.com/photos/sussexbirder/8785267022/"">Western Orphean Warbler (Sylvia hortensis)</a> <a rel=""nofollow"" class=""external text"" href=""https://www.flickr.com/people/9919745@N03"">Ron Knight</a> from Seaford, East Sussex, United Kingdom",True
+Curruca deserticola,Curruca del Atlas,curruca_deserticola.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1289476,cc-by,,"(c) Mourad Harzallah, some rights reserved (CC BY), uploaded by Mourad Harzallah",True
+Curruca curruca,Curruca zarcerilla,curruca_curruca.jpg,commons,https://commons.wikimedia.org/wiki/File%3ACurruca%20curruca%20curruca%20MHNT.ZOO.2010.11.196.55.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <div class=""fn value"">
+<a href=""//commons.wikimedia.org/wiki/User:Erc%C3%A9"" title=""User:Ercé"">Roger Culos</a></div>",True
+Curruca deserti,Curruca sahariana,curruca_deserti.jpg,commons,https://commons.wikimedia.org/wiki/File%3AFauvette%20du%20d%C3%A9sert%20Jebil%20NP.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:El_Golli_Mohamed"" title=""User:El Golli Mohamed"">El Golli Mohamed</a>",True
+Curruca ruppeli,Curruca de Rüppell,curruca_ruppeli.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289474,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Curruca subalpina,Curruca tirrénica,curruca_subalpina.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289201,cc-by-nc,,"(c) Roberto Ghiglia, some rights reserved (CC BY-NC), uploaded by Roberto Ghiglia",True
+Curruca melanocephala,Curruca cabecinegra,curruca_melanocephala.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289472,cc-by-nc-sa,,"(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",True
+Curruca iberiae,Curruca carrasqueña occidental,curruca_iberiae.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289471,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Curruca nana,Curruca enana,curruca_nana.jpg,commons,https://commons.wikimedia.org/wiki/File%3AAsian%20Desert%20Warbler%20%28Sylvia%20nana%29%20%2853678154976%29%20%28cropped%29.jpg,CC BY-SA 2.0,https://creativecommons.org/licenses/by-sa/2.0,"This image has been <b>extracted</b> from another file <a rel=""nofollow"" class=""external text"" href=""https://www.flickr.com/people/68466173@N02"">Birds of Gilgit-Baltistan</a> from Aliabad, Hunza, Pakistan",True
+Curruca cantillans,Curruca carrasqueña oriental,curruca_cantillans.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289471,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Curruca sarda,Curruca sarda,curruca_sarda.jpg,iNaturalist,https://www.inaturalist.org/taxa/1289468,cc-by-nc,,"(c) ulysse_lafond, some rights reserved (CC BY-NC), uploaded by ulysse_lafond",True
+Curruca balearica,Curruca balear,curruca_balearica.jpeg,iNaturalist,https://www.inaturalist.org/taxa/1289466,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Regulus ignicapilla,Reyezuelo listado,regulus_ignicapilla.jpg,iNaturalist,https://www.inaturalist.org/taxa/117097,cc-by-nc,,"(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",True
+Regulus regulus,Reyezuelo sencillo,regulus_regulus.jpg,wikipedia,https://es.wikipedia.org/wiki/Regulus_regulus,,,,True
+Troglodytes troglodytes,Chochín paleártico,troglodytes_troglodytes.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7562,,,"(c) Juan Miguel Artigas Azas, all rights reserved, uploaded by Juan Miguel Artigas Azas",True
+Sitta europaea,Trepador azul,sitta_europaea.jpg,wikipedia,https://es.wikipedia.org/wiki/Sitta_europaea,,,,True
+Tichodroma muraria,Treparriscos,tichodroma_muraria.jpeg,iNaturalist,https://www.inaturalist.org/taxa/14840,,,"(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",True
+Curruca conspicillata,Curruca tomillera,curruca_conspicillata.jpg,commons,https://commons.wikimedia.org/wiki/File%3AFauvette%20%C3%A0%20lunettes%20Aqueduc%20de%20Zaghouan.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:El_Golli_Mohamed"" title=""User:El Golli Mohamed"">El Golli Mohamed</a>",True
+Curruca communis,Curruca zarcera,curruca_communis.jpg,commons,https://commons.wikimedia.org/wiki/File%3ACommon%20whitethroat%202025%2005%2025.jpg,CC BY 4.0,https://creativecommons.org/licenses/by/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:Alexis_Lours"" title=""User:Alexis Lours"">Alexis Lours</a>",True
+Dumetella carolinensis,Pájaro gato gris,dumetella_carolinensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/14995,,,"(c) Michael King, all rights reserved, uploaded by Michael King",True
+Curruca undata,Curruca rabilarga,curruca_undata.jpg,commons,https://commons.wikimedia.org/wiki/File%3AFauvette%20pitchou%20Ichkeul%20NP.jpg,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,"<span class=""int-own-work"" lang=""en"">Own work</span> <a href=""//commons.wikimedia.org/wiki/User:El_Golli_Mohamed"" title=""User:El Golli Mohamed"">El Golli Mohamed</a>",True
+Certhia brachydactyla,Agateador europeo,certhia_brachydactyla.jpg,wikipedia,https://es.wikipedia.org/wiki/Certhia_brachydactyla,,,,True
+Sturnus unicolor,Estornino negro,sturnus_unicolor.jpg,iNaturalist,https://www.inaturalist.org/taxa/14849,cc-by-nc,,"(c) Luca Ghiraldi, some rights reserved (CC BY-NC), uploaded by Luca Ghiraldi",True
+Sturnus vulgaris,Estornino pinto,sturnus_vulgaris.jpg,wikipedia,https://es.wikipedia.org/wiki/Sturnus_vulgaris,,,,True
+Pastor roseus,Estornino rosado,pastor_roseus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pastor_roseus,,,,True
+Turdus philomelos,Zorzal común,turdus_philomelos.jpg,iNaturalist,https://www.inaturalist.org/taxa/12748,cc-by-nc-sa,,"(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",True
+Certhia familiaris,Agateador euroasiático,certhia_familiaris.jpg,wikipedia,https://es.wikipedia.org/wiki/Certhia_familiaris,,,,True
+Zoothera aurea,Zorzal dorado,zoothera_aurea.jpg,wikipedia,https://es.wikipedia.org/wiki/Zoothera_aurea,,,,True
+Turdus viscivorus,Zorzal charlo,turdus_viscivorus.jpg,wikipedia,https://es.wikipedia.org/wiki/Turdus_viscivorus,,,,True
+Turdus merula,Mirlo común,turdus_merula.jpg,iNaturalist,https://www.inaturalist.org/taxa/12716,cc-by,,"(c) Luiz Lapa, some rights reserved (CC BY)",True
+Turdus iliacus,Zorzal alirrojo,turdus_iliacus.jpg,wikipedia,https://es.wikipedia.org/wiki/Turdus_iliacus,,,,True
+Turdus pilaris,Zorzal real,turdus_pilaris.jpg,wikipedia,https://es.wikipedia.org/wiki/Turdus_pilaris,,,,True
+Turdus obscurus,Zorzal rojigrís,turdus_obscurus.jpg,wikipedia,https://es.wikipedia.org/wiki/Turdus_obscurus,,,,True
+Turdus torquatus,Mirlo capiblanco,turdus_torquatus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/12740,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Turdus migratorius,Zorzal americano,turdus_migratorius.jpg,wikipedia,https://es.wikipedia.org/wiki/Turdus_migratorius,,,,True
+Turdus naumanni,Zorzal de Naumann,turdus_naumanni.JPG,wikipedia,https://es.wikipedia.org/wiki/Turdus_naumanni,,,,True
+Cercotrichas galactotes,Alzacola rojizo,cercotrichas_galactotes.jpeg,iNaturalist,https://www.inaturalist.org/taxa/145026,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Muscicapa striata,Papamoscas gris,muscicapa_striata.jpg,iNaturalist,https://www.inaturalist.org/taxa/12971,cc-by-nc-sa,,"(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",True
+Erithacus rubecula,Petirrojo europeo,erithacus_rubecula.jpg,wikipedia,https://es.wikipedia.org/wiki/Erithacus_rubecula,,,,True
+Larvivora cyane,Ruiseñor azul,larvivora_cyane.jpg,wikipedia,https://es.wikipedia.org/wiki/Larvivora_cyane,,,,True
+Luscinia svecica,Ruiseñor pechiazul,luscinia_svecica.jpg,wikipedia,https://es.wikipedia.org/wiki/Luscinia_svecica,,,,True
+Luscinia megarhynchos,Ruiseñor común,luscinia_megarhynchos.jpg,wikipedia,https://es.wikipedia.org/wiki/Luscinia_megarhynchos,,,,True
+Tarsiger cyanurus,Ruiseñor coliazul,tarsiger_cyanurus.jpg,iNaturalist,https://www.inaturalist.org/taxa/210941,cc-by-nc,,"(c) ansonw38, some rights reserved (CC BY-NC), uploaded by ansonw38",True
+Ficedula parva,Papamoscas papirrojo,ficedula_parva.jpg,wikipedia,https://es.wikipedia.org/wiki/Ficedula_parva,,,,True
+Ficedula semitorquata,Papamoscas semiacollarado,ficedula_semitorquata.jpg,wikipedia,https://es.wikipedia.org/wiki/Ficedula_semitorquata,,,,True
+Ficedula albicollis,Papamoscas acollarado,ficedula_albicollis.jpg,iNaturalist,https://www.inaturalist.org/taxa/13133,cc-by-nc,,"(c) ruzovdmitry, some rights reserved (CC BY-NC), uploaded by ruzovdmitry",True
+Ficedula hypoleuca,Papamoscas cerrojillo,ficedula_hypoleuca.jpg,wikipedia,https://es.wikipedia.org/wiki/Ficedula_hypoleuca,,,,True
+Monticola saxatilis,Roquero rojo,monticola_saxatilis.jpg,iNaturalist,https://www.inaturalist.org/taxa/13140,cc-by-nc,,"(c) cog2022, some rights reserved (CC BY-NC)",True
+Phoenicurus ochruros,Colirrojo tizón,phoenicurus_ochruros.jpg,wikipedia,https://es.wikipedia.org/wiki/Phoenicurus_ochruros,,,,True
+Phoenicurus phoenicurus,Colirrojo real,phoenicurus_phoenicurus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phoenicurus_phoenicurus,,,,True
+Phoenicurus moussieri,Colirrojo diademado,phoenicurus_moussieri.jpg,wikipedia,https://es.wikipedia.org/wiki/Phoenicurus_moussieri,,,,True
+Saxicola dacotiae,Tarabilla canaria,saxicola_dacotiae.jpg,iNaturalist,https://www.inaturalist.org/taxa/12913,cc-by-nc,,"(c) Thijs Valkenburg, some rights reserved (CC BY-NC), uploaded by Thijs Valkenburg",True
+Monticola solitarius,Roquero solitario,monticola_solitarius.jpg,wikipedia,https://es.wikipedia.org/wiki/Monticola_solitarius,,,,True
+Saxicola rubicola,Tarabilla europea,saxicola_rubicola.jpg,wikipedia,https://es.wikipedia.org/wiki/Saxicola_rubicola,,,,True
+Oenanthe oenanthe,Collalba gris,oenanthe_oenanthe.jpeg,iNaturalist,https://www.inaturalist.org/taxa/12822,cc-by-nc,,"(c) nfeddu, some rights reserved (CC BY-NC), uploaded by nfeddu",True
+Saxicola maurus,Tarabilla siberiana,saxicola_maurus.jpg,wikipedia,https://es.wikipedia.org/wiki/Saxicola_maurus,,,,True
+Oenanthe deserti,Collalba desértica,oenanthe_deserti.jpg,iNaturalist,https://www.inaturalist.org/taxa/12842,cc-by-nc-sa,,"(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",True
+Saxicola rubetra,Tarabilla norteña,saxicola_rubetra.jpg,wikipedia,https://es.wikipedia.org/wiki/Saxicola_rubetra,,,,True
+Oenanthe isabellina,Collalba isabel,oenanthe_isabellina.jpg,wikipedia,https://es.wikipedia.org/wiki/Oenanthe_isabellina,,,,True
+Oenanthe melanoleuca,Collalba rubia oriental,oenanthe_melanoleuca.jpg,iNaturalist,https://www.inaturalist.org/taxa/1286971,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Oenanthe leucopyga,Collalba yebélica,oenanthe_leucopyga.jpg,wikipedia,https://es.wikipedia.org/wiki/Oenanthe_leucopyga,,,,True
+Cinclus cinclus,Mirlo acuático europeo,cinclus_cinclus.jpg,iNaturalist,https://www.inaturalist.org/taxa/7647,cc-by,,"(c) 
+Dirk-Jan van Roest, some rights reserved (CC BY)",True
+Oenanthe leucura,Collalba negra,oenanthe_leucura.jpg,wikipedia,https://es.wikipedia.org/wiki/Oenanthe_leucura,,,,True
+Oenanthe hispanica,Collalba rubia occidental,oenanthe_hispanica.jpg,wikipedia,https://es.wikipedia.org/wiki/Oenanthe_hispanica,,,,True
+Montifringilla nivalis,Gorrión alpino,montifringilla_nivalis.jpg,iNaturalist,https://www.inaturalist.org/taxa/204544,cc-by-nc-nd,,"(c) Jessica Peruzzo, some rights reserved (CC BY-NC-ND), uploaded by Jessica Peruzzo",True
+Oenanthe seebohmi,Collalba del Atlas,oenanthe_seebohmi.jpg,commons,https://commons.wikimedia.org/wiki/File%3AOenanthe%20seebohmi%2C%20Morocco%201.jpg,CC BY 2.0,https://creativecommons.org/licenses/by/2.0,"<a rel=""nofollow"" class=""external free"" href=""https://www.flickr.com/photos/sussexbirder/8785383832"">https://www.flickr.com/photos/sussexbirder/8785383832</a> Ron Knight",True
+Passer hispaniolensis,Gorrión moruno,passer_hispaniolensis.JPG,wikipedia,https://es.wikipedia.org/wiki/Passer_hispaniolensis,,,,True
+Passer montanus,Gorrión molinero,passer_montanus.JPG,wikipedia,https://es.wikipedia.org/wiki/Passer_montanus,,,,True
+Passer domesticus,Gorrión común,passer_domesticus.jpg,iNaturalist,https://www.inaturalist.org/taxa/13858,cc-by-nc-sa,,"(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)",True
+Petronia petronia,Gorrión chillón,petronia_petronia.jpg,wikipedia,https://es.wikipedia.org/wiki/Petronia_petronia,,,,True
+Prunella modularis,Acentor común,prunella_modularis.jpg,wikipedia,https://es.wikipedia.org/wiki/Prunella_modularis,,,,True
+Prunella collaris,Acentor alpino,prunella_collaris.jpg,wikipedia,https://es.wikipedia.org/wiki/Prunella_collaris,,,,True
+Motacilla flava,Lavandera boyera,motacilla_flava.jpg,wikipedia,https://es.wikipedia.org/wiki/Motacilla_flava,,,,True
+Motacilla tschutschensis,Lavandera de Chukotka,motacilla_tschutschensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/145207,cc-by-nc,,"(c) Игорь Двуреков, some rights reserved (CC BY-NC), uploaded by Игорь Двуреков",True
+Motacilla cinerea,Lavandera cascadeña,motacilla_cinerea.jpg,wikipedia,https://es.wikipedia.org/wiki/Motacilla_cinerea,,,,True
+Motacilla citreola,Lavandera cetrina,motacilla_citreola.jpg,wikipedia,https://es.wikipedia.org/wiki/Motacilla_citreola,,,,True
+Motacilla alba,Lavandera blanca,motacilla_alba.jpg,wikipedia,https://es.wikipedia.org/wiki/Motacilla_alba,,,,True
+Anthus godlewskii,Bisbita estepario,anthus_godlewskii.jpg,iNaturalist,https://www.inaturalist.org/taxa/13737,cc-by-nc-sa,,"(c) Andreas Trepte, some rights reserved (CC BY-NC-SA)",True
+Anthus richardi,Bisbita de Richard,anthus_richardi.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_richardi,,,,True
+Anthus campestris,Bisbita campestre,anthus_campestris.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_campestris,,,,True
+Anthus trivialis,Bisbita arbóreo,anthus_trivialis.jpg,iNaturalist,https://www.inaturalist.org/taxa/13711,cc-by-nc,,"(c) Alejandro Ocampo, some rights reserved (CC BY-NC), uploaded by Alejandro Ocampo",True
+Anthus pratensis,Bisbita pratense,anthus_pratensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_pratensis,,,,True
+Anthus cervinus,Bisbita gorjirrojo,anthus_cervinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_cervinus,,,,True
+Anthus spinoletta,Bisbita alpino,anthus_spinoletta.jpg,iNaturalist,https://www.inaturalist.org/taxa/13713,cc-by-nc,,"(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",True
+Anthus hodgsoni,Bisbita de Hodgson,anthus_hodgsoni.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_hodgsoni,,,,True
+Anthus rubescens,Bisbita pechianteado,anthus_rubescens.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_rubescens,,,,True
+Anthus petrosus,Bisbita costero,anthus_petrosus.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_petrosus,,,,True
+Fringilla coelebs,Pinzón vulgar,fringilla_coelebs.jpg,wikipedia,https://es.wikipedia.org/wiki/Fringilla_coelebs,,,,True
+Fringilla teydea,Pinzón azul de Tenerife,fringilla_teydea.jpeg,iNaturalist,https://www.inaturalist.org/taxa/979721,cc-by,,"(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",True
+Anthus berthelotii,Bisbita caminero,anthus_berthelotii.jpg,wikipedia,https://es.wikipedia.org/wiki/Anthus_berthelotii,,,,True
+Fringilla polatzeki,Pinzón azul de Gran Canaria,fringilla_polatzeki.jpg,wikipedia,https://es.wikipedia.org/wiki/Fringilla_polatzeki,,,,True
+Fringilla montifringilla,Pinzón real,fringilla_montifringilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Fringilla_montifringilla,,,,True
+Coccothraustes coccothraustes,Picogordo común,coccothraustes_coccothraustes.jpg,wikipedia,https://es.wikipedia.org/wiki/Coccothraustes_coccothraustes,,,,True
+Pyrrhula pyrrhula,Camachuelo común,pyrrhula_pyrrhula.jpeg,iNaturalist,https://www.inaturalist.org/taxa/9462,cc-by-nc,,"(c) Ольга Курякова, some rights reserved (CC BY-NC), uploaded by Ольга Курякова",True
+Bucanetes githagineus,Camachuelo trompetero,bucanetes_githagineus.jpg,wikipedia,https://es.wikipedia.org/wiki/Bucanetes_githagineus,,,,True
+Carpodacus erythrinus,Camachuelo carminoso,carpodacus_erythrinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Carpodacus_erythrinus,,,,True
+Linaria flavirostris,Pardillo piquigualdo,linaria_flavirostris.jpg,wikipedia,https://es.wikipedia.org/wiki/Linaria_flavirostris,,,,True
+Linaria cannabina,Pardillo común,linaria_cannabina.jpg,iNaturalist,https://www.inaturalist.org/taxa/558634,cc-by-nc,,"(c) Samuel Beyertt, some rights reserved (CC BY-NC), uploaded by Samuel Beyertt",True
+Acanthis flammea,Pardillo norteño,acanthis_flammea.jpg,wikipedia,https://es.wikipedia.org/wiki/Acanthis_flammea,,,,True
+Loxia curvirostra,Piquituerto común,loxia_curvirostra.jpg,wikipedia,https://es.wikipedia.org/wiki/Loxia_curvirostra,,,,True
+Chloris chloris,Verderón común,chloris_chloris.jpg,wikipedia,https://es.wikipedia.org/wiki/Chloris_chloris,,,,True
+Carduelis citrinella,Verderón serrano,carduelis_citrinella.jpeg,iNaturalist,https://www.inaturalist.org/taxa/9237,cc-by-nc,,"(c) Andrew Thompson, some rights reserved (CC BY-NC), uploaded by Andrew Thompson",True
+Carduelis carduelis,Jilguero europeo,carduelis_carduelis.jpg,wikipedia,https://es.wikipedia.org/wiki/Carduelis_carduelis,,,,True
+Serinus serinus,Serín verdecillo,serinus_serinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Serinus_serinus,,,,True
+Serinus canaria,Serín canario,serinus_canaria.jpg,wikipedia,https://es.wikipedia.org/wiki/Serinus_canaria,,,,True
+Spinus spinus,Jilguero lúgano,spinus_spinus.jpg,wikipedia,https://es.wikipedia.org/wiki/Spinus_spinus,,,,True
+Calcarius lapponicus,Escribano lapón,calcarius_lapponicus.jpg,iNaturalist,https://www.inaturalist.org/taxa/116840,cc-by-nc-nd,,"(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",True
+Emberiza calandra,Escribano triguero,emberiza_calandra.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_calandra,,,,True
+Plectrophenax nivalis,Escribano nival,plectrophenax_nivalis.jpg,wikipedia,https://es.wikipedia.org/wiki/Plectrophenax_nivalis,,,,True
+Emberiza citrinella,Escribano cerillo,emberiza_citrinella.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_citrinella,,,,True
+Emberiza cia,Escribano montesino,emberiza_cia.jpg,iNaturalist,https://www.inaturalist.org/taxa/9193,cc-by-nc-nd,,"(c) Анна Голубева, some rights reserved (CC BY-NC-ND), uploaded by Анна Голубева",True
+Emberiza leucocephalos,Escribano cabeciblanco,emberiza_leucocephalos.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_leucocephalos,,,,True
+Emberiza hortulana,Escribano hortelano,emberiza_hortulana.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_hortulana,,,,True
+Emberiza sahari,Escribano sahariano,emberiza_sahari.jpg,iNaturalist,https://www.inaturalist.org/taxa/201231,,,"(c) sdrov, all rights reserved, uploaded by sdrov",True
+Emberiza cirlus,Escribano soteño,emberiza_cirlus.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_cirlus,,,,True
+Emberiza pusilla,Escribano pigmeo,emberiza_pusilla.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_pusilla,,,,True
+Emberiza rustica,Escribano rústico,emberiza_rustica.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_rustica,,,,True
+Emberiza aureola,Escribano aureolado,emberiza_aureola.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_aureola,,,,True
+Emberiza melanocephala,Escribano cabecinegro,emberiza_melanocephala.jpg,iNaturalist,https://www.inaturalist.org/taxa/9203,,,"(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos",True
+Emberiza caesia,Escribano ceniciento,emberiza_caesia.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_caesia,,,,True
+Emberiza bruniceps,Escribano carirrojo,emberiza_bruniceps.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_bruniceps,,,,True
+Emberiza spodocephala,Escribano enmascarado,emberiza_spodocephala.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_spodocephala,,,,True
+Zonotrichia albicollis,Chingolo gorjiblanco,zonotrichia_albicollis.jpg,wikipedia,https://es.wikipedia.org/wiki/Zonotrichia_albicollis,,,,True
+Melospiza melodia,Chingolo cantor,melospiza_melodia.jpg,iNaturalist,https://www.inaturalist.org/taxa/9100,cc-by-nc,,"(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",True
+Parkesia noveboracensis,Reinita charquera norteña,parkesia_noveboracensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Parkesia_noveboracensis,,,,True
+Dolichonyx oryzivorus,Tordo charlatán,dolichonyx_oryzivorus.jpg,wikipedia,https://es.wikipedia.org/wiki/Dolichonyx_oryzivorus,,,,True
+Emberiza schoeniclus,Escribano palustre,emberiza_schoeniclus.jpg,wikipedia,https://es.wikipedia.org/wiki/Emberiza_schoeniclus,,,,True
+Geothlypis trichas,Mascarita común,geothlypis_trichas.jpg,iNaturalist,https://www.inaturalist.org/taxa/9721,,,"(c) Dan LaVorgna, all rights reserved, uploaded by Dan LaVorgna",True
+Mniotilta varia,Reinita trepadora,mniotilta_varia.jpg,wikipedia,https://es.wikipedia.org/wiki/Mniotilta_varia,,,,True
+Setophaga coronata,Reinita coronada,setophaga_coronata.jpg,wikipedia,https://es.wikipedia.org/wiki/Setophaga_coronata,,,,True
+Branta hutchinsii,Barnacla canadiense chica,branta_hutchinsii.jpg,wikipedia,https://es.wikipedia.org/wiki/Branta_hutchinsii,,,,True
+Dendrocygna viduata,Suirirí cariblanco,dendrocygna_viduata.jpg,wikipedia,https://es.wikipedia.org/wiki/Dendrocygna_viduata,,,,True
+Anser erythropus,Ánsar chico,anser_erythropus.jpeg,iNaturalist,https://www.inaturalist.org/taxa/7013,cc-by-nc,,"(c) heliastes21, some rights reserved (CC BY-NC), uploaded by heliastes21",True
+Dendrocygna bicolor,Suirirí bicolor,dendrocygna_bicolor.jpg,wikipedia,https://es.wikipedia.org/wiki/Dendrocygna_bicolor,,,,True
+Sibirionetta formosa,Cerceta del Baikal,sibirionetta_formosa.jpg,wikipedia,https://es.wikipedia.org/wiki/Sibirionetta_formosa,,,,True
+Aix sponsa,Pato joyuyo,aix_sponsa.jpg,wikipedia,https://es.wikipedia.org/wiki/Aix_sponsa,,,,True
+Spatula cyanoptera,Cerceta colorada,spatula_cyanoptera.jpg,wikipedia,https://es.wikipedia.org/wiki/Spatula_cyanoptera,,,,True
+Mareca falcata,Cerceta de alfanjes,mareca_falcata.jpg,wikipedia,https://es.wikipedia.org/wiki/Mareca_falcata,,,,True
+Lophodytes cucullatus,Serreta capuchona,lophodytes_cucullatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/7109,cc-by-nc,,"(c) Jason Stovin, some rights reserved (CC BY-NC), uploaded by Jason Stovin",True
+Oena capensis,Tórtola rabilarga,oena_capensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Oena_capensis,,,,True
+Zenaida macroura,Zenaida huilota,zenaida_macroura.jpg,wikipedia,https://es.wikipedia.org/wiki/Zenaida_macroura,,,,True
+Mycteria ibis,Tántalo africano,mycteria_ibis.jpg,wikipedia,https://es.wikipedia.org/wiki/Mycteria_ibis,,,,True
+Microcarbo africanus,Cormorán africano,microcarbo_africanus.jpg,iNaturalist,https://www.inaturalist.org/taxa/508246,cc-by-sa,,"(c) Bernard DUPONT, some rights reserved (CC BY-SA)",True
+Leptoptilos crumenifer,Marabú africano,leptoptilos_crumenifer.jpg,wikipedia,https://es.wikipedia.org/wiki/Leptoptilos_crumenifer,,,,True
+Pelecanus rufescens,Pelícano rosado,pelecanus_rufescens.jpg,wikipedia,https://es.wikipedia.org/wiki/Pelecanus_rufescens,,,,True
+Platalea alba,Espátula africana,platalea_alba.jpg,wikipedia,https://es.wikipedia.org/wiki/Platalea_alba,,,,True
+Necrosyrtes monachus,Alimoche sombrío,necrosyrtes_monachus.jpg,iNaturalist,https://www.inaturalist.org/taxa/5426,cc-by-nc,,"(c) lbarlas, some rights reserved (CC BY-NC), uploaded by lbarlas",True
+Pelecanus crispus,Pelícano ceñudo,pelecanus_crispus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pel%C3%ADcano_ce%C3%B1udo,,,,True
+Mimus polyglottos,Sinsonte norteño,mimus_polyglottos.jpg,iNaturalist,https://www.inaturalist.org/taxa/14886,cc-by-nc-sa,,"(c) Kevin Milazzo, some rights reserved (CC BY-NC-SA)",True
+Corvus albus,Cuervo pío,corvus_albus.jpg,wikipedia,https://es.wikipedia.org/wiki/Corvus_albus,,,,True
+Passer italiae,Gorrión italiano,passer_italiae.jpg,wikipedia,https://es.wikipedia.org/wiki/Passer_italiae,,,,True
+Icterus galbula,Turpial de Baltimore,icterus_galbula.jpg,iNaturalist,https://www.inaturalist.org/taxa/9346,cc-by-nc,,"(c) Tom Murray, some rights reserved (CC BY-NC)",True
+Emberiza cioides,Escribano de Brandt,emberiza_cioides.JPG,wikipedia,https://es.wikipedia.org/wiki/Emberiza_cioides,,,,True
+Rhodospiza obsoleta,Camachuelo desertícola,rhodospiza_obsoleta.jpg,wikipedia,https://es.wikipedia.org/wiki/Rhodospiza_obsoleta,,,,True
+Passer luteus,Gorrión dorado,passer_luteus.jpg,wikipedia,https://es.wikipedia.org/wiki/Passer_luteus,,,,True
+Cygnus atratus,Cisne negro,cygnus_atratus.jpg,iNaturalist,https://www.inaturalist.org/taxa/6914,cc-by-nc,,"(c) Kevin Yonando, some rights reserved (CC BY-NC), uploaded by Kevin Yonando",True
+Branta canadensis,Barnacla canadiense grande,branta_canadensis.jpg,wikipedia,https://es.wikipedia.org/wiki/Branta_canadensis,,,,True
+Anser indicus,Ánsar indio,anser_indicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Anser_indicus,,,,True
+Alopochen aegyptiaca,Ganso del Nilo,alopochen_aegyptiaca.jpg,wikipedia,https://es.wikipedia.org/wiki/Alopochen_aegyptiaca,,,,True
+Oxyura jamaicensis,Malvasía canela,oxyura_jamaicensis.jpg,iNaturalist,https://www.inaturalist.org/taxa/850859,cc-by-nc,,"(c) Chris Fisher, some rights reserved (CC BY-NC), uploaded by Chris Fisher",True
+Aix galericulata,Pato mandarín,aix_galericulata.jpg,wikipedia,https://es.wikipedia.org/wiki/Aix_galericulata,,,,True
+Cairina moschata,Pato criollo,cairina_moschata.jpg,wikipedia,https://es.wikipedia.org/wiki/Cairina_moschata,,,,True
+Phasianus colchicus,Faisán vulgar,phasianus_colchicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Phasianus_colchicus,,,,True
+Myiopsitta monachus,Cotorra argentina,myiopsitta_monachus.jpg,wikipedia,https://es.wikipedia.org/wiki/Myiopsitta_monachus,,,,True
+Threskiornis aethiopicus,Ibis sagrado,threskiornis_aethiopicus.jpg,wikipedia,https://es.wikipedia.org/wiki/Threskiornis_aethiopicus,,,,True
+Aratinga nenday,Aratinga ñanday,aratinga_nenday.jpg,wikipedia,https://es.wikipedia.org/wiki/Aratinga_nenday,,,,True
+Thectocercus acuticaudatus,Aratinga cabeciazul,thectocercus_acuticaudatus.jpg,iNaturalist,https://www.inaturalist.org/taxa/367564,cc-by,,"(c) Bill Keim, some rights reserved (CC BY)",True
+Psittacara mitratus,Aratinga mitrada,psittacara_mitratus.jpg,wikipedia,https://es.wikipedia.org/wiki/Psittacara_mitratus,,,,True
+Psittacula krameri,Cotorra de Kramer,psittacula_krameri.jpg,wikipedia,https://es.wikipedia.org/wiki/Psittacula_krameri,,,,True
+Psittacara erythrogenys,Aratinga de Guayaquil,psittacara_erythrogenys.jpg,wikipedia,https://es.wikipedia.org/wiki/Psittacara_erythrogenys,,,,True
+Pycnonotus cafer,Bulbul cafre,pycnonotus_cafer.jpg,iNaturalist,https://www.inaturalist.org/taxa/14593,,,"(c) J. N. Stuart, all rights reserved, uploaded by J. N. Stuart",True
+Ploceus melanocephalus,Tejedor cabecinegro,ploceus_melanocephalus.jpg,wikipedia,https://es.wikipedia.org/wiki/Ploceus_melanocephalus,,,,True
+Euplectes afer,Obispo coronigualdo,euplectes_afer.jpg,wikipedia,https://es.wikipedia.org/wiki/Euplectes_afer,,,,True
+Leiothrix lutea,Leiótrix piquirrojo,leiothrix_lutea.JPG,wikipedia,https://es.wikipedia.org/wiki/Leiothrix_lutea,,,,True
+Pycnonotus jocosus,Bulbul orfeo,pycnonotus_jocosus.jpg,wikipedia,https://es.wikipedia.org/wiki/Pycnonotus_jocosus,,,,True
+Estrilda melpoda,Estrilda carinaranja,estrilda_melpoda.jpg,iNaturalist,https://www.inaturalist.org/taxa/13780,cc-by-nc-sa,,"(c) Kevin Lin, some rights reserved (CC BY-NC-SA)",True
+Amandava amandava,Bengalí rojo,amandava_amandava.jpg,wikipedia,https://es.wikipedia.org/wiki/Amandava_amandava,,,,True
+Estrilda astrild,Estrilda común,estrilda_astrild.jpg,wikipedia,https://es.wikipedia.org/wiki/Estrilda_astrild,,,,True
+Estrilda troglodytes,Estrilda culinegra,estrilda_troglodytes.jpg,wikipedia,https://es.wikipedia.org/wiki/Estrilda_troglodytes,,,,True
+Haemorhous mexicanus,Camachuelo mexicano,haemorhous_mexicanus.jpg,wikipedia,https://es.wikipedia.org/wiki/Haemorhous_mexicanus,,,,True
