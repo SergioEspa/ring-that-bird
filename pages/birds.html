@@ -1,6 +1,50 @@
-<div class="container my-4">
-  <p class="text-center display-6">Biblioteca de Aves</h2>
-  <div id="birdGrid" class="row g-4">
-    <!-- Aquí se inyectarán las cards -->
-  </div>
+<div class="container">
+    <div id="filter-container" class="row mb-4">
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label for="speciesFilter" class="col-form-label">Filtrar por familia:</label>
+            </div>
+            <div class="col-auto">
+                <select id="speciesFamilyFilter" class="form-select">
+                    <option value="todas">Todas</option>
+                    <option value="Accipitridae">Accipitridae</option>
+                    <option value="Alcedinidae">Alcedinidae</option>
+                    <option value="Anatidae">Anatidae</option>
+                    <option value="Apodidae">Apodidae</option>
+                    <option value="Ardeidae">Ardeidae</option>
+                    <option value="Arenariidae">Arenariidae</option>
+                    <option value="Bombycillidae">Bombycillidae</option>
+                    <option value="Bucerotidae">Bucerotidae</option>
+                    <option value="Burhinidae">Burhinidae</option>
+                    <option value="Cacatuidae">Cacatuidae</option>
+                    <option value="Calidrididae">Calidrididae</option>
+                    <option value="Campephagidae">Campephagidae</option>
+                    <option value="Caprimulgidae">Caprimulgidae</option>
+                    <option value="Cardinalidae">Cardinalidae</option>
+                    <option value="Certhiidae">Certhiidae</option>
+                    <option value="Charadriidae">Charadriidae</option>
+                    <option value="Cinclidae">Cinclidae</option>
+                    <option value="Columbidae">Columbidae</option>
+                    <option value="Corvidae">Corvidae</option>
+                    <option value="Cuculidae">Cuculidae</option>
+                    <option value="Emberizidae">Emberizidae</option>
+                    <option value="Estrildidae">Estrildidae</option>
+                    <option value="Fringillidae">Fringillidae</option>
+                    <option value="Hirundinidae">Hirundinidae</option>
+                    <option value="Icteridae">Icteridae</option>
+                    <option value="Laniidae">Laniidae</option>
+                    <option value="Laridae">Laridae</option>
+                    <option value="Mimidae">Mimidae</option>
+                    <option value="Motacillidae">Motacillidae</option>
+                    <option value="Muscicapidae">Muscicapidae</option>
+                </select>
+            </div>
+            <div class="col-auto">
+                <button id="clearFilterBtn" class="btn btn-secondary">Limpiar filtro</button>
+            </div>
+        </div>
+    </div>
+    <div id="birdGrid" class="row g-3">
+        <!-- Aquí se inyectarán las cards -->
+    </div>
 </div>

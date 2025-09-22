@@ -189,13 +189,27 @@ async function loadBirdsPage() {
     for (const bird of aves) {
         const sciFileName = bird.sciName.replace(/ /g, '_');
         const imageUrlThumb = `../../bird_images/${sciFileName}_thumb.jpg`;
-        const imageUrl = `../../bird_images/${sciFileName}.jpg`;
+        const imageUrlThumbJPEG = `../../bird_images/${sciFileName}_thumb.jpeg`;
+        const fallbackImage = '../../bird_images/generic_bird.png';
 
+        // Check if JPG exists, otherwise use JPEG
+        let imageExists = await fetch(imageUrlThumb)
+            .then(res => res.ok)
+            .catch(() => false);
+        let imageUrlThumbFinal = imageExists ? imageUrlThumb : imageUrlThumbJPEG;
+
+        // Check if JPEG exists, otherwise use fallback
+        imageExists = await fetch(imageUrlThumbFinal)
+            .then(res => res.ok)
+            .catch(() => false);
+        imageUrlThumbFinal = imageExists ? imageUrlThumbFinal : fallbackImage;
+        
+        
         const col = document.createElement('div');
         col.className = 'col-sm-6 col-md-4 col-lg-3';
         col.innerHTML = `
             <div class="card h-100 shadow-sm rounded-3">
-            <img src="${imageUrlThumb}" class="card-img-top" alt="${bird.especie}">
+            <img src="${imageUrlThumbFinal}" class="card-img-top" alt="${bird.especie}">
             <div class="card-body text-center">
                 <h5 class="card-title">${bird.especie}</h5>
                 <p class="card-text"><em>${bird.sciName}</em></p>
@@ -205,6 +219,12 @@ async function loadBirdsPage() {
 
         birdGrid.appendChild(col);
     }
+}
+
+async function loadFilteredBirdsPage(family) {
+    const birdGrid = document.getElementById('birdGrid');
+    birdGrid.innerHTML = ''; // Clear existing content
+
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -239,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     
     function loadPage(page) {
+        const footer_title = document.getElementById('footer-title');
         fetch(`pages/${page}`)
             .then(response => response.text())
             .then(data => {
@@ -246,7 +267,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 if (page === 'map.html') {
                     initializeMap();
-
+                    footer_title.textContent = "Ring & Release - Mapa Interactivo";
                     const addBirdBtn = document.getElementById('add-bird-btn');
                     addBirdBtn.addEventListener('click', function() {
                         startAddingBird();
@@ -254,6 +275,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
                 else if (page === 'birds.html') {
                     loadBirdsPage();
+                    footer_title.textContent = "Ring & Release - Biblioteca de Aves";
+                    const filterSelector = document.getElementById('speciesFamilyFilter');
+                    filterSelector.addEventListener('change', function() {
+                        const selectedFamily = this.value;
+                        loadFilteredBirdsPage(selectedFamily);
+                    });
                 }
             });
     }
