@@ -190,9 +190,9 @@ async function loadBirdsPage(family) {
     for (const bird of aves) {
         if (family == 'any' || bird.familia == family) {
             const sciFileName = bird.sciName.replace(/ /g, '_');
-            const imageUrlThumb = `../../bird_images/${sciFileName}_thumb.jpg`;
-            const imageUrlThumbJPEG = `../../bird_images/${sciFileName}_thumb.jpeg`;
-            const fallbackImage = '../../bird_images/generic_bird.png';
+            const imageUrlThumb = `bird_images/${sciFileName}_thumb.jpg`;
+            const imageUrlThumbJPEG = `bird_images/${sciFileName}_thumb.jpeg`;
+            const fallbackImage = 'bird_images/generic_bird.png';
 
             // Check if JPG exists, otherwise use JPEG
             let imageExists = await fetch(imageUrlThumb)
@@ -275,7 +275,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     footer_title.textContent = "Ring & Release - Biblioteca de Aves";
                     const filterSelector = document.getElementById('speciesFamilyFilter');
                     filterSelector.addEventListener('change', function() {
-                        const selectedFamily = this.value;
+                        selectedFamily = this.value;
+                        console.log("Selected family:", selectedFamily);
+                        if (selectedFamily === 'todas') {
+                            selectedFamily = 'any';
+                        }
                         loadBirdsPage(selectedFamily);
                     });
                 }
