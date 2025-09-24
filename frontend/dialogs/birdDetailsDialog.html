@@ -1,0 +1,27 @@
+<div class="modal fade" id="birdDetailsModal" tabindex="-1" aria-labelledby="birdDetailsModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content rounded-3 shadow">
+      
+        <!-- Header -->
+        <div class="modal-header">
+            <h5 class="modal-title" id="birdDetailsModalLabel"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar" id="cross-close-bird-details-dialog"></button>
+        </div>
+        
+        <!-- Body -->
+        <div class="row">
+            <div class="col-md-6 p-5">
+                <div id="birdDetailsContent">
+                    <p><strong>Nombre científico:</strong> <span id="birdDetailsSciName"></span></p>
+                    <p><strong>Familia:</strong> <span id="birdDetailsFamily"></span></p>
+                    <p><strong>Descripción:</strong> <span id="birdDetailsDescription"></span></p>
+                    <p><strong>Hábitat:</strong> <span id="birdDetailsHabitat"></span></p>
+                </div>
+            </div>
+            <div class="col-md-6 p-5 d-flex align-items-center">
+                <img id="birdDetailsImage" class="img-fluid rounded mx-auto d-block mb-3" alt="Imagen del ave" src="">
+            </div>
+        </div>
+    </div>
+    </div>
+</div>

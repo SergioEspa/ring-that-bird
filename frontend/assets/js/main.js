@@ -3,6 +3,7 @@ let markerGroup;
 let tempMarker = null;
 let aves = [];
 let isAddingBird = false;
+let descripciones = {};
 
 function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
@@ -220,14 +221,44 @@ async function loadBirdsPage(family) {
             `;
 
             birdGrid.appendChild(col);
+
+            col.addEventListener('click', function() {
+                showBirdDetails(bird, imageUrlThumbFinal);
+            });
         }
     }
+}
+
+async function showBirdDetails(bird, imageUrl) {
+    if(!document.getElementById('birdDetailsModal')) {
+        const response = await fetch('dialogs/birdDetailsDialog.html');
+        const modalHTML = await response.text();
+        document.body.insertAdjacentHTML('beforeend', modalHTML);
+    }
+        
+    const birdDetailsModal = new bootstrap.Modal(document.getElementById('birdDetailsModal'));
+    document.getElementById('birdDetailsModalLabel').textContent = bird.especie;
+    document.getElementById('birdDetailsSciName').textContent = bird.sciName;
+    document.getElementById('birdDetailsFamily').textContent = bird.familia;
+    document.getElementById('birdDetailsDescription').textContent = descripciones[bird.sciName] || 'Descripción no disponible.';
+    habitat = '';
+    if (bird.PB) habitat += 'Península Ibérica';
+    if (bird.CA) habitat += (habitat ? ', ' : '') + 'Canarias';
+    if (bird.NA) habitat += (habitat ? ', ' : '') + 'Norte de África';
+    document.getElementById('birdDetailsHabitat').textContent = habitat || 'No disponible';
+    document.getElementById('birdDetailsImage').src = imageUrl;
+    document.getElementById('birdDetailsImage').alt = bird.especie;
+    birdDetailsModal.show();
 }
 
 document.addEventListener('DOMContentLoaded', function() {
     fetch('birds_spain.json')
         .then(response => response.json())
         .then(data => aves = data);
+
+    fetch('descriptions.json')
+        .then(response => response.json())
+        .then(data => descripciones = data);
     
     fetch("components/sidebar.html")
         .then(response => response.text())
@@ -282,6 +313,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         }
                         loadBirdsPage(selectedFamily);
                     });
+
                 }
                 
             });

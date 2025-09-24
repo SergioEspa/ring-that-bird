@@ -136,6 +136,11 @@
     min-height: 400px; 
 }
 
+.bg-img4 { 
+    background-image: url(forest.jpg); 
+    min-height: 400px; 
+}
+
 .card:hover {
     transform: scale(1.03);
     transition: transform 0.2s;
