@@ -1,0 +1,51 @@
+<div class="container">
+    <div class="row my-2 justify-content-center">
+        <div class="col-5 d-flex justify-content-center align-items-center">
+            <div id="registerCard" class="card p-4 shadow rounded-3 mx-auto w-100 my-4">
+                <h2 class="text-center my-4">
+                    Registrarse <i class="bi bi-person-plus"></i>
+                </h2>
+                <form id="registerForm">
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Nombre completo</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Correo electrónico</label>
+                        <input type="email" class="form-control" id="emailRegister" name="email" required>
+                        <div id="emailWarningRegister" class="text-danger small mb-2"></div>                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Contraseña</label>
+                        <input type="password" class="form-control" id="passwordRegister" name="password" required>
+                        <div id="passwordWarning" class="text-danger small mb-2"></div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="confirmPassword" class="form-label">Confirmar contraseña</label>
+                        <input type="password" class="form-control" id="confirmPassword" name="confirmPassword" required>
+                        <div id="confirmPasswordWarning" class="text-danger small mb-2"></div>
+                    </div>
+                    <button type="submit" id="registerBtn" class="btn btn-success w-100" disabled>Registrarse</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-5 d-flex justify-content-center align-items-center">
+            <div id="loginCard" class="col-6 card p-4 shadow rounded-3 mx-auto w-100 my-4">
+                <h2 class="text-center my-4">
+                    Iniciar sesión <i class="bi bi-box-arrow-in-right"></i>
+                </h2>
+                <form id="loginForm">
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Correo electrónico</label>
+                        <input type="email" class="form-control" id="emailLogin" name="email" required>
+                        <div id="emailWarningLogin" class="text-danger small mb-2"></div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Contraseña</label>
+                        <input type="password" class="form-control" id="passwordLogin" name="password" required>
+                    </div>
+                    <button type="submit" id="loginBtn" class="btn btn-success w-100" disabled>Iniciar sesión</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
