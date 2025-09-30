@@ -10,31 +10,47 @@ let aves = [];
 let isAddingBird = false;
 let descripciones = {};
 
-async function registerUser(email, password) {
+async function registerUser(name, email, password) {
     const { data, error } = await supabase.auth.signUp({
         email: email,
         password: password,
+        options: { data: { name: name } }
     });
     if (error) {
-        alert("Error during registration: " + error.message);
-        throw error;
+        if(!document.getElementById('authenticationErrorModal')) {
+            const response = await fetch('dialogs/authenticationErrorDialog.html');
+            const modalHTML = await response.text();
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
+        }
+
+        const authenticationErrorModal = new bootstrap.Modal(document.getElementById('authenticationErrorModal'));
+        authenticationErrorModal.show();
+        document.getElementById('accept-authentication-error-btn').addEventListener('click', () => {
+            authenticationErrorModal.hide();
+        });
+        document.getElementById('cross-close-authentication-error').addEventListener('click', () => {
+            authenticationErrorModal.hide();
+        });
     }
+    else {
+        if(!document.getElementById('confirmEmailModal')) {
+            const response = await fetch('dialogs/confirmEmailDialog.html');
+            const modalHTML = await response.text();
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
+        }
 
-    if(!document.getElementById('confirmEmailModal')) {
-        const response = await fetch('dialogs/confirmEmailDialog.html');
-        const modalHTML = await response.text();
-        document.body.insertAdjacentHTML('beforeend', modalHTML);
+        const confirmEmailModal = new bootstrap.Modal(document.getElementById('confirmEmailModal'));
+        confirmEmailModal.show();
+
+        document.getElementById('accept-confirm-email-btn').addEventListener('click', () => {
+            confirmEmailModal.hide();
+        });
+        document.getElementById('cross-close-confirm-email').addEventListener('click', () => {
+            confirmEmailModal.hide();
+        });
+
+        document.getElementById('registerForm').reset();
     }
-
-    const confirmEmailModal = new bootstrap.Modal(document.getElementById('confirmEmailModal'));
-    confirmEmailModal.show();
-
-    document.getElementById('accept-confirm-email-btn').addEventListener('click', () => {
-        confirmEmailModal.hide();
-    });
-    document.getElementById('cross-close-confirm-email').addEventListener('click', () => {
-        confirmEmailModal.hide();
-    });
 
     return data;
 }
@@ -45,8 +61,23 @@ async function loginUser(email, password) {
         password: password
     });
     if (error) {
-        alert("Error during login: " + error.message);
-        throw error;
+        if(!document.getElementById('authenticationErrorModal')) {
+            const response = await fetch('dialogs/authenticationErrorDialog.html');
+            const modalHTML = await response.text();
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
+        } 
+
+        const authenticationErrorModal = new bootstrap.Modal(document.getElementById('authenticationErrorModal'));
+        authenticationErrorModal.show();
+
+        document.getElementById('accept-authentication-error-btn').addEventListener('click', () => {
+            authenticationErrorModal.hide();
+        });
+        document.getElementById('cross-close-authentication-error').addEventListener('click', () => {
+            authenticationErrorModal.hide();
+        });
+
+        document.getElementById('loginForm').reset();
     }
     return data;
 }
@@ -473,6 +504,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     const registerForm = document.querySelector('#registerForm');
                     const loginForm = document.querySelector('#loginForm');
+                    const nameInputRegister = document.getElementById('name');
                     const emailInputRegister = document.getElementById('emailRegister');
                     const passwordInputRegister = document.getElementById('passwordRegister');
                     const confirmPasswordInput = document.getElementById('confirmPassword');
@@ -492,7 +524,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     function isStrongPassword(password) {
                         // At least 8 characters, one uppercase, one lowercase, one number, one special character
-                        const passwordPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+                        const passwordPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^A-Za-z\d]).{8,}$/;
                         return passwordPattern.test(password);
                     }
 
@@ -558,7 +590,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         // Alert only when the formats are valid
                         if (registerForm.checkValidity()) {
                             event.preventDefault();
-                            registerUser(emailInputRegister.value, passwordInputRegister.value);
+                            registerUser(nameInputRegister.value, emailInputRegister.value, passwordInputRegister.value);
                         }
                     });
                 }
