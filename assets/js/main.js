@@ -460,8 +460,22 @@ document.addEventListener('DOMContentLoaded', function() {
                 link.addEventListener('click', function(event) {
                     event.preventDefault();
                     const page = link.dataset.page;
-                    toggleActiveLink(link);
-                    loadPage(page);
+                    if (page === 'login.html') {
+                        isUserLoggedIn().then(loggedIn => {
+                            if (loggedIn) {
+                                supabase.auth.signOut();
+                                return;
+                            }
+                            else {
+                                toggleActiveLink(link);
+                                loadPage(page);
+                            }
+                        });
+                    }
+                    else {
+                        toggleActiveLink(link);
+                        loadPage(page);
+                    }
                 });
             });
             const defaultLink = document.querySelector('#sidebar a[data-page="home.html"]');
@@ -469,37 +483,69 @@ document.addEventListener('DOMContentLoaded', function() {
                 toggleActiveLink(defaultLink);
                 loadPage(defaultLink.dataset.page);
             }
-        });
-    
-    function loadPage(page) {
-        const footer_title = document.getElementById('footer-title');
-        fetch(`pages/${page}`)
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById("content").innerHTML = data;
 
-                if (page === 'map.html') {
-                    initializeMap();
-                    footer_title.textContent = "Ring & Release - Mapa Interactivo";
-                    const addBirdBtn = document.getElementById('add-bird-btn');
-                    addBirdBtn.addEventListener('click', function() {
-                        startAddingBird();
-                    });
-                }
-                else if (page === 'birds.html') {
-                    loadBirdsPage('any');
-                    footer_title.textContent = "Ring & Release - Biblioteca de Aves";
-                    const filterSelector = document.getElementById('speciesFamilyFilter');
-                    filterSelector.addEventListener('change', function() {
-                        selectedFamily = this.value;
-                        console.log("Selected family:", selectedFamily);
-                        if (selectedFamily === 'todas') {
-                            selectedFamily = 'any';
-                        }
-                        loadBirdsPage(selectedFamily);
-                    });
-                }
-                else if (page === 'login.html') {
+            document.getElementById('loginIcon').classList.add('bi', 'bi-box-arrow-in-right', 'fs-3', 'me-3');
+            document.getElementById('loginLink').textContent = 'Iniciar Sesión';
+        });
+});
+
+async function isUserLoggedIn() {
+    const { data, error } = await supabase.auth.getSession();
+    let isLoggedIn = !!data.session;  // true si hay sesión, false si no
+    if (isLoggedIn) {
+        console.log("Username:", data.session.user.user_metadata.name);
+    }
+    return isLoggedIn;
+}
+
+async function getCurrentUserName() {
+    const { data, error } = await supabase.auth.getSession();
+    if (error) {
+        console.error("Error fetching user session:", error);
+        return null;
+    }
+    if (!data.session) {
+        console.log("No user is currently logged in.");
+        return null;
+    }
+    else {
+        username = data.session.user.user_metadata.name;
+        username = username.trim();
+        let firstName = username.split(' ')[0];
+        return firstName;
+    }
+}
+
+function loadPage(page) {
+    const footer_title = document.getElementById('footer-title');
+    fetch(`pages/${page}`)
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("content").innerHTML = data;
+
+            if (page === 'map.html') {
+                initializeMap();
+                footer_title.textContent = "Ring & Release - Mapa Interactivo";
+                const addBirdBtn = document.getElementById('add-bird-btn');
+                addBirdBtn.addEventListener('click', function() {
+                    startAddingBird();
+                });
+            }
+            else if (page === 'birds.html') {
+                loadBirdsPage('any');
+                footer_title.textContent = "Ring & Release - Biblioteca de Aves";
+                const filterSelector = document.getElementById('speciesFamilyFilter');
+                filterSelector.addEventListener('change', function() {
+                    selectedFamily = this.value;
+                    console.log("Selected family:", selectedFamily);
+                    if (selectedFamily === 'todas') {
+                        selectedFamily = 'any';
+                    }
+                    loadBirdsPage(selectedFamily);
+                });
+            }
+            else if (page === 'login.html') {
+                isUserLoggedIn().then(loggedIn => {
                     footer_title.textContent = "Ring & Release - Iniciar Sesión";
 
                     const registerForm = document.querySelector('#registerForm');
@@ -593,11 +639,42 @@ document.addEventListener('DOMContentLoaded', function() {
                             registerUser(nameInputRegister.value, emailInputRegister.value, passwordInputRegister.value);
                         }
                     });
-                }
-                else if (page === 'home.html') {
-                    footer_title.textContent = "Ring & Release - Inicio";
-                }
-                
-            });
+                });
+            }
+            else if (page === 'home.html') {
+                footer_title.textContent = "Ring & Release - Inicio";
+                isUserLoggedIn().then(loggedIn => {
+                    const homeTitle = document.getElementById('homeTitle');
+                    getCurrentUserName().then(username => {
+                        if (loggedIn) {
+                            homeTitle.textContent = `¡Bienvenid@ a Ring & Release, ${username}!`;
+                        } else {
+                            homeTitle.textContent = '¡Bienvenid@ a Ring & Release!';
+                        }
+                    });
+                });
+            }
+            
+        });
+}
+
+supabase.auth.onAuthStateChange(async (event, session) => {
+    toggleActiveLink(document.querySelector('#sidebar a[data-page="home.html"]'));
+    loadPage('home.html');
+    if (event === 'SIGNED_IN') {
+        document.getElementById('loginIcon').classList.remove('bi-box-arrow-in-right');
+        document.getElementById('loginIcon').classList.add('bi-box-arrow-right');
+        document.getElementById('loginLink').textContent = 'Cerrar Sesión';
+    } else if (event === 'SIGNED_OUT') {
+        document.getElementById('loginIcon').classList.remove('bi-box-arrow-right');
+        document.getElementById('loginIcon').classList.add('bi-box-arrow-in-right');
+        document.getElementById('loginLink').textContent = 'Iniciar Sesión';
+        if(!document.getElementById('loggedOutModal')) {
+            const response = await fetch('dialogs/loggedOutDialog.html');
+            const modalHTML = await response.text();
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
+        }
+        const loggedOutModal = new bootstrap.Modal(document.getElementById('loggedOutModal'));
+        loggedOutModal.show();
     }
 });
