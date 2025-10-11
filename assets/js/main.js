@@ -82,46 +82,31 @@ async function loginUser(email, password) {
     return data;
 }
 
-async function insertRinging(
-    birdSciName,
-    email,
-    ringNumber,
-    date,
-    location,
-    weight,
-    maxWingspan,
-    thirdPrimary,
-    tail,
-    tarsus,
-    beak,
-    underskinFat,
-    broodPatch,
-    sex,
-    age,
-    notes,
-    ringed,
-    origin
-) {
+async function insertRinging(ringing_data) {
+    // Obtener la sesión actual
+    const { data: sessionData , error: sessionError } = await supabase.auth.getSession();
+    let isLoggedIn = !!sessionData.session;  // true si hay sesión, false si no
+    const email = isLoggedIn ? sessionData.session.user.user_metadata.email : "undefined";
+    console.log(email)
+    
     // Obtener user_id desde email
     const { data: userData, error: userError } = await supabase
         .from('usuario')
-        .select('user_id')
+        .select('id')
         .eq('email', email);
-
-    if (userError) throw userError;
-    if (!userData || userData.length === 0)
-        throw new Error("User with the provided email does not exist");
-
-    const user_id = userData[0].user_id;
+    const user_id = userData[0].UID;
 
     // Obtener siguiente ringing_id
     const { data: ringings, error: ringingsError } = await supabase
         .from('anillamiento')
-        .select('ringing_id');
+        .select('ring');
 
     if (ringingsError) throw ringingsError;
 
     const ringing_id = `R${ringings.length + 1}`;
+
+    console.log(ringing_data)
+    const birdSciName = ringing_data.sciName;
 
     // Obtener bird_id desde birdSciName
     const { data: birdData, error: birdError } = await supabase
@@ -138,25 +123,25 @@ async function insertRinging(
     const { data, error } = await supabase
         .from('anillamiento')
         .insert({
-        ringing_id,
-        ring_number: ringNumber,
-        date,
-        location,
-        weight,
-        max_wingspan: maxWingspan,
-        third_primary: thirdPrimary,
-        tail,
-        tarsus,
-        beak,
-        underskin_fat: underskinFat,
-        brood_patch: broodPatch,
-        sex,
-        age,
-        notes,
-        ringed,
-        origin,
-        bird_id,
-        user_id
+        ring: ringing_id,
+        location: ringing_data.location,
+        weight: ringing_data.weight,
+        tail: ringing_data.tail || null,
+        tarsus: ringing_data.tarsus || null,
+        beak: ringing_data.beak || null,
+        muscle: ringing_data.muscle,
+        sex: ringing_data.sex,
+        age: ringing_data.age,
+        station: ringing_data.station,
+        notes: ringing_data.notes || null,
+        bird_id: bird_id,
+        ringNumber: ringing_data.ringNumber,
+        maxWingspan: ringing_data.maxWingspan,
+        thirdPrimary: ringing_data.thirdPrimary,
+        underskinFat: ringing_data.underskinFat,
+        broodPatch: ringing_data.broodPatch || null,
+        ringingDate: ringing_data.ringingDate,
+        user_id: user_id,
         });
 
     if (error) throw error;
@@ -337,10 +322,25 @@ async function showAddBirdDialog(latlng) {
         }
     });
 
-    document.getElementById('acceptAddBird').addEventListener('click', function() {
-        // Show alert for now
-        alert('La funcionalidad de guardado se implementará próximamente');
+    document.getElementById('acceptAddBird').addEventListener('click', function(e) {
+        e.preventDefault();
+        if (!addBirdForm.checkValidity()) {
+            // Si hay campos requeridos vacíos, muestra los mensajes nativos
+            addBirdForm.reportValidity();
+            return;
+        }
+        // Obtén el formulario
+        const form = document.getElementById('addBirdForm');
+
+        // Crea un objeto con todas las respuestas
+        const data = Object.fromEntries(new FormData(form));
+        data.location = latlng.lat + "," + latlng.lng;
+        const today = new Date();
+        const formattedDate = `${today.getDate()}-${today.getMonth() + 1}-${today.getFullYear()}`;
+        data.ringingDate = formattedDate
+        data.sciName = document.getElementById('sciName').innerText;
         addBirdModal.hide();
+        insertRinging(data)
     });    
 
     document.getElementById('species').addEventListener('input', function() {
@@ -366,6 +366,19 @@ async function showAddBirdDialog(latlng) {
             });
             suggestions.appendChild(item);
         });
+    });
+
+    document.getElementById('btnExtraInfoBirds').addEventListener('click', function(event){
+        event.preventDefault();
+        container = document.getElementById('divExtraInfoBirds');
+        if(container.classList.contains("d-none")){
+            container.classList.remove("d-none");
+            document.getElementById("btnExtraInfoBirds").innerText = "Esconder métricas adicionales"
+        }
+        else{
+            container.classList.add("d-none");
+            document.getElementById("btnExtraInfoBirds").innerText = "Mostrar métricas adicionales"
+        }
     });
 }
 
