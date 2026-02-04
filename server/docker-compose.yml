@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:17
+    restart: always
+    environment:
+      POSTGRES_USER: dboperator
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: aves_db
+      POSTGRES_HOST_AUTH_METHOD: trust 
+    ports:
+      - "5440:5432"
+    volumes:
+      - pg_aves_data:/var/lib/postgresql/data
+
+volumes:
+  pg_aves_data:

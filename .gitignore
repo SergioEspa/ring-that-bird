@@ -1,2 +1,37 @@
-**/.env
-backend/obtain_descriptions.py
+# ---------------------------------
+# 1. DEPENDENCIAS Y SISTEMA
+# ---------------------------------
+node_modules/
+*/node_modules/
+.DS_Store
+Thumbs.db
+
+# ---------------------------------
+# 2. SEGURIDAD (¡MUY IMPORTANTE!)
+# ---------------------------------
+# Ignora el archivo de claves en el servidor
+server/.env
+.env
+*/.env
+
+# ---------------------------------
+# 3. BASE DE DATOS DOCKER
+# ---------------------------------
+# Ignoramos los volúmenes de datos para no subir la DB a internet
+pg_aves_data/
+data/
+server/pg_aves_data/
+server/data/
+
+# ---------------------------------
+# 4. ARCHIVOS GENERADOS / SUBIDOS
+# ---------------------------------
+# Si aquí guardas las fotos que sube el usuario, ignóralo.
+# Si son iconos fijos de la web, bórra esta línea.
+server/bird_images/
+
+# ---------------------------------
+# 5. IDEs (Opcional pero recomendado)
+# ---------------------------------
+.vscode/
+*/.vscode/
