@@ -109,12 +109,12 @@ app.post('/api/ringings', async (req, res) => {
         // 1. Insertar el anillamiento
         const insertRingingText = `
             INSERT INTO anillamiento (
-                anilla_id, capture_date, capture_location, 
+                anilla_id, capture_date, capture_location,
                 bird_weight, max_wingspan, third_primary_wing, tail, tarsus, beak,
                 underskin_fat, muscle, brood_patch, 
-                sex, age, notes, is_recapture, observation, origin, user_id
+                sex, age, notes, is_recapture, observation, origin, user_id, station
             ) VALUES (
-                $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19
+                $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19, $20
             ) RETURNING id`;
 
         const ringingValues = [
@@ -122,7 +122,7 @@ app.post('/api/ringings', async (req, res) => {
             d.bird_weight || null, d.max_wingspan || null, d.third_primary_wing || null, 
             d.tail || null, d.tarsus || null, d.beak || null,
             d.underskin_fat || null, d.muscle || null, d.brood_patch || 0,
-            d.sex, d.age, d.notes, d.is_recapture || false, d.observation, d.origin, d.user_id
+            d.sex, d.age, d.notes, d.is_recapture || false, d.observation, d.origin, d.user_id, d.station
         ];
 
         const resRinging = await client.query(insertRingingText, ringingValues);
@@ -206,11 +206,18 @@ app.get('/api/ringings/user/:email', async (req, res) => {
                 a.id, 
                 a.capture_date, 
                 a.capture_location,
+                a.bird_weight,
+                a.underskin_fat,
+                a.muscle,
+                a.sex,
+                a.age,
+                a.notes,
+                a.station,
                 av.common_name, 
                 av.sci_name,
                 ai.codigo as codigo_anilla,
                 r.nombre as nombre_remitente,
-                f.image_url 
+                f.image_url
             FROM anillamiento a
             JOIN usuario u ON a.user_id = u.id
             
@@ -229,15 +236,8 @@ app.get('/api/ringings/user/:email', async (req, res) => {
         `;
             
         const result = await db.query(query, [req.params.email]);
-        
-        // Pequeño formateo de fechas para que no de problemas en el front
-        const formattedRows = result.rows.map(row => ({
-            ...row,
-            // Convertimos la fecha a string simple YYYY-MM-DD
-            capture_date: row.capture_date.toISOString().split('T')[0] 
-        }));
-
-        res.json(formattedRows);
+    
+        res.json(result.rows);
     } catch (err) {
         console.error(err);
         res.status(500).json({ error: err.message });

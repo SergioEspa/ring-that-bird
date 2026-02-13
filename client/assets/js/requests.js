@@ -53,7 +53,7 @@ export async function insertRinging(ringing_data, user) {
         capture_date: parseDate(ringing_data.ringingDate),
         capture_location: ringing_data.location,
         is_recapture: ringing_data.ringed,
-
+        station: ringing_data.station,
         bird_weight: ringing_data.weight || null,
         max_wingspan: ringing_data.maxWingspan || null,
         third_primary_wing: ringing_data.thirdPrimary|| null,
@@ -138,9 +138,13 @@ function parseDate(dateStr) {
     if (dateStr.includes('-')) {
         const parts = dateStr.split('-');
         // Si es DD-MM-YYYY lo pasamos a YYYY-MM-DD para Postgres
-        if (parts[0].length === 2 && parts[2].length === 4) {
-            return `${parts[2]}-${parts[1]}-${parts[0]}`; 
+        if(parts[0].length !== 1){
+            parts[0] = '0' + parts[0];
         }
+        if(parts[1].length !== 1){
+            parts[1] = '0' + parts[1];
+        }
+        return `${parts[2]}-${parts[1]}-${parts[0]}`; 
     }
     return dateStr;
 }

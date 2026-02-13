@@ -1,0 +1,103 @@
+<div class="modal fade" id="birdDetailModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content">
+            
+            <div class="modal-header bg-light">
+                <div>
+                    <h4 class="modal-title fw-bold" id="detail-species">Cargando...</h4>
+                    <div class="d-flex gap-2 mt-1 align-items-center">
+                        <span class="badge bg-dark font-monospace" id="detail-ring">---</span>
+                        <span class="text-muted small" id="detail-date">---</span>
+                        <span class="badge bg-warning text-dark d-none" id="detail-recapture-badge">RECAPTURA</span>
+                    </div>
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body p-0">
+                <ul class="nav nav-tabs nav-justified" id="detailTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="bio-tab" data-bs-toggle="tab" data-bs-target="#bio-pane" type="button">
+                            <i class="bi bi-rulers me-2"></i>Biometría
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="history-tab" data-bs-toggle="tab" data-bs-target="#history-pane" type="button">
+                            <i class="bi bi-clock-history me-2"></i>Historial de Vida
+                        </button>
+                    </li>
+                </ul>
+
+                <div class="tab-content p-4" id="detailTabsContent">
+                    
+                    <div class="tab-pane fade show active" id="bio-pane">
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <div class="card h-100 border-0 shadow-sm bg-light">
+                                    <div class="card-body">
+                                        <h6 class="card-subtitle mb-3 text-muted fw-bold text-uppercase">Identidad</h6>
+                                        <div class="d-flex justify-content-between mb-2 border-bottom pb-1">
+                                            <span>Sexo:</span> <span class="fw-bold" id="detail-sex">-</span>
+                                        </div>
+                                        <div class="d-flex justify-content-between mb-2 border-bottom pb-1">
+                                            <span>Edad:</span> <span class="fw-bold" id="detail-age">-</span>
+                                        </div>
+                                        <div class="d-flex justify-content-between mb-2 border-bottom pb-1">
+                                            <span>Código Anilla:</span> <span class="fw-bold font-monospace" id="detail-code">-</span>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <span>Anillador:</span> <span class="fw-bold text-primary" id="detail-ringer">-</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="card h-100 border-0 shadow-sm">
+                                    <div class="card-body">
+                                        <h6 class="card-subtitle mb-3 text-muted fw-bold text-uppercase">Medidas</h6>
+                                        <div class="row text-center">
+                                            <div class="col-4 mb-3">
+                                                <div class="display-6 fw-bold text-primary" id="detail-fat">-</div>
+                                                <small class="text-muted">Grasa</small>
+                                            </div>
+                                            <div class="col-4 mb-3">
+                                                <div class="display-6 fw-bold text-primary" id="detail-muscle">-</div>
+                                                <small class="text-muted">Músculo</small>
+                                            </div>
+                                            <div class="col-4 mb-3">
+                                                <div class="display-6 fw-bold text-dark" id="detail-weight">-</div>
+                                                <small class="text-muted">Peso (g)</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-12">
+                                <label class="fw-bold text-muted small">Observaciones</label>
+                                <div class="p-3 bg-light rounded border mt-1 fst-italic" id="detail-notes">
+                                    Sin observaciones.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="history-pane">
+                        <div class="timeline-container" id="timeline-list">
+                            </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="map-pane">
+                        <div id="mini-map-detail" style="height: 400px; width: 100%; border-radius: 8px;"></div>
+                        <p class="text-muted small mt-2 text-center" id="detail-coords">Coords: -</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-footer bg-light">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>

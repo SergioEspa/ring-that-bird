@@ -1,7 +1,8 @@
 import { logoutUser } from "./requests.js";
-import { isUserLoggedIn, setupLoginForms, updateUIAuthState } from "./auth.js";
+import { isUserLoggedIn, loadSession, performLogout, setupLoginForms, updateUIAuthState } from "./auth.js";
 import { loadBirdsPage, loadRingedBirdsPage } from "./library.js";
-import { initializeMap, showFilterRingingsModal, startAddingBird } from "./map.js";
+import { initializeMap, startAddingBird } from "./map.js";
+import { initializeTable } from "./table.js";
 
 let aves = [];
 let descripciones = {};
@@ -34,7 +35,11 @@ function loadPage(page) {
                 initializeMap(aves);
                 header_title.textContent = "Ring & Release - Mapa Interactivo";
                 document.getElementById('add-bird-btn').addEventListener('click', startAddingBird);
-                document.getElementById('filter-ringings-map').addEventListener('click', showFilterRingingsModal)
+            }
+            else if (page === 'table.html') { // <--- NUEVO BLOQUE
+                header_title.textContent = "Ring & Release - Cuaderno de Campo";
+                // Pasamos currentUser para que sepa qué datos cargar
+                initializeTable(loadSession(), aves);
             }
             else if (page === 'birds.html') {
                 loadBirdsPage('any', aves, descripciones);
@@ -55,18 +60,12 @@ function loadPage(page) {
             }
             else if (page === 'login.html') {
                 header_title.textContent = "Ring & Release - Iniciar Sesión";
-                if(isUserLoggedIn()){
-                    currentUser = logoutUser();
+                setupLoginForms(() => {
+                    loadPage('home.html');
+                    const homeLink = document.querySelector('#sidebar a[data-page="home.html"]');
+                    toggleActiveLink(homeLink);
                     updateUIAuthState();
-                }
-                else{
-                    setupLoginForms(() => {
-                        loadPage('home.html');
-                        const homeLink = document.querySelector('#sidebar a[data-page="home.html"]');
-                        toggleActiveLink(homeLink);
-                        updateUIAuthState();
-                    });
-                }
+                });
             }
             else if (page === 'home.html') {
                 header_title.textContent = "Ring & Release - Inicio";
@@ -109,7 +108,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                     
                     if (page === 'login.html') {
                         if(isUserLoggedIn()){
-                            currentUser = logoutUser(); // Si ya está logueado, el click hace Logout
+                            performLogout();
                             loadPage('home.html');
                             toggleActiveLink(home_link);
                         }

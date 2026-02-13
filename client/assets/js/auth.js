@@ -30,7 +30,7 @@ export function saveSession(user) {
 
 export function performLogout(){
     currentUser = null;
-    localStorage.removeItem(SESSION_KEY);
+    localStorage.removeItem('ringing_session');
 }
 
 export function isUserLoggedIn() {

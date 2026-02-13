@@ -1,5 +1,7 @@
 require('dotenv').config();
-const { Pool } = require('pg');
+const { Pool, types } = require('pg');
+
+types.setTypeParser(1082, (val) => val);
 
 console.log("🔌 DEBUG CONEXIÓN:", {
     host: process.env.DB_HOST,

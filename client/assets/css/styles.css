@@ -94,6 +94,14 @@
     background-color: var(--bg-primary-bright);
 }
 
+#applyFiltersBtn {
+    background-color: var(--bg-primary-bright);
+}
+
+#applyFiltersBtn:hover {
+    background-color: var(--bg-primary);
+}
+
 .view-details-btn {
     background-color: var(--bg-primary-bright);
 }
@@ -155,7 +163,7 @@
 }
 
 .card:hover {
-    transform: scale(1.03);
+    transform: scale(1.01);
     transition: transform 0.2s;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
@@ -176,4 +184,107 @@
 
 .btn-special:hover {
     background-color: #b8ad4b;
+}
+
+/* Cuando añadimos la clase 'expanded' con JS */
+#expandable-filter.expanded {
+    width: 320px !important; /* Crece */
+    height: auto !important; /* Se adapta al contenido */
+    border-radius: 1rem !important;
+}
+
+#expandable-filter.expanded .filter-options {
+    opacity: 1 !important; /* Aparece el contenido */
+    transition: opacity 0.3s ease 0.1s; /* Retardo pequeño */
+}
+
+/* --- Personalización de noUiSlider --- */
+
+/* 1. La barra de fondo (carril) */
+.noUi-target {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: #e9ecef !important; /* Gris suave */
+    border-radius: 10px;
+}
+
+.noUi-horizontal {
+    height: 6px !important; /* Altura del carril */
+    margin: 15px 10px;      /* Espacio lateral para que el botón no se corte al llegar al borde */
+}
+
+/* 2. La zona seleccionada (el rango entre los dos botones) */
+.noUi-connect {
+    background: #00b386 !important; /* He puesto el amarillo/naranja de tu botón de filtro */
+}
+
+/* 3. Los botones (Handles) */
+.noUi-horizontal .noUi-handle {
+    width: 18px !important;
+    height: 18px !important;
+    right: -9px !important; /* Mitad del ancho para que el centro coincida con el extremo del valor */
+    top: -6px !important;   /* Centrado vertical */
+    border-radius: 50% !important;
+    background: #fff !important;
+    border: 2px solid #00b386 !important; /* Borde a juego con el conector */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3) !important;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+/* Efecto al tocar el botón */
+.noUi-handle:active {
+    transform: scale(1.2); /* Crece un poquito al arrastrarlo */
+}
+
+/* 4. Eliminar las marcas/rayitas por defecto de la librería */
+.noUi-handle::before, 
+.noUi-handle::after {
+    display: none !important;
+}
+
+/* Quitar el recuadro azul de enfoque que pone el navegador */
+.noUi-handle:focus {
+    outline: none !important;
+}
+
+/* 1. Cuando está marcada (Checked) */
+#otherUserRingings:checked {
+    background-color: #00b386 !important;
+    border-color: #00b386 !important;
+}
+
+/* 2. Cuando le haces click (Focus) - El anillo de brillo */
+#otherUserRingings:focus {
+    border-color: #00b386 !important;
+    box-shadow: 0 0 0 0.25rem rgba(7, 255, 160, 0.25) !important; /* Brillo naranja semitransparente */
+}
+
+.timeline-item { 
+    position: relative; 
+    padding-left: 2rem; 
+    padding-bottom: 2rem; 
+    border-left: 2px solid #e9ecef; 
+}
+
+.timeline-item:last-child { 
+    border-left: 0; 
+}
+
+.timeline-dot { 
+    position: absolute; 
+    left: -9px; 
+    top: 0; 
+    width: 16px; 
+    height: 16px; 
+    border-radius: 50%; 
+    background: #0d6efd; 
+    border: 2px solid white; 
+    box-shadow: 0 0 0 1px #0d6efd; 
+}
+
+.timeline-current .timeline-dot { 
+    background: #198754; 
+    box-shadow: 0 0 0 1px #198754; 
+    animation: pulse 2s infinite; 
 }

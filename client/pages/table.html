@@ -1,0 +1,153 @@
+<div class="container-fluid p-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="mb-0 text-dark">
+            <i class="bi bi-journal-text me-2"></i>Cuaderno de Campo
+        </h2>
+        
+        <div class="d-flex gap-2">
+            <div class="dropdown">
+                <button class="btn btn-warning shadow-sm rounded-pill px-3" type="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
+                    <i class="bi bi-funnel-fill me-2"></i> Filtrar
+                </button>
+                <div class="dropdown-menu p-3 shadow-lg rounded-4 border-0 mt-2" style="width: 320px;">
+                    <div class="mb-2">
+                        <label class="form-label small fw-bold text-muted">Especie</label>
+                        <div class="input-group input-group-sm">
+                            <span class="input-group-text bg-light border-end-0"><i class="bi bi-search"></i></span>
+                            <input type="text" id="table-filterSpecies" class="form-control border-start-0" placeholder="Ej: Curruca...">
+                            <div id="suggestions" 
+                                class="list-group position-absolute start-0 w-100 shadow-sm" 
+                                style="z-index: 1050; top: 100%; max-height: 200px; overflow-y: auto; display: none;">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="form-label small fw-bold text-muted">Rango de fechas</label>
+                        <div class="input-group input-group-sm">
+                            <span class="input-group-text bg-light border-end-0"><i class="bi bi-calendar-range"></i></span>
+                            <input type="text" id="table-filterDateRange" class="form-control bg-white border-start-0" placeholder="Seleccionar periodo..." readonly>
+                        </div>
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="form-label small fw-bold text-muted">Estación</label>
+                        <div class="input-group input-group-sm">
+                            <span class="input-group-text bg-light border-end-0"><i class="bi bi-house"></i></span>
+                            <input type="text" id="table-filterStations" class="form-control border-start-0" placeholder="Ej: RIRI...">
+                        </div>
+                    </div>
+
+                    <div class="mb-2">
+                        <div class="row g-2">
+                            <div class="col-6">
+                                <label class="form-label small fw-bold text-muted">Sexo</label>
+                                <div class="btn-group w-100" role="group">
+                                    <input type="checkbox" class="btn-check" id="table-macho"> <label class="btn btn-outline-primary btn-sm" for="table-macho"><i class="bi bi-gender-male"></i></label>
+                                    <input type="checkbox" class="btn-check" id="table-hembra"> <label class="btn btn-outline-danger btn-sm" for="table-hembra"><i class="bi bi-gender-female"></i></label>
+                                    <input type="checkbox" class="btn-check" id="table-desconocido"> <label class="btn btn-outline-secondary btn-sm" for="table-desconocido">?</label>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <label class="form-label small fw-bold text-muted">Edad</label>
+                                <div class="btn-group w-100" role="group">
+                                    <input type="checkbox" class="btn-check" id="table-juvenil"> <label class="btn btn-outline-success btn-sm" for="table-juvenil">Juv</label>
+                                    <input type="checkbox" class="btn-check" id="table-adulto"> <label class="btn btn-outline-dark btn-sm" for="table-adulto">Ad</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="form-label small fw-bold text-muted">Grasa (0-9)</label>
+                        <div id="table-slider-fat" class="mb-2"></div>
+                        <div class="d-flex justify-content-between extra-small text-muted" style="font-size: 0.8rem;">
+                            <span id="table-fat-val-min">0</span><span id="table-fat-val-max">9</span>
+                        </div>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label small fw-bold text-muted">Músculo (0-3)</label>
+                        <div id="table-slider-muscle" class="mb-2"></div>
+                        <div class="d-flex justify-content-between extra-small text-muted" style="font-size: 0.8rem;">
+                            <span id="table-muscle-val-min">0</span><span id="table-muscle-val-max">3</span>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 form-check">
+                        <input class="form-check-input" type="checkbox" id="table-otherUserRingings">
+                        <label class="form-check-label small fw-bold text-muted" for="table-otherUserRingings">Ajenos</label>
+                    </div>
+
+                    <div class="d-flex gap-2">
+                        <button class="btn btn-secondary btn-sm flex-grow-1 rounded-pill border-0" id="table-clearFiltersBtn">Limpiar</button>
+                        <button class="btn btn-primary btn-sm flex-grow-1 rounded-pill border-0" id="table-applyFiltersBtn">Aplicar</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button class="btn btn-info shadow-sm rounded-pill px-3 text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-sort-down me-2"></i> Ordenar
+                </button>
+                <ul class="dropdown-menu p-2 shadow-lg rounded-4 border-0 mt-2">
+                    <li><h6 class="dropdown-header">Criterio de ordenación</h6></li>
+                    <li>
+                        <button class="dropdown-item rounded-2 active" data-sort="date_desc">
+                            <i class="bi bi-calendar-event me-2"></i>Más recientes
+                        </button>
+                    </li>
+                    <li>
+                        <button class="dropdown-item rounded-2" data-sort="date_asc">
+                            <i class="bi bi-calendar-event me-2"></i>Más antiguos
+                        </button>
+                    </li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li>
+                        <button class="dropdown-item rounded-2" data-sort="species_asc">
+                            <i class="bi bi-alphabet me-2"></i>Especie (A-Z)
+                        </button>
+                    </li>
+                    <li>
+                        <button class="dropdown-item rounded-2" data-sort="ring_asc">
+                            <i class="bi bi-123 me-2"></i>Número de anilla
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <button id="refreshTableBtn" class="btn btn-outline-secondary bg-light shadow-sm" title="Recargar datos">
+                <i class="bi bi-arrow-clockwise"></i>
+            </button>
+            <button id="exportExcelBtn" class="btn btn-success shadow-sm" title="Descargar Excel">
+                <i class="bi bi-file-earmark-excel-fill"></i>
+            </button>
+        </div>
+    </div>
+
+    <div class="card shadow-sm border-0 rounded-3 overflow-hidden">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle mb-0" id="ringingsTable">
+                    <thead class="bg-light border-bottom">
+                        <tr>
+                            <th class="ps-4 py-3 text-muted small text-uppercase fw-bold">Fecha</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold" style="width: 200px;">Especie</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold">Anilla</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold">Datos Bio</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold">Peso</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold">Estación</th>
+                            <th class="py-3 text-muted small text-uppercase fw-bold">Recapturado</th>
+                            <th class="text-end pe-4 py-3 text-muted small text-uppercase fw-bold">Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-flex justify-content-between align-items-center mt-3 ps-1">
+        <div class="text-muted small" id="recordCount">Cargando...</div>
+    </div>
+</div>

@@ -99,6 +99,10 @@ INSERT INTO public.remitente (nombre, descripcion) VALUES
 ('SEO-MADRID', 'Sociedad Española de Ornitología (Remite histórico)'),
 ('EXTRANJERA', 'Anilla de una oficina fuera de España (EURING)')
 ON CONFLICT (nombre) DO NOTHING;
+
+
+ALTER TABLE anillamiento 
+ADD COLUMN station VARCHAR(100);
 `;
 
 async function createTables() {
